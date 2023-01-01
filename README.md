@@ -77,8 +77,8 @@ Spla3 API is a little different from Spla2 API. There are two ways to access it.
 One is fetching data through the NSO App, the other is fetching data through the widget (different user-agent).<br>
 
 ## What are needed
-- Web service token from Step7
-- Bullet token from Step8
+- `web service token` from Step7
+- `bullet token` from Step8
 
 ## Methods
 
@@ -87,16 +87,16 @@ You can get all the data with this type of request. What are needed is `web serv
 `bullet token` from Step8.<br>
 Set the `bullet token` as `authorization` and `web service token` as `cookie`, also set a hash code in the json body, 
 you can get the corresponding response.<br>
-For example, hash code `c0429fd738d829445e994d3370999764` is for fetching current fes data (useCurrentFestQuery).
+For example, hash code `c0429fd738d829445e994d3370999764` is for fetching current fest data (useCurrentFestQuery).
 
 #### 2. Access in Widget
 NSO Widget is newly added for Splatoon3. You can get stage schedules (battle and salmon run), recent battle results, 
 gear you recently used and photos through the widget.<br>
 **Only `bullet token` is needed for sending this type of request**.<br>
 Set the `bullet token` as `authorization`, and also a hash code in both request header and json body, you can get the 
-corresponding response.<br>
-For example, you should set `f5131603b235edce2218e71c27ed0d35610cb78c48bb44aa88e98fb37ab08cd0` and `'VsSchedules'` in 
-both header and json body to fetch the battle stages (regular match, anarchy battle open and challenge, X match).
+corresponding response.<br><br>
+For example, you should set `f5131603b235edce2218e71c27ed0d35610cb78c48bb44aa88e98fb37ab08cd0` and `VsSchedules` in 
+both header and json body to fetch battle schedules (regular match, anarchy battle open and challenge, X match).
 
 ## Maybe helpful
 You can use [RapidAPI](https://paw.cloud/) open the NSO_API.paw file to see the specific setting of the requests.

@@ -1,4 +1,5 @@
 # Get tokens from Nintendo Switch Online App API to access Spla3 API
+Refer to [ZekeSnider/NintendoSwitchRESTAPI](https://github.com/ZekeSnider/NintendoSwitchRESTAPI).
 
 ## What is needed
 - Nintendo Account
@@ -72,6 +73,17 @@ response. To distinguish different tokens, I named this token as
 Use `login token` from Step5, send a POST request to https://api.lp1.av5ja.srv.nintendo.net/api/bullet_tokens, you can 
 get the `bullet token`. This bullet token is also needed when you send requests to Spla3 API.
 
+## Use NSO_API.py to generate tokens
+```
+$ python3 NSO_API.py
+```
+If you are the first time run this command, you will see a login url printed in the terminal. After you log into it and
+paste the redirected url in the terminal, a config file will be generated automatically. The `session token` and
+`web service token` and `bullet token` and `user language` will be saved.<br>
+When you run the command again, it will use the session token saved before and validate other 2 tokens. If the 2 tokens
+is invalid, it will generate new tokens.
+
+
 # Access Spla3 API
 Spla3 API is a little different from Spla2 API. There are two ways to access it.
 One is fetching data through the NSO App, the other is fetching data through the widget (different user-agent).<br>
@@ -86,7 +98,7 @@ One is fetching data through the NSO App, the other is fetching data through the
 You can get all the data with this type of request. What are needed is `web service token` generated in Step7 and 
 `bullet token` from Step8.<br>
 Set the `bullet token` as `authorization` and `web service token` as `cookie`, also set a hash code in the json body, 
-you can get the corresponding response.<br>
+you can get the corresponding response.<br><br>
 For example, hash code `c0429fd738d829445e994d3370999764` is for fetching current fest data (useCurrentFestQuery).
 
 #### 2. Access in Widget

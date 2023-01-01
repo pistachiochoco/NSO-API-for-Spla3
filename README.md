@@ -14,7 +14,7 @@ $ python3 NSO_API.py
 If you are the first time run this command, you will see a login url printed in the terminal. After you log into it and
 paste the redirected url in the terminal, a config file will be generated automatically. The `session token` and
 `web service token` and `bullet token` and `user language` will be saved.<br>
-When you run the command again, it will use the session token saved before and validate other 2 tokens. If the 2 tokens
+When you run the command again, it will use the `session token` saved before and validate other 2 tokens. If the 2 tokens
 is invalid, it will generate new tokens.
 
 ## Steps
@@ -111,7 +111,7 @@ both header and json body to fetch battle schedules (regular match, anarchy batt
 
 ## Maybe helpful
 #### Send requests via RapidAPI
-You can use [RapidAPI](https://paw.cloud/) open the NSO_API.paw file to see the specific setting of the requests.
+You can use [RapidAPI](https://paw.cloud/) open the Spla3_API_test.paw file to see the specific setting of the requests.
 
 #### Send requests in Python
 In `NSO_API.py`, the function `is_valid` actually sends the two types of requests using the same setting.

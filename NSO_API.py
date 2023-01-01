@@ -155,9 +155,9 @@ def get_session_token():
 	&redirect_uri=npf71b963c1b7b6d119%3A%2F%2Fauth
 	&response_type=session_token_code
 	&scope=openid+user+user.birthday+user.mii+user.screenName
-	&session_token_code_challenge=iRlgUmwqlRS1m8H9OK03qPEKgrhxAJXEsQviWXProKo
+	&session_token_code_challenge=[session_token_code_challenge]
 	&session_token_code_challenge_method=S256
-	&state=yeECTpvPrNKqkFbsZrFneNYeTZFohdWbskdloVPbUmoaWoxSSn'
+	&state=[state]'
 	and returns session token code verifier.
 	'''
 
@@ -220,7 +220,7 @@ def get_session_token():
 
 def get_login_token():
 	'''
-	Logs in to Nintendo Switch Online App and fetches login_token(accessToken) using session_token.
+	Logs into Nintendo Switch Online App and fetches login_token(accessToken) using session_token.
 	'''
 
 	# Step1: Fetches access_token and id_token from /connect/1.0.0/api/token.
@@ -270,7 +270,7 @@ def get_login_token():
 	USER_COUNTRY = user_country
 
 
-	# Step3: Login to Nintendo Switch Online App and gets accessToken(gToken)
+	# Step3: Log into Nintendo Switch Online App and gets accessToken(gToken)
 	url = 'https://api-lp1.znc.srv.nintendo.net/v3/Account/Login'
 	header = {
 		'User-Agent': f'Coral/{NSO_APP_VERSION} (com.nintendo.znca; iOS 15.6.0)',
@@ -486,4 +486,3 @@ if __name__ == '__main__':
 	print(f"Web service token(gtoken): {WEB_SERVICE_TOKEN}")
 	print(f"Bullet token: {BULLET_TOKEN}")
 	sys.exit(0)
-

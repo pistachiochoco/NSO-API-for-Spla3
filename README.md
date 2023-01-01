@@ -11,9 +11,8 @@
 When you log in to your Nintendo Account on Nintendo Switch Online App, you will see this page. The url is like:
 `https://accounts.nintendo.com/connect/1.0.0/authorize?client_id=71b963c1b7b6d119&interacted=1
 &redirect_uri=npf71b963c1b7b6d119://auth&response_type=session_token_code
-&scope=openid+user+user.birthday+user.mii+user.screenName
-&session_token_code_challenge=[session_token_code_challenge]&session_token_code_challenge_method=S256
-&state=[state]`.<br>
+&scope=openid+user+user.birthday+user.mii+user.screenName&session_token_code_challenge=[session_token_code_challenge]
+&session_token_code_challenge_method=S256&state=[state]`.<br>
 This link contains many parameters.
 - Generated every time:
   - session_token_code_challenge

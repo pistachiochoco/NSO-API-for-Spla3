@@ -7,6 +7,16 @@ Refer to [ZekeSnider/NintendoSwitchRESTAPI](https://github.com/ZekeSnider/Ninten
 ## Environment
 - Python 3.8 or above
 
+## Usage
+```
+$ python3 NSO_API.py
+```
+If you are the first time run this command, you will see a login url printed in the terminal. After you log into it and
+paste the redirected url in the terminal, a config file will be generated automatically. The `session token` and
+`web service token` and `bullet token` and `user language` will be saved.<br>
+When you run the command again, it will use the session token saved before and validate other 2 tokens. If the 2 tokens
+is invalid, it will generate new tokens.
+
 ## Steps
 #### 1. Generate a login URL.
 When you log in to your Nintendo Account on Nintendo Switch Online App, you will see this page. The url is like:
@@ -73,17 +83,6 @@ response. To distinguish different tokens, I named this token as
 Use `login token` from Step5, send a POST request to https://api.lp1.av5ja.srv.nintendo.net/api/bullet_tokens, you can 
 get the `bullet token`. This bullet token is also needed when you send requests to Spla3 API.
 
-## Use NSO_API.py to generate tokens
-```
-$ python3 NSO_API.py
-```
-If you are the first time run this command, you will see a login url printed in the terminal. After you log into it and
-paste the redirected url in the terminal, a config file will be generated automatically. The `session token` and
-`web service token` and `bullet token` and `user language` will be saved.<br>
-When you run the command again, it will use the session token saved before and validate other 2 tokens. If the 2 tokens
-is invalid, it will generate new tokens.
-
-
 # Access Spla3 API
 Spla3 API is a little different from Spla2 API. There are two ways to access it.
 One is fetching data through the NSO App, the other is fetching data through the widget (different user-agent).<br>
@@ -111,4 +110,8 @@ For example, you should set `f5131603b235edce2218e71c27ed0d35610cb78c48bb44aa88e
 both header and json body to fetch battle schedules (regular match, anarchy battle open and challenge, X match).
 
 ## Maybe helpful
+#### Send requests via RapidAPI
 You can use [RapidAPI](https://paw.cloud/) open the NSO_API.paw file to see the specific setting of the requests.
+
+#### Send requests in Python
+In `NSO_API.py`, the function `is_valid` actually sends the two types of requests using the same setting.

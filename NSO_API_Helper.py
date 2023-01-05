@@ -39,7 +39,7 @@ def load_tokens():
 
 def get_main_js_file(web_service_token):
     '''
-    Uses web service token(gtoken) to fetch main.js file for getting the queries' names and corresponding hashed codes.
+    Uses web service token(gtoken) to fetch main.js file for getting the queries' names and corresponding hash ids.
     '''
 
     cookie = {
@@ -74,7 +74,7 @@ def get_main_js_file(web_service_token):
 
 def get_query_data(file_name):
     '''
-    Fetches all query-id pairs and saves them locally for access Spla3 API.
+    Fetches all query-id pairs and saves them locally for accessing Spla3 API.
     '''
 
     main_js_file = open(os.path.join(data_path, file_name), "r")

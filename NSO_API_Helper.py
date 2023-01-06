@@ -26,6 +26,7 @@ except(FileExistsError):
 def load_tokens():
     config_path = os.path.join(self_path, "config.txt")
     try:
+        print("Loading tokens...")
         config_file = open(config_path, "r")
         config_data = json.load(config_file)
         config_file.close()
@@ -68,7 +69,7 @@ def get_main_js_file(web_service_token):
         main_js_file.seek(0)
         main_js_file.write(main_js_response.text)
         main_js_file.close()
-        print(f"{file_name} file created.")
+        print(f"{file_name} file is created.")
     return file_name
 
 
@@ -88,20 +89,32 @@ def get_query_data(file_name):
     # query = {m[1]: Query(m[1], m[0], m[2]) for m in match}
     query_name_id = {m[1]: m[0] for m in match}
     # query_name_operation = {m[1]: m[2] for m in match}
+    query_data = {m[1]: {"id": m[0], "type": m[2]} for m in match}
 
-    query_data_path = os.path.join(data_path, "query_hashmap.json")
-    try:
-        query_data_file = open(query_data_path, "r")
-        query_data_file.close()
-        print("query_hashmap.json file exists.")
-    except (IOError, ValueError):
-        query_data_file = open(query_data_path, "w")
-        query_data_file.seek(0)
-        query_data_file.write(json.dumps(query_name_id, indent=4, separators=(',', ': ')))
-        query_data_file.close()
-        print("query_hashmap.json file created.")
+    save_data(query_name_id, "query_id_data.json", data_path)
+    save_data(query_data, "query_data.json", data_path)
 
     return
+
+def save_data(data, name, path):
+    '''
+    A helper function for saving data locally.
+    '''
+
+    save_path = os.path.join(path, name)
+    try:
+        data_file = open(save_path, "r")
+        data_file.close()
+        print(f"{name} file exists.")
+    except (IOError, ValueError):
+        data_file = open(save_path, "w")
+        data_file.seek(0)
+        data_file.write(json.dumps(data, indent=4, separators=(',', ': ')))
+        data_file.close()
+        print(f"{name} file is created.")
+    return
+
+
 
 def get_webview_ver(file_name):
     '''
@@ -112,6 +125,7 @@ def get_webview_ver(file_name):
 if __name__ == '__main__':
     web_service_token = load_tokens()
     file_name = get_main_js_file(web_service_token)
+    # file_name = "main.ef47d560.js"
     get_query_data(file_name)
     # get_webview_ver()
 

@@ -41,6 +41,7 @@ def load_tokens():
 def get_main_js_file(web_service_token):
     '''
     Uses web service token(gtoken) to fetch main.js file for getting the queries' names and corresponding hash ids.
+    It seems even token expires the request can still get a 200 response.
     '''
 
     cookie = {
@@ -96,6 +97,26 @@ def get_query_data(file_name):
 
     return
 
+
+def get_web_view_ver(file_name):
+    '''
+    Fetches web view version from main.js file.
+    '''
+    main_js_file = open(os.path.join(data_path, file_name), "r")
+    content = main_js_file.read()
+    main_js_file.close()
+
+    pattern = r"IX=\"(?P<ver2>[0-9a-z]{40})\"..void 0[\S]*\"revision_info_not_set\"\}`...=`(?P<ver1>\d+\.\d+\.\d+)"
+
+    match = re.search(pattern, content)
+    ver1 = match.group("ver1")
+    ver2 = match.group("ver2")
+    verison = {"web_view_ver": f"{ver1}-{ver2[0:8]}"}
+
+    save_data(verison, "web_view_ver.json", data_path)
+    return verison["web_view_ver"]
+
+
 def save_data(data, name, path):
     '''
     A helper function for saving data locally.
@@ -115,18 +136,11 @@ def save_data(data, name, path):
     return
 
 
-
-def get_webview_ver(file_name):
-    '''
-    TODO: Fetches web view version from main.js file.
-    '''
-
-
 if __name__ == '__main__':
     web_service_token = load_tokens()
     file_name = get_main_js_file(web_service_token)
     # file_name = "main.ef47d560.js"
     get_query_data(file_name)
-    # get_webview_ver()
+    get_web_view_ver(file_name)
 
     sys.exit(0)

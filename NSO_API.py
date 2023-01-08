@@ -59,8 +59,9 @@ def get_nsoapp_version():
 
 def get_web_view_ver(gtoken=""):
     '''
-    TODO
     Fetches the web view version and sets it globally.
+    Implemented in NSO_API_Helper.py.
+    TODO: いい感じに組み合わせる.
     '''
     return "2.0.0-bd36a652"
 

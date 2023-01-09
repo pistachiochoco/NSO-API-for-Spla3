@@ -18,6 +18,7 @@ When you run the command again, it will use the `session token` saved before and
 is invalid, it will generate new tokens.
 
 ## Steps
+[Here](https://raw.githubusercontent.com/pistachiochoco/NSOAPIforSpla3/main/NSO_Login_Diagram.svg) is the diagram of login process.
 #### 1. Generate a login URL.
 When you log in to your Nintendo Account on Nintendo Switch Online App, you will see this page. The url is like:
 `https://accounts.nintendo.com/connect/1.0.0/authorize?client_id=71b963c1b7b6d119&interacted=1

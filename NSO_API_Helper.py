@@ -117,6 +117,26 @@ def get_web_view_ver(file_name):
     return verison["web_view_ver"]
 
 
+def get_language_code(file_name):
+    '''
+    Fetches all available language-country codes.
+    '''
+
+    main_js_file = open(os.path.join(data_path, file_name), "r")
+    content = main_js_file.read()
+    main_js_file.close()
+
+    pattern = r"\"(?P<lang>[a-z]{2})-(?P<country>[A-Z]{2})\".e=>e.toLocaleTimeString"
+    # pattern2 = r"\"(?P<lang>[a-z]{2})-(?P<country>[A-Z]{2})\".\([\S]*\)=>\{let"
+
+    match = re.findall(pattern, content)
+    data = {
+        "language_code": [m[0] for m in match],
+        "lang_country_code": [f"{m[0]}-{m[1]}" for m in match]
+    }
+    save_data(data, "language_code.json", data_path)
+    return
+
 def save_data(data, name, path):
     '''
     A helper function for saving data locally.
@@ -142,5 +162,6 @@ if __name__ == '__main__':
     # file_name = "main.ef47d560.js"
     get_query_data(file_name)
     get_web_view_ver(file_name)
+    get_language_code(file_name)
 
     sys.exit(0)

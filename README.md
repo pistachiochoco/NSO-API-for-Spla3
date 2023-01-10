@@ -122,6 +122,6 @@ like.
 
 #### Available Requests
 [Here(`./Data/query_id_data.json`)](https://github.com/pistachiochoco/NSOAPIforSpla3/blob/main/Data/query_id_data.json)
-I saved all query-id pairs under the current web view version. Note than some queries need specific id in other response to
-fetch data. For example, if you want to the detailed result of 1 game, you need the id of that game for fetching the 
-result.
+I saved all query-id pairs under the current web view version. Note than some queries need specific id inside other
+response to fetch data. For example, if you want fetch to the detailed result of one game, you need the id of that game
+for fetching the result.

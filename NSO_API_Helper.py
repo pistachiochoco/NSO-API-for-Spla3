@@ -18,6 +18,9 @@ class Query:
 SPLA3_API_URL = NSO_API.SPLA3_API_URL
 self_path = os.path.dirname(__file__)
 data_path = os.path.join(self_path + '/Data')
+# FILE_NAME = "main.ef47d560.js"
+FILE_NAME = ""
+
 try:
     os.mkdir(data_path)
 except(FileExistsError):
@@ -59,7 +62,9 @@ def get_main_js_file(web_service_token):
     main_js_url = SPLA3_API_URL + main_js.attrs["src"]
     main_js_response = requests.get(main_js_url, cookies=cookie)
 
+    global FILE_NAME
     file_name = main_js.attrs["src"][main_js.attrs["src"].find("main"):]
+    FILE_NAME = file_name
     main_js_path = os.path.join(data_path, file_name)
     try:
         main_js_file = open(main_js_path, "r")
@@ -78,7 +83,6 @@ def get_query_data(file_name):
     '''
     Fetches all query-id pairs and saves them locally for accessing Spla3 API.
     '''
-
     main_js_file = open(os.path.join(data_path, file_name), "r")
     content = main_js_file.read()
     main_js_file.close()
@@ -150,7 +154,7 @@ def save_data(data, name, path):
     except (IOError, ValueError):
         data_file = open(save_path, "w")
         data_file.seek(0)
-        data_file.write(json.dumps(data, indent=4, separators=(',', ': ')))
+        data_file.write(json.dumps(data, indent=4, separators=(',', ': '), ensure_ascii=False))
         data_file.close()
         print(f"{name} file is created.")
     return
@@ -158,10 +162,9 @@ def save_data(data, name, path):
 
 if __name__ == '__main__':
     web_service_token = load_tokens()
-    file_name = get_main_js_file(web_service_token)
-    # file_name = "main.ef47d560.js"
-    get_query_data(file_name)
-    get_web_view_ver(file_name)
-    get_language_code(file_name)
+    get_main_js_file(web_service_token)
+    get_query_data(FILE_NAME)
+    get_web_view_ver(FILE_NAME)
+    get_language_code(FILE_NAME)
 
     sys.exit(0)

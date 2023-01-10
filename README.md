@@ -115,4 +115,13 @@ both header and json body to fetch battle schedules (regular match, anarchy batt
 You can use [RapidAPI](https://paw.cloud/) open the Spla3_API_test.paw file to see the specific setting of the requests.
 
 #### Send requests in Python
-In `NSO_API.py`, the function `is_valid` actually sends the two types of requests using the same setting.
+In `NSO_API.py`, the function `is_valid` actually sends the two types of requests using the same setting.<br>
+In `Spla3_API_Helper.py`, it will load tokens and send all availale requests to Spla3 API and save the response
+locally. You can change the global variable `USER_LANGUAGE` to any language code in `./Data/language_code.json` as you
+like.
+
+#### Available Requests
+[Here(`./Data/query_id_data.json`)](https://github.com/pistachiochoco/NSOAPIforSpla3/blob/main/Data/query_id_data.json)
+I saved all query-id pairs under the current web view version. Note than some queries need specific id in other response to
+fetch data. For example, if you want to the detailed result of 1 game, you need the id of that game for fetching the 
+result.

@@ -1,0 +1,162 @@
+{
+    "data": {
+        "festRecords": {
+            "nodes": [
+                {
+                    "id": "RmVzdC1KUDpKVUVBLTAwMDAz",
+                    "state": "CLOSED",
+                    "startTime": "2023-01-07T00:00:00Z",
+                    "endTime": "2023-01-09T00:00:00Z",
+                    "title": "好みの味は？",
+                    "lang": "JPja",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-taste/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=CiJ-EjwPdj-XqmEFX7aPrxfEwRs0aVCFmJDFMt~uQNNI2rlkelBR23G92CKCAMXrHFN4IovkbVe86j~o0I5RwkgOSehVyicAtlyEfJhx8ItLs~imlNnxu05tHLamfOKHrt8-Q~zDufnan0pPKEUw5eOI0mPUX95m1uCB327~X0aPI9vFGyBZLr9ICc19Ap8qvIGMmdXVoufJYpkJEWeSEX~LDjRZ0t45eH5F0CTCajdZlY2vaJQNSfVugBWp01zbPMOzGyg2LlxgCrA1egXEjIVth-cCkhg3ntKI7FRz9gz7AKHPTAxArWkqg8ETTj6qw4sj107vHcuPwZSI7wM2qg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "playerResult": null,
+                    "teams": [
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMzpBbHBoYQ==",
+                            "teamName": "辛い",
+                            "result": {
+                                "isWinner": false
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMzpCcmF2bw==",
+                            "teamName": "甘い",
+                            "result": {
+                                "isWinner": true
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMzpDaGFybGll",
+                            "teamName": "すっぱい",
+                            "result": {
+                                "isWinner": false
+                            }
+                        }
+                    ],
+                    "myTeam": {
+                        "teamName": "すっぱい",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-taste/c0276e2a150b4a61bcc46fca84c2aaef3bd09aa8e2e78baa4158e894c1685563_0.png?Expires=1704844800&Signature=IEH8fM39~zhnqVvJIncnyfwt23WW0rpalR7Sd4S6ldfGUYqN9lhJqlRtjxZxfnAewz87RIisriymY86pbqeDPJQHKicPGG2F1HqbGw9x2uVzCFU-E-LO4P7qfbnFRhxPmrUmWrmSurBTwF0fR~tIR3tf~6a41sMwohWwyCe0VvMkhJTubSn12bBEb1QKUA0XHpUZz4KgHnbPkBK9-3UBbvk7v9Z6hmLLX7QBYcHeUZGWY1AexPi3tzmGUnF00FYvrcOMB~OtQTY4OZB6OfXexv1WB90yU1FZVubv3u~wETaCeex-esajosJxxCZh9EQh9BVScThd~pFYYM7Y4xA23Q__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "color": {
+                            "a": 1.0,
+                            "b": 0.200000003,
+                            "g": 0.709800005,
+                            "r": 0.647059977
+                        },
+                        "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMzpDaGFybGll"
+                    }
+                },
+                {
+                    "id": "RmVzdC1KUDpKVUVBLTAwMDAy",
+                    "state": "CLOSED",
+                    "startTime": "2022-11-12T00:00:00Z",
+                    "endTime": "2022-11-14T00:00:00Z",
+                    "title": "パートナーに選ぶならどのタイプ？",
+                    "lang": "JPja",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=GD9kCU6mr8Lx-FKFZrH2DcxJKl8f49nWuyMAU3hxcTpHrNcFDUftDyYClraPM5oDc27yhmaaHjjaYUjwlU9FfkdJa7DnW0pjbOI864lZk2YRzbY5jiIiraXhuStVeROJQ733XfsUy53230gCzv8gkkEoGgXbzfvREe5m4lZsMfjwQ117IELGuN0bdSsBc3QNd0-dT~~6i9w0fGGz8HSQ7lLLKY2AupPdNZ6W4VIyIDpodKTQzIBjltrz0SCLgoNYiWuulfA38JhJTdY583OuYd3vOsmmRElBLRaQ~Urd3oUTb5nvwyJ4hme67WfFmC6jLq21n0ySbMrXhu8g7jhIzg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "playerResult": {
+                        "grade": "えいえんのくさ派"
+                    },
+                    "teams": [
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpBbHBoYQ==",
+                            "teamName": "くさ",
+                            "result": {
+                                "isWinner": false
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpCcmF2bw==",
+                            "teamName": "ほのお",
+                            "result": {
+                                "isWinner": false
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpDaGFybGll",
+                            "teamName": "みず",
+                            "result": {
+                                "isWinner": true
+                            }
+                        }
+                    ],
+                    "myTeam": {
+                        "teamName": "くさ",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/a8e4c17157cd31507a9b7f4b6267d5caa0bdee317044d55a96c5496bb42228b6_0.png?Expires=1704844800&Signature=wGFtPTbwgqiNF674Oi6VwNnMZ98m5sWLyny5WGgjHUSgFQspR92HGIqbN3SWLN5VxmAxZRIdtjLM0afJASMAIkw9HfBvzvGWGAFkhGtqIo6GawUgycOrIwAPuGlLnDWCLEdHdemt9pXGQLLWOY9JHYaintnKE~rthJztGoPw5H99~QZCLKWHdyk3RFuHGbzYCnsFENoHxP0bh1RZe~LksO1GEQoKBaUBeOGAV65MVep9OdQJqiNHV~lFW5jFFn~-1fKC7tqaOICCUbsagZylIEnq54R4fCa35TCbz8sklusiUjFwkfGyVeOLy0TmcjRvy-~uBonuD9sX9nrnchSjqQ__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "color": {
+                            "a": 1.0,
+                            "b": 0.454899997,
+                            "g": 0.662750006,
+                            "r": 0.10588
+                        },
+                        "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpBbHBoYQ=="
+                    }
+                },
+                {
+                    "id": "RmVzdC1KUDpKVUVBLTAwMDAx",
+                    "state": "CLOSED",
+                    "startTime": "2022-09-24T00:00:00Z",
+                    "endTime": "2022-09-26T00:00:00Z",
+                    "title": "無人島に持っていくなら？",
+                    "lang": "JPja",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-mujintou/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=OfeauQNjTfYvTlzMUgN4lrdPeh6HZbFtQntRttohrXjtGR10ljW~Y5oSOvCEai9MLX1KzORM5CVMZ-wZ5HWHgcqPBXxnB89B3t9S~LG8PuE2rlnG4S7czHLyaQoUPgvHK3wHNGtkUtnd8Xp71CcMISYm4~sSFm--NBR0uNLuEXWWB2R~ua8FPPasptt4N-nPtiFiWVZqsGldsiyTcH~EZPaX-hxBg5-BwTXoirAvXVUFFh8dq6ZVE0iNe460nMBO-PTTBxs5rZ29cojg8hjPCpzloTO5MvqBxcHtOrU5SNrrTLIXwzvfSJZCQl4RBY7lkIFgsezZeOw35UOJ2RBFMw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "playerResult": {
+                        "grade": "えいえんの食料派 +5"
+                    },
+                    "teams": [
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMTpBbHBoYQ==",
+                            "teamName": "道具",
+                            "result": {
+                                "isWinner": true
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMTpCcmF2bw==",
+                            "teamName": "食料",
+                            "result": {
+                                "isWinner": false
+                            }
+                        },
+                        {
+                            "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMTpDaGFybGll",
+                            "teamName": "ヒマつぶし",
+                            "result": {
+                                "isWinner": false
+                            }
+                        }
+                    ],
+                    "myTeam": {
+                        "teamName": "食料",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-mujintou/b3bb3b4aba5b1bd4a63c897dfe4d4b3676707aa6dac39222d761bfae9fb864b1_0.png?Expires=1704844800&Signature=cVZi2Gp7rATg~qPxAoOAiG5RUCVXEscqLYLeSRvOXmKDuAnyTvReL-4UJ8juPeOoD8CGuxj9JDypj5ioY1Zo5KuuHgnFx2uIh77vVZjkf5vuz5sWXfrM6tum8YCnvK9Bv4ZWRYIi1S4JXTiP~fpTAyiKItdu7qGxW0WpSlUFDIZWHI7144zVBujXt~iyFTfvz6aIOlqAFLl3wYV5bnjaevPFpONE8qzCBI~~2liWz3AGwGwxc-dvS-7k2Bil82aeghJbn7AwBxdRxMZkAU0GbgA~3W-98iwatS8rz7-az6h7-LMyvUDxe~2kLohdsrgnuBfCpZgybqPewBY~T113Yg__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "color": {
+                            "a": 1.0,
+                            "b": 0.0941176489,
+                            "g": 0.443137288,
+                            "r": 0.749019623
+                        },
+                        "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMTpCcmF2bw=="
+                    }
+                }
+            ]
+        },
+        "currentPlayer": {
+            "name": "も",
+            "userIcon": {
+                "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/3452de4ffc975de6"
+            }
+        }
+    }
+}

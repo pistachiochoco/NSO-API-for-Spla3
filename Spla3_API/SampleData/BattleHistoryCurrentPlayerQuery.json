@@ -1,0 +1,19 @@
+{
+    "data": {
+        "currentPlayer": {
+            "species": "INKLING",
+            "weapon": {
+                "specialWeapon": {
+                    "maskingImage": {
+                        "width": 100,
+                        "height": 100,
+                        "maskImageUrl": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/mask/bd327d1b64372dedefd32adb28bea62a5b6152d93aada5d9fc4f669a1955d6d4_4.png?Expires=1704844800&Signature=RbIMZlLfmH8~CYT7ypBQVr8k33-EGuaAWndHsjGFqWYeSoi-99dhj3o-emXm203vnYls-c6AaLim9PpOUCfmdUBuUBN0XqvdUi~-OoBIfoR4ZDyrgtdLmUQA17btK8Lp7UprNfhkeIXRdVHzXBE8ZYCf~acqVQFlXEuY7L0DW7yFDIKUvSmAzKmI-Z5zQW8BU326zeh~-frPj16rU-HBjTmuPYZ9QrTLEP7OJxZPKcGzJVO59Zc3i~1Eqm43oHQvAwb7xgL0bW-fq0YtI6lCzLYcQnYkf5e7JFD9OHL34Oxqo4MtKRpcc0GnisiWheSP6fUiDOqP0B4rZ~4s1frtqg__&Key-Pair-Id=KNBS2THMRC385",
+                        "overlayImageUrl": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/overlay/bd327d1b64372dedefd32adb28bea62a5b6152d93aada5d9fc4f669a1955d6d4_5.png?Expires=1704844800&Signature=eqIW3teXAL7-5992Akuijv1pgFw-xLTuIBvEKhFyGuu3Bklo0uS1A1oFF5aqJGtnjO-Gw5nFWCbyXmyOiEOu6Ktu8K5ntTZlkoQVcH9G9R~2nqtk3BTP0HXSGOBeHtWQupbbR1AJxyUIrVrMXjbJxvjj8Fz5K9fQmdVxhvetPtetRyoqwwDDOqbGYJVcBDo3SoAKke33~MGw0hpODZs19qr0lNa3LVWNHU7Zc~ic9bjYtqGw6opKjiTYnmNFaoQjL264o-o-vxW6pgTL7N~3FJzKX944UKc~6pzjkfVN~SbZBe~gOMfNX~LgzGLpmG8rcfo0ArMl0lo~O7B9vNEfMw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "id": "U3BlY2lhbFdlYXBvbi02"
+                },
+                "id": "V2VhcG9uLTcx"
+            }
+        }
+    }
+}

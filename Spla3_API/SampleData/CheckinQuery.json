@@ -1,0 +1,36 @@
+{
+    "data": {
+        "checkinHistories": [
+            {
+                "id": "Q2hlY2tpbkhpc3RvcnktVC0wNWEwMjY1Ny00OTBmLTRmMzktYTYzNy02ODE2OTkwMmU4NmM6dS1hamNhYmF0enF1c3Jva2V5cG5tbQ==",
+                "title": "Nintendo Live 2022 バンカライブ",
+                "checkinTime": "2022-10-08T03:24:51Z",
+                "reward": {
+                    "__typename": "NameplateBackgroundReward",
+                    "nameplateBackground": {
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/npl_img/74f479a7855bcc76b59926075d3974683abefb9579fdd1c1e60c6693935a90ac_0.png?Expires=1704844800&Signature=nUpdTSaMj3WPUh8lEJ-wjfD1OOAzGoSzpTltASpyQBCMjduIth2mwNJwjHCrM9Bys2M6D5YSA-2o1MopYd0b-aoR-yIkbrC6oycJW3Q4MyXvNYZaK7gKw4LnG6J6CJVnV~VoWas4Ot2GCkzTvcI7T81rCVDVCjLlw8IGEZ~-cZalC9uX8y5cr3AIwqEErMRsOLySMUE81RGnHiKXFJUrND5~kaLWnf~-meX1d~OEKfeMmwsOJk9oM5HkGxKmwDaDW3yWpEVmLOiHcisjwB5OEGZmC5Pe5bgZZuFOIF-4GdloVIBhgcZwzPrSQrq0Miu98uTM7cw9xYhViYRHrfvmCw__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "id": "TmFtZXBsYXRlQmFja2dyb3VuZC05MDI="
+                    },
+                    "id": "TmFtZXBsYXRlQmFja2dyb3VuZFJld2FyZC04"
+                }
+            },
+            {
+                "id": "Q2hlY2tpbkhpc3RvcnktVC03MGQ0YTQ0Ny02Y2NhLTQ4Y2EtYmM3Ny02NDkxN2VkYzQwNzA6dS1hamNhYmF0enF1c3Jva2V5cG5tbQ==",
+                "title": "スプラトゥーン3 発売記念",
+                "checkinTime": "2022-09-10T18:55:30Z",
+                "reward": {
+                    "__typename": "NameplateBackgroundReward",
+                    "nameplateBackground": {
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/npl_img/90203a05b75644be8fdf5e665f94a11fc6b459ad1a7fd7a444c559731d0812c1_0.png?Expires=1704844800&Signature=HeLHOCAS2AGdfuCytd-ov3qKGluQK7Pmd~7T-JrrZygxt34Hv6pZ0dd0548XqZjv4sPCcgN1I11j~lPCPikcEG0HFVbF0mDOVt3ZzqlGcOQF1KZd5IF91l2cZ5JkuEZuraiP6UwzNgcGw-VaJIv~-mCHhV~PaTyg-JzfH87G-EBgfl4KzmpvA7hV1qiqJKJ-ShWaSaxdx8TUMpt~GKnn5RrDo6fZl0qZt-8A8RtQMFLaHybJLChOSTQ2jOnikpikQqBt97g5~DarFRrIVWzBNdHcF3jxg~OriOPWsJLMY5ipmMBUCjLKRIo41~qrR97Kjl6ibxPMWwzz0tC~ogxyBw__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "id": "TmFtZXBsYXRlQmFja2dyb3VuZC05MDE="
+                    },
+                    "id": "TmFtZXBsYXRlQmFja2dyb3VuZFJld2FyZC03"
+                }
+            }
+        ]
+    }
+}

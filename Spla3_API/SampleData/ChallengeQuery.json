@@ -1,0 +1,33 @@
+{
+    "data": {
+        "challenge": {
+            "currentPaintPoint": 1076691,
+            "challengeJourneys": {
+                "nodes": [
+                    {
+                        "id": "Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE=",
+                        "name": "旅のはじまり<br />～千里の道も一塗りから～",
+                        "subName": "ジャーニー 1",
+                        "challengeCount": 10,
+                        "supportedCount": 10,
+                        "state": "SUPPORTED",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/44bb1c560249ed224bb53e9d4ffc748b0f986ce092d69ca3a2329f7a0801ac12_0.png?Expires=1704844800&Signature=je17SHxDLnMp249K~3yJGu2JbN-djHu5d0HNKhg1bh8R~PRTws9lkB8dmnxgSfs3RwdXUUGQzyjn2-v7EJhVLAtE-Qn97WaA-1l8UuwLc5UO86isesuD3~ABPYrnr2IOl4YGKypFCgOpGDHyihMwCRtrqFYFAmhPzRlH6VvrNHJSgoCHU8s-btdXuW-SPMhiTfK6jgenAMG9qLoHJo~JbTww8ITrcMlXUfwBMqPwFFQF-vWyxD04oT2EmmBV8TCo6QgVs23tJXU1hjWJ27-z-g5qq5nGu0edGE2cltYsSCMS7cDMDwQ578U9jl5AeoMbhjQ1IxxasXASVG~W9ONHjQ__&Key-Pair-Id=KNBS2THMRC385"
+                        }
+                    },
+                    {
+                        "id": "Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzI=",
+                        "name": "旅の途中<br />～どの道を塗るかより、塗った道をどう進むか～",
+                        "subName": "ジャーニー 2",
+                        "challengeCount": 10,
+                        "supportedCount": 10,
+                        "state": "SUPPORTED",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/2bff6da03581c215a54e08c95aec7509da4171b1e6a19746544bc86ca7f5c6dd_0.png?Expires=1704844800&Signature=OKH2h4ieV~iHnpnrC1Xe4h8EZAwanh~NBJJ0YSyHvx7bJjJdlX7y1iY5o5NdPxZvcl0c2Qd4XIM1MN3NxRAjnbKVjYYB3wGunphWZQpEAi5q1M20OXL0jBRFWqeitHrelGQCiMqU8bjPdtWvnnwFFNJf3gwf~F-~Wo4iUqsF9g0hJ~JSSgC5iJzbu0IAsfUZVsTpHkeo1RsSjERAn9xJtulPwhArC1Si4x9uUE7QQlf6Nl~ULU1m7X2FfJ49BGR7DeqCWIM7tkBfaIN-l7LEcyROtiOdQPFXtkbiM1iXQ0ShJj6h4bsqyqX0C-qLphu7~352YD84GzCpka13Tx9xQw__&Key-Pair-Id=KNBS2THMRC385"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

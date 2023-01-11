@@ -1,0 +1,23 @@
+{
+    "data": {
+        "vsResult": {
+            "historyGroups": {
+                "nodes": [
+                    {
+                        "historyDetails": {
+                            "nodes": [
+                                {
+                                    "id": "VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVDRU5UOjIwMjMwMTA1VDE2MjIwMl83NzkxZGU3Yi02MDM4LTRkOTUtYTVlNi1mY2RkNjBjZWJhOWE=",
+                                    "vsMode": {
+                                        "mode": "X_MATCH",
+                                        "id": "VnNNb2RlLTM="
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

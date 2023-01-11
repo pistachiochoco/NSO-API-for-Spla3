@@ -1,0 +1,609 @@
+{
+    "data": {
+        "friends": {
+            "nodes": [
+                {
+                    "id": "RnJpZW5kLWZiZDcxYTlmZGM4YWM2Y2U=",
+                    "onlineState": "ONLINE",
+                    "nickname": "Qoo ér",
+                    "playerName": "Guőbáoyòu",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/52eaf8d3e150ec24",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWRkMDIzZmYxMzNlM2NjNWY=",
+                    "onlineState": "ONLINE",
+                    "nickname": "ゆゆゆ",
+                    "playerName": "ゆゆゆー",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/54076553a2745654",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTIzNTk3ZWY3ZmE0MTM5MjY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": ">lulu<",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/34636c612c92517f",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWNjZDhhNzFiOGRiYzE4MmE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "みなと._.",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/2aa170d7eb569e2a",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWQ5MTIyYTI1YjgzNmJhMGI=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ふうかかわいーーーー",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/ef35e36ee381d457",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWQ0MDNkMjNlYzFkMGIwMDg=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "shota1120",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/f6f66e269687d2dd",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTcyMzNmNGQwMTZmYWRjMjE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ルミ/バグ*.",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/61d25504307c5916",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWJjNmIzMDUxOGMwMmJhZDU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "lil mia",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/3b32f3392d1b1643",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTMwNzVlODI0ZjU1NGMzZGE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Volerく'))ミ",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/5ba411365f1d71d8",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTBkZDcwZTU1MjMzYTM4NGY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Venomani",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/7114e8a338835bf3",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWI0OGFiNjQ2YTU3ODRjY2Q=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Everglow",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/fca2408a9d70f705",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWFiZWFlNGFhZDEzNmM3ZTU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "hho",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/50ca941a2cef7a40",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWQ2NDRiNjA1ZTBjOThjNzc=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "あーる",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/e4ab66315a64a8af",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTUzMWQwMTgyM2UwY2Q1NDg=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "υ・-・υ",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/75e9652168573437",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWRkZDIwZTY3MjJjNTk1ZGE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "☆MANA☆",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/402118af8bbe2e59",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWQxMmU5NGE3Njc4NGNlZGU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ジャーーーーーーンボ",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/2636880258e87a29",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWE2NjY1NzVlNWIwZDljNjE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "わんわん*",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/de7cd99f6f6117db",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWNkNjAxN2M2OTZkZjhiOTY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ちゃら(*'^'*)",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/6db3bd1faf78170d",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWJmZjdlZmU3ZmZhYjc0OGY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "もゃ～",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/bfe68183ca21a749",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTJiYjNkNTkzNzNhOTk4ZTQ=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "すだちみそしる",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c54dfd5d0cd7d5e7",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWYwMTU1ZGM3YTFmZDA2YTU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Reva.",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/f599b18d322022b4",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTIwMTQ0ZGQ4N2M5NTAwMjI=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "がいや",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/b6f122bd00a48c83",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLThjMDcxYjI1NDU5ZGIxMTY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "5ync",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/da0c451d3d1096b6",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTc0MDNhY2ZlNjRjMGUwYWY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ゆり",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/aa76f568301373f8",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTQ1MjEzY2JjMjlmNDMyZGY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "1437",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/6a8959ce54d9fc52",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWI5NDhiZDFmZmI1OGVhODA=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "たつた",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/62463f5b8e34f3f9",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTcwZDg5Mzc0Nzg1ZDk5OTk=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "hikalium",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/4bfe7832c1b8ef29",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTYxMGU2NDM1NjAyZTk0N2Q=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "mïľķ",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/498175ff9ef801e2",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTBiNjQ1ZjkyZTRjMDRlZDQ=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "0919!!",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/56610d54f66e1b50",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTliMjYwMmQ0ZTQ4ZTZkMjg=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Ryushi",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/4a5e065438e98ea8",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTg2ZDI4ZDJhZGZhOWE0YTU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "サスガハル°∀°",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/eb3a55600d2ac4b4",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTljOWZlNmE4ZmM3OGMwY2Q=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "chnHk006",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/785e375b6feff94b",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTdjZGY3ODYwYjJiMzVjZjE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "oribe",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/9fc93c73cb66e3c0",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWM2MGM2NzMzNTdiZTZhNmE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "tok-strm",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c93a6da003e2e207",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTVhNWMwNTRiOTY5MzA2ZWQ=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ぎん",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/a9db6a4dd7460ea8",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTkxNDllN2VjM2UwNGZlZWI=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "ぐった",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/a31801bbe8428e17",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWMxNGZlZTM4ODg0OTcwN2Q=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Cao",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/578373c481fe480a",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLTFlNDlkMmM1ZmFjODI4MTY=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "IMPACTors",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/ae62e41be1153565",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWRlOTNlOTU0MWNhY2U4MGE=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "なたがわ",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/9ef02614a6da086a",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                },
+                {
+                    "id": "RnJpZW5kLWU1YTUwY2E2N2U3N2VlNTU=",
+                    "onlineState": "OFFLINE",
+                    "nickname": "Jarek",
+                    "playerName": null,
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/affdeed6897d2bb5",
+                        "width": 256,
+                        "height": 256
+                    },
+                    "vsMode": null,
+                    "coopRule": null,
+                    "isLocked": null,
+                    "isVcEnabled": null
+                }
+            ]
+        },
+        "currentFest": null
+    }
+}

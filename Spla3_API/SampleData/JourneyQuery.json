@@ -1,0 +1,131 @@
+{
+    "data": {
+        "challengeInfo": {
+            "currentPaintPoint": 1076691
+        },
+        "journey": {
+            "__typename": "ChallengeJourney",
+            "id": "Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE=",
+            "name": "旅のはじまり<br />～千里の道も一塗りから～",
+            "subName": "ジャーニー 1",
+            "desc": "「チャレンジャー・ロブ」としての第一歩となる『バンカラ地方への旅』を支援してくれるサポーターを募集するよ！<br />バンカラ地方は、近年急速に発展を遂げてるってことで今カリッカリにアガッてる場所なんだよね～！<br />いまなお広大な自然が多く残る「自然のアゲアゲ宝庫」としての一面もあるから、これから旅をアゲ始めるにはホットでジューシーな場所なんじゃないかな～？って思ってるんだ～。<br />そんなバンカラ地方で新たな出会いに触れて、「本当の自分」をアゲてくしかないっしょ！ってことでヨロシク～！",
+            "gratitude": "キミのおかげで、アゲアゲな旅が出来たよ～！お礼にコレ、アゲちゃうよ！<br />ロビー端末に送っておいたから受け取ってね～。",
+            "image": {
+                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/44bb1c560249ed224bb53e9d4ffc748b0f986ce092d69ca3a2329f7a0801ac12_0.png?Expires=1704844800&Signature=je17SHxDLnMp249K~3yJGu2JbN-djHu5d0HNKhg1bh8R~PRTws9lkB8dmnxgSfs3RwdXUUGQzyjn2-v7EJhVLAtE-Qn97WaA-1l8UuwLc5UO86isesuD3~ABPYrnr2IOl4YGKypFCgOpGDHyihMwCRtrqFYFAmhPzRlH6VvrNHJSgoCHU8s-btdXuW-SPMhiTfK6jgenAMG9qLoHJo~JbTww8ITrcMlXUfwBMqPwFFQF-vWyxD04oT2EmmBV8TCo6QgVs23tJXU1hjWJ27-z-g5qq5nGu0edGE2cltYsSCMS7cDMDwQ578U9jl5AeoMbhjQ1IxxasXASVG~W9ONHjQ__&Key-Pair-Id=KNBS2THMRC385"
+            },
+            "reward": {
+                "gear": {
+                    "__typename": "HeadGear",
+                    "name": "ロブキャップ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/gear_img/b7f6b3f454ef8197babfb2168f3e2144b80d5eeb06108d760e2c6d33ca262ad2_0.png?Expires=1704844800&Signature=FHdaamaNp7NgjuzzlWBxQfiQl22RBHCtOytpF7LauQ1bbg-KzpB365ARU4vEYQEFiidHvJZgZsCW6JxMnkKZQl7os8tLVP0fqZcS0469JqFUzf1jxPPIbt-90Xi7vudw8sS6zigBAaDIJDRqOM~6MagxexDR~XQaoO4ZMNfVoZGZ8Tuo2LXyw9SgTLbtmHBLDS5IFaVi4N-y~zkjyYIgSpnthxzyFHnsDmDfDDTfW3vas8NsYW0p6Am8~0yC~~y4~bmHd5gKCjFhtCFYri0DSmzd1WJdIryRgAOMKZTyl9jrhKLXubDCP-BmZse01SEKAE92QNZvF310UWopvlhCtQ__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                },
+                "id": "R2VhclJld2FyZC00"
+            },
+            "state": "SUPPORTED",
+            "challenges": [
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzE=",
+                    "isSupported": true,
+                    "challengeNumber": 1,
+                    "name": "ユノハナ大渓谷",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_0.png?Expires=1704844800&Signature=cF~Tf2QazKIRoXW9IysBvjiLfaoURfOd1iqd-q05hlbNEyTcngqh-8za~Loo6cVl8Gl6t50Xvcssg7g9uLih4~earQ4O767JSJE89~A-0iG8YLvgrLuc1v04t7rKNE27jNnFLtSQlS2DVsKOHoL8EsLDUveyzIvfWR1U7ADDxOEFYLM8VmMejSo149P0RmGUx4~oQfF-scAx1SVNaOAa50HQdoAF7ujJI342c6AX1ixngZjBEcmtE0v7SB7105HzgTEWEV~GsDPurKf~9RNvh9wYSyvZvufQ7Vd3gDudjGy9zJQGJSlSt0A1r6ZB5q4GC9xKpaMAbp-RmlLJylJMoA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 2500
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzI=",
+                    "isSupported": true,
+                    "challengeNumber": 2,
+                    "name": "バンカラ街へ続く道",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/7ae1f8709462d418ae30dc1a857b27bdacf2ad28f1d31263046eff73ea551d06_0.png?Expires=1704844800&Signature=ZSfe0kDZf4-8HMMqPRIILj0b5mJ5vV~4NWkiiicyjal0sVzY2wcL~f8Q2rp4joWwcih9tlrLxV9j04yiUFmrosmbNeCrrZz32caoFDqDtPuoajAqvz3sPTL1DOFWmDtSJ4lJBq2CxyrgK-J~DAtoqJ86dsE34PCos1JRsHEwx7b7F2EnBYJhntC0xtdlyGruIFjIW~dnj8F8VEFgOs6jByqmRbzYGdfX6emSpq-1XzgxUa~EHEvwDiLYjgSlTAq7F9pWxzJstoFoJ23kJGcZm0C8jy3u8u-ThgYLxwfojfdvjpgRdLF~GaqMEXakrRjqj4ZadwY23nW0tY3n03ddkg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 8000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzM=",
+                    "isSupported": true,
+                    "challengeNumber": 3,
+                    "name": "バンカラ街",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/423857306a6a8f25089000ad539abbfe70556389ae09ef8eec41e44653295940_0.png?Expires=1704844800&Signature=MvZg~q0LBuOBFere1Ap9SRUaLFEeNXKQfIK~iMcp1ruovNJOAPQx~LdkZje3HNmIM4l-ErWqBMmYD2BUvLuBMzNbOVWhsWaLorxEyPdFsGv9nUtxevpkeGY~AFdIQrDW0z27zXRPtAUjBi2KEKMx2bIPKBXua1B2xVq63fxmZoMcNwUEsiH4kIWd2broOZLGuQzNHL9-LoUpy8W~eexkYCnEnM9PKRN-SWxhXjn8BcYIzuDm5kLrhdRVTxn8TW8OtYOuwaucPFEMczlTBx4VzIF9TkfzIDhxnSfFG2DSVimfoX11FaXlPwcM6lcElX5i2HwAKSjGgopj1cpV69-axQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 8000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzQ=",
+                    "isSupported": true,
+                    "challengeNumber": 4,
+                    "name": "ゴンズイ地区",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_0.png?Expires=1704844800&Signature=MmRL58xyv4Dl5tGERZz-IEzSGNjNLlxRZ9r3edpTVXovkwwnDWFElokAt2LfF-tj3HyWhmdEs8oynmb6F0IrrrtuBUWBJnuuuS6gGTf23o44dIsDaRCqYXerpTZEbGqBVqdGJyFjH1UOPYtism3-IvXwfHsHwId8LOKQfZgW2hVVC9bHlM4P2MygIF1-4TPV71WbCP~Iwur4c-Mkh~87~8h~hm6YPNjLuZJ8-kbd8x307P-PEy5abW370VnmDC7wynXFSkdyTRtwZ35Gu7-Cjf0K6J0i8aBgiRbO2FKKNJCC5yJTqy-PYlufdKKlQqXyVBXoIvNCmYjV7enRwCSfDQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzU=",
+                    "isSupported": true,
+                    "challengeNumber": 5,
+                    "name": "ヤガラ市場",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_0.png?Expires=1704844800&Signature=oRN7Yd1hKcv7-6lqk5b3dY1Epotj8mZ022nvHxFxpc9EmZ7MHB2I9eORFE9EGc--uT8hQ~Ioh4ELVCxex2O7HyPtewfJpAK77XE9wDd3FIUsuPs28~mKjwftSA6jQy53AqPHUHNrRKXmh5HwH7EYXl8Swr~M7t19XBtlV72isGZqnjcNVQDJncAjMxXkWRDED80SR4V-OJbn3IxRltvHxfrDP~lTZBNz8XgTTqUUBaIQgF7DQQ0uO7waNzw7yzodxBfssDT9bGxrjjkdvGNz6TjiBOxx8pryadDsd-AnMU16iastqXv375DPjf7QB-pb60S6J-riw7Vx3bEj4kdAvQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzY=",
+                    "isSupported": true,
+                    "challengeNumber": 6,
+                    "name": "ナワバトラー道場",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/e45f8f6aaa1147f07b8dfbd98661d45fa310e3573954a8d1aed09cf8b99b9db1_0.png?Expires=1704844800&Signature=jAJBgpTnsqeuvilNUI0efilh101YGj4a74JoTyKf3enRez5hHMyeN4Hy9Uzk~el0H9Bar5~PLPk7~fa9mEZ6Ixslp2mwXY84pLR6v8mht3lg3xgje9-~1yrXjlX3Xv8sIvP0BxE7QEuTmQyGusm5D775RBWqaf8tD22E0iw2ljWxlO-LV9ocz2ffZW93WR10L-smBM6YwH2dMAE04mXgQmoNg55PygxLksTJt3zYHfYkIfqf7N2xJ5V0IZ2lEfGyk35YxWAl6MlhPp8TqFX0fRyjA9eJKbXFc0eX5HTN8q6bZkBEyjrjZWNe6nyQj96M4aYJMEj2eIonUDV9qqnhbQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 23000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzc=",
+                    "isSupported": true,
+                    "challengeNumber": 7,
+                    "name": "マテガイ放水路",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_0.png?Expires=1704844800&Signature=lWJDQX09xLbi0U8JQmDdquOBpz2XbKcd8OmKxz3gKooj4lauID4TbJSmHBiIq4zikeg2x4Hx2oSprtVGK5rA6dD4Iv~Hvll6V5IC9Qfz073G52kqG-bL7jyutf~Boc7rG8zv7y4TUoAdTfmgoD3AkbtGgpjXBV~XtQl5vpj6Cw44N3Cweke0xsBEItfVFxG9rNavfbbG~FiJMRDNyOaXsTmTKRXOW8YofbEj8D31JDGC5Woq41uDYiY390G87zFlHhcc0L20Cw6x~t90PUa~5DCIysYW7pAmZUIAJT~pEJDahgFa~JK6~JMDx1GwaVudMJSDd-vkaAsdNz-3Gtlziw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzg=",
+                    "isSupported": true,
+                    "challengeNumber": 8,
+                    "name": "カンブリアームズ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/7fb37e37335927a5321dba8959aa6594e204d18f186f5a66d68957d5aac2e023_0.png?Expires=1704844800&Signature=f4Lf2-OItQ3bYfFhIXBfM6yFD2Wu3kv5HsFOFGT6UBSubPyuzb~Mw8YpT4ZVVI6FUq5Gb2dx9jcdVnYWLJh3Vw5mJZ74Yu~EfdU5KlsrYXhGQMIKyS07VdIvLOlYlDvlhpZkyNJQE7JPrKiJeTrGoa9TRIdojSAw4gSKYaRVxwkS6wibPnxHkgC72at1r0CXw3pn5H01RYWpY1QG3vjqep4c6gLv7gNyF~t3HlVHLSosvI5Rdfup0XEVzcZboaSsg2kYonmmSdMe6mz27tqZ8Bsn8hmYL3ZVVu7gioqnoiJiXPKf74ILCKcEpyhTNglq7oi3NeiRxlDjt-TDraHfUw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 16000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzk=",
+                    "isSupported": true,
+                    "challengeNumber": 9,
+                    "name": "アラマキ砦",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/3418d2d89ef84288c78915b9acb63b4ad48df7bfcb48c27d6597920787e147ec_0.png?Expires=1704844800&Signature=IqdbseHoNHUFvTJ9SKnpnHZgGI7qlQhJMGYx9xlUz2fbU1XjhZIutcn59ivIllTme6V1TU8Uiziihcq6LJGX9~P-Y9WipHFRFOIQI4yxkQP9r7jeoBrPlqWMq61U~nuOhjw2HH1d5MN1N8-aTTZcJNOURV-olhKAxz6m-xZfr17WPs~s-LjsKq7k3hBbCp6ywTW1CnZl~USoAGx1okKewmwbaz5WzwiPEprcCQdKa56sdKO065ao40kZkN8bctveoOyZVVqMxEtwNGgz6NmEYlnaaVoKWSG4JHWshgPMSvPFq7gZ7gpYT7oJf~YrnDIuRsVEXfYdGoVZZHJLS48YsQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 16000
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzEw",
+                    "isSupported": true,
+                    "challengeNumber": 10,
+                    "name": "ナメロウ金属",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_0.png?Expires=1704844800&Signature=gigd6GWMkM5uoGLvRGqXdwO5qDI4D94uNHpHqUps5NYHdXavAYZuSEGuXCA6QNygyaFqOD-n34m-VBSQFf6XMFmxyO42XeogzEAxhhMjLd4flUkglFm32ZF6-pUnGeowMBM~Ev721DcMdLd6ZmWCIkIQxQ7SYZfGUUi9y0LPP5zn~7EESmoN56Iv2hxMltlnqWKu8u9pJf21U7lfwaaxUYGTnH3vMnExP8NsKwO8rp-W~7ZxPr~cCV6hSVWn4Xw6N~4567vhqXlTUf0S2YtjAmprN8sjSBdIKFBN5~HYdEymzjvyxQ67g7lPMrGc6uVzCzBBCcMl3F1g7jUDAr4pag__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 33333
+                }
+            ]
+        }
+    }
+}

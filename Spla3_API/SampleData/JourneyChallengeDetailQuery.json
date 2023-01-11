@@ -1,0 +1,266 @@
+{
+    "data": {
+        "challengeHome": {
+            "currentPaintPoint": 1076691
+        },
+        "journey": {
+            "__typename": "ChallengeJourney",
+            "id": "Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE=",
+            "subName": "ジャーニー 1",
+            "challenges": [
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzE=",
+                    "challengeNumber": 1,
+                    "name": "ユノハナ大渓谷",
+                    "desc": "カラッとした青空がアガるよね～！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_0.png?Expires=1704844800&Signature=cF~Tf2QazKIRoXW9IysBvjiLfaoURfOd1iqd-q05hlbNEyTcngqh-8za~Loo6cVl8Gl6t50Xvcssg7g9uLih4~earQ4O767JSJE89~A-0iG8YLvgrLuc1v04t7rKNE27jNnFLtSQlS2DVsKOHoL8EsLDUveyzIvfWR1U7ADDxOEFYLM8VmMejSo149P0RmGUx4~oQfF-scAx1SVNaOAa50HQdoAF7ujJI342c6AX1ixngZjBEcmtE0v7SB7105HzgTEWEV~GsDPurKf~9RNvh9wYSyvZvufQ7Vd3gDudjGy9zJQGJSlSt0A1r6ZB5q4GC9xKpaMAbp-RmlLJylJMoA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 2500,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwMQ==",
+                        "name": "めちゃ映えフォト",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7301c84104acdd5dbe19a4422f7ffea4de74564c126f5b6f61397fe35467b1f3_0.png?Expires=1704844800&Signature=peZO~QIF0IjPSA4n0WPTWJjPSvwzg4cySPPaGl1Pn7Mboa14cMDCEJyJP1jmg~o1xZTRQC1B~wKkjzzaJmdZyqj57AXZkLBi8B2F2eaI8avzAB2pnoj111c~tYeqfmMBUx0lcD-1BQxe0pShIx8zPGciwqDpNXcFweQDsPpHam95pP3HwKseOLeEwt-qbyj3EWkYH6ioiLmB6HTkgW-fj7BrT~U6jdhxelLv2VFamLUcnp4VK9OwFgM5rMMcdgYMnpvealQKVGPGqtbUXr7USv0C5lKRtJ9~2leT3hTixfcOX0Rp8ZA1vikxtodS10GvAq90cLn15OuwAvaPsKoS4g__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7301c84104acdd5dbe19a4422f7ffea4de74564c126f5b6f61397fe35467b1f3_0.png?Expires=1704844800&Signature=peZO~QIF0IjPSA4n0WPTWJjPSvwzg4cySPPaGl1Pn7Mboa14cMDCEJyJP1jmg~o1xZTRQC1B~wKkjzzaJmdZyqj57AXZkLBi8B2F2eaI8avzAB2pnoj111c~tYeqfmMBUx0lcD-1BQxe0pShIx8zPGciwqDpNXcFweQDsPpHam95pP3HwKseOLeEwt-qbyj3EWkYH6ioiLmB6HTkgW-fj7BrT~U6jdhxelLv2VFamLUcnp4VK9OwFgM5rMMcdgYMnpvealQKVGPGqtbUXr7USv0C5lKRtJ9~2leT3hTixfcOX0Rp8ZA1vikxtodS10GvAq90cLn15OuwAvaPsKoS4g__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/7301c84104acdd5dbe19a4422f7ffea4de74564c126f5b6f61397fe35467b1f3_1.png?Expires=1704844800&Signature=pwZNWNohGcCM372x3rRVAFEY80I5s46RRXFDLQoAmuo-aqVufWhUyEWlor1prQLRCKAdFCSJUrwBGHwlujO3xHGuf644gIBaPLX59pxBJ8aqzkVkBDG2B4kt2uJqXBD-jajZITjr9VBMMIxcxH0b61mgLSr1jiZEdYvNGSCQAcUQXi-v-P84~fvZGrHWpUSbYS5ubL3J-0fsD3E3Ar2NUSN4zNXfXTheK4HYsK1O-iiekCYCVsUcX3OyUEsb~vmu3EyZRcuiuZ6EwC~CKpww4cg6vupNuZWYmF5xCF64GfwbOFgkZIjRkvGpvbsiwaVlWZD2CLbhS0tonyNNqjlUzA__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzI=",
+                    "challengeNumber": 2,
+                    "name": "バンカラ街へ続く道",
+                    "desc": "線路沿いを自転車でアゲる旅って、やってみたかったんだよね～",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/7ae1f8709462d418ae30dc1a857b27bdacf2ad28f1d31263046eff73ea551d06_0.png?Expires=1704844800&Signature=ZSfe0kDZf4-8HMMqPRIILj0b5mJ5vV~4NWkiiicyjal0sVzY2wcL~f8Q2rp4joWwcih9tlrLxV9j04yiUFmrosmbNeCrrZz32caoFDqDtPuoajAqvz3sPTL1DOFWmDtSJ4lJBq2CxyrgK-J~DAtoqJ86dsE34PCos1JRsHEwx7b7F2EnBYJhntC0xtdlyGruIFjIW~dnj8F8VEFgOs6jByqmRbzYGdfX6emSpq-1XzgxUa~EHEvwDiLYjgSlTAq7F9pWxzJstoFoJ23kJGcZm0C8jy3u8u-ThgYLxwfojfdvjpgRdLF~GaqMEXakrRjqj4ZadwY23nW0tY3n03ddkg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 8000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "GraffitiReward",
+                        "id": "R3JhZmZpdGlSZXdhcmQtMTAy",
+                        "name": "拾ったステッカー",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/graffiti/7ae1f8709462d418ae30dc1a857b27bdacf2ad28f1d31263046eff73ea551d06_0.png?Expires=1704844800&Signature=ep9uIwgsslUAp1k1lhMih1i3v6Xg~fMu3Az7mF~EuvNPFbj~AmjqXTwFejEhnA8vAjy82rTF8NjcPGcPddsrz3W3HhMLyVdbK4LLeXikD1BKReRNahWgylRPpPxTnIacmezq27IGTVjset6VPtiY5WGr32lvuHo3amHdD1ekZnfuXck2EMSfA65NdP0GqOTPr4LDo2t78~yZrpzqat9FEXG-zCRL6U25GJ2ZC-pb~m~jP7oJoIcNsJuMRS4F~hhnAYHmPDTU0RJ~KUGJEjqWqafKwFQa26rWSXbnBzSGkLxpu5ZOQDVQR2YxLQmVgKk2KnSGZqe12bVNxouyW3j3Uw__&Key-Pair-Id=KNBS2THMRC385"
+                        }
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzM=",
+                    "challengeNumber": 3,
+                    "name": "バンカラ街",
+                    "desc": "街を見ただけで、アゲアゲっしょ！！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/423857306a6a8f25089000ad539abbfe70556389ae09ef8eec41e44653295940_0.png?Expires=1704844800&Signature=MvZg~q0LBuOBFere1Ap9SRUaLFEeNXKQfIK~iMcp1ruovNJOAPQx~LdkZje3HNmIM4l-ErWqBMmYD2BUvLuBMzNbOVWhsWaLorxEyPdFsGv9nUtxevpkeGY~AFdIQrDW0z27zXRPtAUjBi2KEKMx2bIPKBXua1B2xVq63fxmZoMcNwUEsiH4kIWd2broOZLGuQzNHL9-LoUpy8W~eexkYCnEnM9PKRN-SWxhXjn8BcYIzuDm5kLrhdRVTxn8TW8OtYOuwaucPFEMczlTBx4VzIF9TkfzIDhxnSfFG2DSVimfoX11FaXlPwcM6lcElX5i2HwAKSjGgopj1cpV69-axQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 8000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwMw==",
+                        "name": "めちゃ映えフォト",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/423857306a6a8f25089000ad539abbfe70556389ae09ef8eec41e44653295940_0.png?Expires=1704844800&Signature=riV8Z2aYyjM2Melu2Cvg-6KoJAgplrAqtadrcukILdHKLoflSFsRPXzolF9P-TCnY4~uIiW8Do-STM1PFZmO3Dqbj-NmjfcUUidy2iyNfYYq9W5NIk6fj7eMQ~ELbe~TqOyN0jyFGVLX14nEr6B76SvVGX89NSaeCrXo6zyD21kO1T5pQFUURBfJX6x1ol-fOtR1YAYwSzwM2SDU4Z7TMvSoPUi31AeQjgyPwcNGA-svp95YdJ1ZaifBU7qeESMq28nrzAPgzq2L~Q3-2jbq~J25UvaRsulB36Q8PSSZAulwRKjVQQiaaDcleHF8E66dNetjsm9DUF21oY3Cwsje9g__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/423857306a6a8f25089000ad539abbfe70556389ae09ef8eec41e44653295940_0.png?Expires=1704844800&Signature=riV8Z2aYyjM2Melu2Cvg-6KoJAgplrAqtadrcukILdHKLoflSFsRPXzolF9P-TCnY4~uIiW8Do-STM1PFZmO3Dqbj-NmjfcUUidy2iyNfYYq9W5NIk6fj7eMQ~ELbe~TqOyN0jyFGVLX14nEr6B76SvVGX89NSaeCrXo6zyD21kO1T5pQFUURBfJX6x1ol-fOtR1YAYwSzwM2SDU4Z7TMvSoPUi31AeQjgyPwcNGA-svp95YdJ1ZaifBU7qeESMq28nrzAPgzq2L~Q3-2jbq~J25UvaRsulB36Q8PSSZAulwRKjVQQiaaDcleHF8E66dNetjsm9DUF21oY3Cwsje9g__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/423857306a6a8f25089000ad539abbfe70556389ae09ef8eec41e44653295940_1.png?Expires=1704844800&Signature=wvwhLoys5vWqUywsRxHHdYJeev40bRmTQRbTpPqQCruUeNV25MO8lJf3hSJe~DebC~VrJsZo8Npr~~FyXHFhZOjifdKNFIhADHOMAKUBCnv0CwmBlXpkNQN6RcUWshXR0paOQ0E6BWChdVa4xVX5cS-rEuh90O2zLYpIBmcKOTXtUk3ae6D7Gn-O9jXh5O0ktLXP2oAftIUiiES5ZsJoSSIoGUsp6vARGgOa-31B28xRh3hwpa7POP67trfOfbB5JBh1M-YF6WqVW-S2FaquT4~mVASYOUlEoqkl2dP3UCcsGqhoKjaFo8nk~3JS620EX3cU36LMj9BCkEmrux2bcg__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzQ=",
+                    "challengeNumber": 4,
+                    "name": "ゴンズイ地区",
+                    "desc": "「古き良き」と「最先端」を同時に味わえるなんて、二度アゲ！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_0.png?Expires=1704844800&Signature=MmRL58xyv4Dl5tGERZz-IEzSGNjNLlxRZ9r3edpTVXovkwwnDWFElokAt2LfF-tj3HyWhmdEs8oynmb6F0IrrrtuBUWBJnuuuS6gGTf23o44dIsDaRCqYXerpTZEbGqBVqdGJyFjH1UOPYtism3-IvXwfHsHwId8LOKQfZgW2hVVC9bHlM4P2MygIF1-4TPV71WbCP~Iwur4c-Mkh~87~8h~hm6YPNjLuZJ8-kbd8x307P-PEy5abW370VnmDC7wynXFSkdyTRtwZ35Gu7-Cjf0K6J0i8aBgiRbO2FKKNJCC5yJTqy-PYlufdKKlQqXyVBXoIvNCmYjV7enRwCSfDQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "GraffitiReward",
+                        "id": "R3JhZmZpdGlSZXdhcmQtMTA0",
+                        "name": "拾ったステッカー",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/graffiti/f67ab25677e9f21cb66a4d079fc25df10389e48e0191da74131f90f70c38bb2b_0.png?Expires=1704844800&Signature=fFQfiCqPPm4WrI4v8ZBXdr15uWPt-SHYDQmIPQvqRT8pJrUqQXa0oA3o7ITKr4rct74ggxo~RVPya3cn-a1Byd-f67wZkldKngrQndOMP0NkZrSpkOrttjFtOCQTYqVLQQMpVedToFY-5XryYEXdeq9cORBnW9FcwlJSmP7-TJ-2kuKs3ojDLokiW4r0ne8Bjy~9cHGEl-jXkDDVIE~LAttZEnweNHFWRFSkhA6OrYw~qDp4TYa2rJcnvn-E1msPQ7l8774eLQXyBMqRnToLLGrFOF6kh3novi01Eii17KY8Eq1xtk0LEBWXQR3rC6Y4GyDkJpmhftdG80X20FCULA__&Key-Pair-Id=KNBS2THMRC385"
+                        }
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzU=",
+                    "challengeNumber": 5,
+                    "name": "ヤガラ市場",
+                    "desc": "おいしそうなものいっぱいで、フライハイになっちゃうよ！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_0.png?Expires=1704844800&Signature=oRN7Yd1hKcv7-6lqk5b3dY1Epotj8mZ022nvHxFxpc9EmZ7MHB2I9eORFE9EGc--uT8hQ~Ioh4ELVCxex2O7HyPtewfJpAK77XE9wDd3FIUsuPs28~mKjwftSA6jQy53AqPHUHNrRKXmh5HwH7EYXl8Swr~M7t19XBtlV72isGZqnjcNVQDJncAjMxXkWRDED80SR4V-OJbn3IxRltvHxfrDP~lTZBNz8XgTTqUUBaIQgF7DQQ0uO7waNzw7yzodxBfssDT9bGxrjjkdvGNz6TjiBOxx8pryadDsd-AnMU16iastqXv375DPjf7QB-pb60S6J-riw7Vx3bEj4kdAvQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwNQ==",
+                        "name": "めちゃ映えフォト",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7638754efc73cb2db36a2bce526a4bc23b0703cc42bfaeaa1325552ad6a17331_0.png?Expires=1704844800&Signature=XxyZfQbzoq8gDTsAqUkwhIxyp5synOFxh1rvb2lyAv-~PndhqxSgkHopcMIc3qwY2Wlg3WnkbYTJBwQBwHT8wo4Dfq-0VyltMc9dStzYu2c8mybzSlxviTNjdbys2BBe-0SOVwpVpWSJi8eVe50y7fgziPAqr44h0xcn5vTqlUI90SDkDc6c0A6uJA6rR2CLylmg70LJzig1fJfFAD9FXmflkl0ZMKinxyRVsmLYcCa~QQZDQNAp2bR5~F8F9BUPMgYjzFU5OzclqwjYAyJH1sU9RxGbBVTKshe1a6kCqWm9n6rnRuhgFG7B5YOwcPUTzW6NEh-WgHl8iNqR6DNhEg__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7638754efc73cb2db36a2bce526a4bc23b0703cc42bfaeaa1325552ad6a17331_0.png?Expires=1704844800&Signature=XxyZfQbzoq8gDTsAqUkwhIxyp5synOFxh1rvb2lyAv-~PndhqxSgkHopcMIc3qwY2Wlg3WnkbYTJBwQBwHT8wo4Dfq-0VyltMc9dStzYu2c8mybzSlxviTNjdbys2BBe-0SOVwpVpWSJi8eVe50y7fgziPAqr44h0xcn5vTqlUI90SDkDc6c0A6uJA6rR2CLylmg70LJzig1fJfFAD9FXmflkl0ZMKinxyRVsmLYcCa~QQZDQNAp2bR5~F8F9BUPMgYjzFU5OzclqwjYAyJH1sU9RxGbBVTKshe1a6kCqWm9n6rnRuhgFG7B5YOwcPUTzW6NEh-WgHl8iNqR6DNhEg__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/7638754efc73cb2db36a2bce526a4bc23b0703cc42bfaeaa1325552ad6a17331_1.png?Expires=1704844800&Signature=bb1FLzv6t9Y7BhiNCCTBild72UMSDT7mG~ntI~-zfPRP-tH4GN04KR90znZsGscFYa4vz7SYh7LpXU99VawDmQ6Cxocs1IreQIRoTUsuqmYuyd~GR3mHeEq4Wf8VYIFPFWulH8fvjvtpJKoySZICX~LrIAN41Sxuwcz6mEtLysiwND82mJouUxJM3Mj2onFM5bVAm~UwPJo0UBI1t-NeAOk9iBQK35wJHbdGwnJ8d7nrkpRA8d11RztLHXUv8tDleZzLQ-d1ir28B3ddZXuGzmIo6iGN6ZufxX2z~93~qndaPs2IYEZR~xNunuYeH2hif8se4s46QBRXUM8ZAGzbsQ__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzY=",
+                    "challengeNumber": 6,
+                    "name": "ナワバトラー道場",
+                    "desc": "僕も最近始めたんだよね～",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/e45f8f6aaa1147f07b8dfbd98661d45fa310e3573954a8d1aed09cf8b99b9db1_0.png?Expires=1704844800&Signature=jAJBgpTnsqeuvilNUI0efilh101YGj4a74JoTyKf3enRez5hHMyeN4Hy9Uzk~el0H9Bar5~PLPk7~fa9mEZ6Ixslp2mwXY84pLR6v8mht3lg3xgje9-~1yrXjlX3Xv8sIvP0BxE7QEuTmQyGusm5D775RBWqaf8tD22E0iw2ljWxlO-LV9ocz2ffZW93WR10L-smBM6YwH2dMAE04mXgQmoNg55PygxLksTJt3zYHfYkIfqf7N2xJ5V0IZ2lEfGyk35YxWAl6MlhPp8TqFX0fRyjA9eJKbXFc0eX5HTN8q6bZkBEyjrjZWNe6nyQj96M4aYJMEj2eIonUDV9qqnhbQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 23000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "CardSleeveReward",
+                        "name": "カードスリーブ",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/sleeve/5ea331c285bf33f174b3ce27047fcf53261d65ec34635e8021c4264e654e0af0_0.png?Expires=1704844800&Signature=SBw03iArt34VD9YNA~pVHWriam~3EmtXI5dkIoiU6QOpL4r~QAwi-KM67bMR0M01Jw8TZvumeXywDJrZcLM5NbDyHoGLxudBCh0biDkNA4lbVJeQTg8G5kVGtYONmpi6glqILzVeca~-rc-TodA-5eCTZdDhQTPXzNqsQYnX33PFZzJUXm~HxMq~GkoqDIV5mCXQMTsXglLDwszB7WIJj-fmJEpE7V73Lpo~5OuWyt9v4WWkP3V4~HEuQDv5pcGeZn5SIOemOxv7A7Bxsegh5MJET7coVAmMySqZ6pNY~3bEUyDQZC0Y0uE2LbKbv7dexCFGV9HwfhmELOnxiqxi-Q__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "id": "Q2FyZFNsZWV2ZVJld2FyZC0w"
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzc=",
+                    "challengeNumber": 7,
+                    "name": "マテガイ放水路",
+                    "desc": "デカイってだけで、テンション180℃！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_0.png?Expires=1704844800&Signature=lWJDQX09xLbi0U8JQmDdquOBpz2XbKcd8OmKxz3gKooj4lauID4TbJSmHBiIq4zikeg2x4Hx2oSprtVGK5rA6dD4Iv~Hvll6V5IC9Qfz073G52kqG-bL7jyutf~Boc7rG8zv7y4TUoAdTfmgoD3AkbtGgpjXBV~XtQl5vpj6Cw44N3Cweke0xsBEItfVFxG9rNavfbbG~FiJMRDNyOaXsTmTKRXOW8YofbEj8D31JDGC5Woq41uDYiY390G87zFlHhcc0L20Cw6x~t90PUa~5DCIysYW7pAmZUIAJT~pEJDahgFa~JK6~JMDx1GwaVudMJSDd-vkaAsdNz-3Gtlziw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 13000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwNg==",
+                        "name": "めちゃ映えフォト",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/8bb037fbcdd5f3a0c63073e4ffb1eb32e64cbfd0755ccfd1457b168d759de43f_0.png?Expires=1704844800&Signature=kwjPh3W4OvGqHM~8pmeZlOSpg0CqIpTyE6URZkuTKPTVgYbfg7Q7XoKpi0ZconITL0a5RoQpG72~v0RWZAy5R72KAmmYEZNIEagLn-Wyv2FHeqHDakLSlSxF7BFhTQPdSRyNvACJTQb3BsVu1KY3Plar1aIFb7Og7iXjJ3STzARxJkRlk-dHhwM9f08XHb3RyNXc4OOpB85uOErzvJ2J79QpZAXUsiz0uL1mAm0I3YtCIJ7hYcJgunCpQT2WVmVhbkN5Sxzeo9~pDkIvI7k3bIHO4eGsC-IKJKumwZfh41seoJVAn4kfOTgUwoQM1Z6~5I6IwK7XItNiGiACj2FJCA__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/8bb037fbcdd5f3a0c63073e4ffb1eb32e64cbfd0755ccfd1457b168d759de43f_0.png?Expires=1704844800&Signature=kwjPh3W4OvGqHM~8pmeZlOSpg0CqIpTyE6URZkuTKPTVgYbfg7Q7XoKpi0ZconITL0a5RoQpG72~v0RWZAy5R72KAmmYEZNIEagLn-Wyv2FHeqHDakLSlSxF7BFhTQPdSRyNvACJTQb3BsVu1KY3Plar1aIFb7Og7iXjJ3STzARxJkRlk-dHhwM9f08XHb3RyNXc4OOpB85uOErzvJ2J79QpZAXUsiz0uL1mAm0I3YtCIJ7hYcJgunCpQT2WVmVhbkN5Sxzeo9~pDkIvI7k3bIHO4eGsC-IKJKumwZfh41seoJVAn4kfOTgUwoQM1Z6~5I6IwK7XItNiGiACj2FJCA__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/8bb037fbcdd5f3a0c63073e4ffb1eb32e64cbfd0755ccfd1457b168d759de43f_1.png?Expires=1704844800&Signature=nnylIt~FUmlBEUXH8VPmbHRsT~qv~oG6I5ChaqcjnheWemiLzRHk8blIgAtDpj6MM~Ba7iqZKmcHKVjcJ1JTh-VD5wKL3bzATnevvQgShXZOpJJ-a~zgqIztaxsE-lSVSW4BcmkC-V5XzWn41-8RVTVYCt7fJc4N92mFOdn5mx89ye8e7c2K3VP3S1N2RTZJuI3lrLxrcx7lrEz87iM-GKi99yfCkjMfJx-ML73cBuHHn0wNauOuH~wMCMr35DWftmtBVhlhi4WFB6J93qvcb-zkQVDeUbhQ5wOIcGeyTcothw1fFEZ3Y28OLMA~gK0F43e0kYnircOR-1NknkoTiA__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzg=",
+                    "challengeNumber": 8,
+                    "name": "カンブリアームズ",
+                    "desc": "お、 ひさしぶり～！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/7fb37e37335927a5321dba8959aa6594e204d18f186f5a66d68957d5aac2e023_0.png?Expires=1704844800&Signature=f4Lf2-OItQ3bYfFhIXBfM6yFD2Wu3kv5HsFOFGT6UBSubPyuzb~Mw8YpT4ZVVI6FUq5Gb2dx9jcdVnYWLJh3Vw5mJZ74Yu~EfdU5KlsrYXhGQMIKyS07VdIvLOlYlDvlhpZkyNJQE7JPrKiJeTrGoa9TRIdojSAw4gSKYaRVxwkS6wibPnxHkgC72at1r0CXw3pn5H01RYWpY1QG3vjqep4c6gLv7gNyF~t3HlVHLSosvI5Rdfup0XEVzcZboaSsg2kYonmmSdMe6mz27tqZ8Bsn8hmYL3ZVVu7gioqnoiJiXPKf74ILCKcEpyhTNglq7oi3NeiRxlDjt-TDraHfUw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 16000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwNw==",
+                        "name": "ブキ壁紙",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7fb37e37335927a5321dba8959aa6594e204d18f186f5a66d68957d5aac2e023_0.png?Expires=1704844800&Signature=ZGNWYZ30EcCqeqAo1hI93pTmOAoqu7MlAWmwy5U5GFTmFvOUWMnVITa3DJRGDqHHQbxvKjTlbZC4Q6bBPmDAcT9-spDkmxfn90Jxb6qq~cFOFRU51YoUNBLdm45XrdAr2R2BNOL5tCfDk5JK3qX~KObawysJtsNypkL~M6bWccpXYCwk4-Jm8bMH~OfNXKJUTUauyxT5-3W4YnMd-w0TzpQjwvIrD~w8gnIBxnFdxdQkRxp1eR2Q4BX8NGEFnVHJn7gart8YReZSteSAsK3J9U4Sq39sp3YoWuUVxPlq2jRao3LStpNyDdj5IZ6eEVZwvfBtM~fsdTGVpxrPfv1RjA__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/7fb37e37335927a5321dba8959aa6594e204d18f186f5a66d68957d5aac2e023_0.png?Expires=1704844800&Signature=ZGNWYZ30EcCqeqAo1hI93pTmOAoqu7MlAWmwy5U5GFTmFvOUWMnVITa3DJRGDqHHQbxvKjTlbZC4Q6bBPmDAcT9-spDkmxfn90Jxb6qq~cFOFRU51YoUNBLdm45XrdAr2R2BNOL5tCfDk5JK3qX~KObawysJtsNypkL~M6bWccpXYCwk4-Jm8bMH~OfNXKJUTUauyxT5-3W4YnMd-w0TzpQjwvIrD~w8gnIBxnFdxdQkRxp1eR2Q4BX8NGEFnVHJn7gart8YReZSteSAsK3J9U4Sq39sp3YoWuUVxPlq2jRao3LStpNyDdj5IZ6eEVZwvfBtM~fsdTGVpxrPfv1RjA__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/7fb37e37335927a5321dba8959aa6594e204d18f186f5a66d68957d5aac2e023_1.png?Expires=1704844800&Signature=PzQxI6wVLvAMSCmZJHjlAUPAIY-84QxzUhDC7zEX4FSHBqcImz~mMJ5X~Doe2kOwENYjrIsvmGUHqSdYHcUALce01j685Rt94~xuKkSqrwVUe~5Mf7jWE3ZGRrgSyicZXN~fMpWLPl0xElYjfSmOyrQh~ohlaXZ0Zlv8KtBJu-Z60ASgZjdxS-TC39DyHpLuLZGuP0bGTfWHMNLVr0KunnKmZrU8-v1WX4A7sWoWHtYUxYy4JQlweR81wuyY8CxhuZD3mCD4s24vq7kgmaRaumP8L7AXXTrAG-NhpFsygUmn0emGnZbtwKUiJZIjKapS6dFWUhS8RbMX677cJlHraw__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzk=",
+                    "challengeNumber": 9,
+                    "name": "アラマキ砦",
+                    "desc": "サクサクかせげるって聞いてきたんだけど、ココどこ～？！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/3418d2d89ef84288c78915b9acb63b4ad48df7bfcb48c27d6597920787e147ec_0.png?Expires=1704844800&Signature=IqdbseHoNHUFvTJ9SKnpnHZgGI7qlQhJMGYx9xlUz2fbU1XjhZIutcn59ivIllTme6V1TU8Uiziihcq6LJGX9~P-Y9WipHFRFOIQI4yxkQP9r7jeoBrPlqWMq61U~nuOhjw2HH1d5MN1N8-aTTZcJNOURV-olhKAxz6m-xZfr17WPs~s-LjsKq7k3hBbCp6ywTW1CnZl~USoAGx1okKewmwbaz5WzwiPEprcCQdKa56sdKO065ao40kZkN8bctveoOyZVVqMxEtwNGgz6NmEYlnaaVoKWSG4JHWshgPMSvPFq7gZ7gpYT7oJf~YrnDIuRsVEXfYdGoVZZHJLS48YsQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 16000,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "WallpaperReward",
+                        "id": "V2FsbHBhcGVyUmV3YXJkLTEwOA==",
+                        "name": "めちゃ追われフォト",
+                        "sampleImage": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/86a1d7cf9b5be4c9e2d9b6fd336308c291ad633f4f33fddd18db301bf1838947_0.png?Expires=1704844800&Signature=vSgcekj5a06Q0zs3nqZyGSfe1apWm76dNfg80Clck4164RdOGuKQoOZxI9s-vTVZpQBb7NWSlIgkAc5H8wGZ9Fkfkn4rjeU6YnBH0iwA5twZlZJWsybWFjZGrKiaX7EM4PikCLwLCuCaK72k4w~TvidGalKZcOQUOr7WdLSh-iFqwkBXWC9uluQY1TxLIV4x-lBfmR9KfejyBv7KHreeUZDgNspPJD-StjB3xabYWu1fwwJRHmr8uN-KLw8w7xIiR18WVE2wet40rIsnKZzzoUDG6RGE9k430TgTi7-NvpXePIkNKVdaGodQ-urOLIC9lTVxlhyu1zFEe8SF~fITWw__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "downloadImages": [
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/phone/86a1d7cf9b5be4c9e2d9b6fd336308c291ad633f4f33fddd18db301bf1838947_0.png?Expires=1704844800&Signature=vSgcekj5a06Q0zs3nqZyGSfe1apWm76dNfg80Clck4164RdOGuKQoOZxI9s-vTVZpQBb7NWSlIgkAc5H8wGZ9Fkfkn4rjeU6YnBH0iwA5twZlZJWsybWFjZGrKiaX7EM4PikCLwLCuCaK72k4w~TvidGalKZcOQUOr7WdLSh-iFqwkBXWC9uluQY1TxLIV4x-lBfmR9KfejyBv7KHreeUZDgNspPJD-StjB3xabYWu1fwwJRHmr8uN-KLw8w7xIiR18WVE2wet40rIsnKZzzoUDG6RGE9k430TgTi7-NvpXePIkNKVdaGodQ-urOLIC9lTVxlhyu1zFEe8SF~fITWw__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "PHONE"
+                            },
+                            {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/robichi_rewards/tablet/86a1d7cf9b5be4c9e2d9b6fd336308c291ad633f4f33fddd18db301bf1838947_1.png?Expires=1704844800&Signature=L~dQuz59dDNwE0PKnaRbH5zwARb3-FmADQtpp3kVEvv8jpffVjWwHGX91Hxdf9S~e-iVv-TeHRiLlXaAJu-hXwCkVXz38TqQYcd-scubtvUzbWp87b2~Qlt7M2oAI9J5CelpDKqPyX-bSYCN6Uurwm~Vtel30qJApeFonbdEavDUUwjxSNV99LSA6wy-arBMI~umTa~vaeaSjLhQFO9V2~gIjL0Y-aCEQ7bcvTnvS85By6rjWs9ojUpKVE~YUkFJVgKqiSAF303nHi4btTHDJBuOsO6Bra2R6TvKn1ElW8nmOP1hnG4DlAzeGqd68kb~d2a9suai2k4h7K2s58jxng__&Key-Pair-Id=KNBS2THMRC385",
+                                "variant": "TABLET"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "Q2hhbGxlbmdlLWNoYWxsZW5nZV8xXzEw",
+                    "challengeNumber": 10,
+                    "name": "ナメロウ金属",
+                    "desc": "お、天ぷら鍋のスクラップを発見！",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/high_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_0.png?Expires=1704844800&Signature=gigd6GWMkM5uoGLvRGqXdwO5qDI4D94uNHpHqUps5NYHdXavAYZuSEGuXCA6QNygyaFqOD-n34m-VBSQFf6XMFmxyO42XeogzEAxhhMjLd4flUkglFm32ZF6-pUnGeowMBM~Ev721DcMdLd6ZmWCIkIQxQ7SYZfGUUi9y0LPP5zn~7EESmoN56Iv2hxMltlnqWKu8u9pJf21U7lfwaaxUYGTnH3vMnExP8NsKwO8rp-W~7ZxPr~cCV6hSVWn4Xw6N~4567vhqXlTUf0S2YtjAmprN8sjSBdIKFBN5~HYdEymzjvyxQ67g7lPMrGc6uVzCzBBCcMl3F1g7jUDAr4pag__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "goalPoint": 33333,
+                    "isSupported": true,
+                    "reward": {
+                        "__typename": "BynameReward",
+                        "byname": [
+                            [
+                                "アゲアゲの",
+                                "旅人"
+                            ]
+                        ],
+                        "id": "QnluYW1lUmV3YXJkLTE="
+                    }
+                }
+            ]
+        }
+    }
+}

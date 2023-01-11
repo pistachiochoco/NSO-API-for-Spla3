@@ -1,0 +1,83 @@
+{
+    "data": {
+        "currentPlayer": {
+            "weapon": {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3bcfdd841943c23d170b2cf97130d021dbb31bcca09f283af508f52271b4227e_1.png?Expires=1704844800&Signature=ZM7ynWX883DQ72zNf1RaqQBDUpKfLe~UWdmE2RS1Q7xHGZpN-1VCunSGUQ4sOHNk7Cu8Tb7EcRiQZ8daBldircQ~rMucy7ZgQPtR2kIhVXmCmwJ8nGOHS3CP5sWkNxLgvrhlTC6oMgrVqPiLOO6qWlgaQfVrwaGxsSWt-r8X~Jixi3Jrj1RqIjLQR8~j1DWiPJ~YhEodzM31S4Zx1cO9Xr3ADxYifEbxD0DLX2KfBxKjRo3E7cTSpFAOUrQu~xhNQK8SnTkbWBN~Y~4d8gxc-hou-1PC5UzvrSgBZm2Jmff1IyjBje2WNiVkvYLfRTHVDRT3bksQPSLqHHuxNtewdw__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "id": "V2VhcG9uLTcx"
+            }
+        },
+        "banners": [
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-taste/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=CiJ-EjwPdj-XqmEFX7aPrxfEwRs0aVCFmJDFMt~uQNNI2rlkelBR23G92CKCAMXrHFN4IovkbVe86j~o0I5RwkgOSehVyicAtlyEfJhx8ItLs~imlNnxu05tHLamfOKHrt8-Q~zDufnan0pPKEUw5eOI0mPUX95m1uCB327~X0aPI9vFGyBZLr9ICc19Ap8qvIGMmdXVoufJYpkJEWeSEX~LDjRZ0t45eH5F0CTCajdZlY2vaJQNSfVugBWp01zbPMOzGyg2LlxgCrA1egXEjIVth-cCkhg3ntKI7FRz9gz7AKHPTAxArWkqg8ETTj6qw4sj107vHcuPwZSI7wM2qg__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1740,
+                    "height": 680
+                },
+                "message": "フェス結果発表！！",
+                "jumpTo": "/fest_record"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/54bef1ccfde12b92ac87f0731d2611afac49f51b8e1e1767476eff666dc51a79_0.png?Expires=1704844800&Signature=N1go1HVT3bLGLnUDP~~7ZN9F2QiXvTrUNMqDEIiT5UPM1nE3YNRkbM6KMhuYACtT-yzU~AtNvUQLrGjv9Te6izeWINrT7xHH9pw74uOydvtnpj5CrtJJcl~rZWnkw8q2M8UXyqY58UmzGJVJRqMLRPZHzH037~cAJfaFPXdJnOetK-3G9RLIDztHnv0AgawP5tR5tmkyRYHbYjpaWwm0S2NPIC-xuz3nU3htSl~YS-i0rMKwwYk7kigZvWbuIQn9v3~BHGe8q88j-SgzJryR-ThhIEP8laD7yElfn~l5WfFs3OB0LZbQ345BSGs1zxoFXM19rJ~kQLXPS2aj2niKZw__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "ここだけの特別なギア販売中",
+                "jumpTo": "/gesotown"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/ecdb5afccd9cae92512e0ca8093cf6368200183d0f7fbc4fa13cebc53786a9ee_0.png?Expires=1704844800&Signature=BlfGVn~l8HIiqDRP5nSftuiJNzfU5NB0dhSFJCeupoWtvlnLd~rcgpiZG5PeWlNfBahX5ADHfHz~fUNSLT456MKYgoqw-mGdBhJNWd5-asv~49SSzrtQj~XNwpFnyjg5u38OjEYnA7KLCxgUGd4wknRJXaUO9QhqgDbJ~fHG~qTG74umeS0ktj9oGM2w-rarkps-vJAjnhpo~CKMLtHPa21qZ0UZsSdq2Z6v2LKU6jc2udm6xGjQD7ZClgdgYw4xTXhm~~-EZLBwo6tU7nbuAXoUudobFENJ2lIDXhl~7te3FOEhFUlJR0NHqwMQu1kxxfshCVHjfAisMSQCyqSf3g__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "マイコーデ",
+                "jumpTo": "/my_outfits"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/2a48c09a4c2bfffe07bb7929d921831936955914672b21e44a58735ce9da101b_0.png?Expires=1704844800&Signature=nTS9AjZ6NlXm5yPkINaQA0ON5iBkOUSG9~gDkoTq~epb0U46saAwFWZ1mhjjiJJUJFLePcZFzUzsmq-t1~SIpElXwyj4pWTsAJr9gjfY7NOIyn5ujTK4q4ybD7rGfEff6KNLFDFmthetCjh63oi6kcc5fOvH-D8irrbuEAe0hXffkDEFj-Q0bKultbcKqrW-~ER8nNsd-H-tQsT~8MqyhBJmNapGBjhPwoVD6yveE1ez-KAyYU5mzqIRwN5pNTqBsxF2S3fmdclQnDbUFq~0RFA~H43nztcShvkpVPR1B0B6VZDgn4tMrRu45YP8JPXBZ1~YiCrQnLGLSQuDwqGGLw__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "バトル戦績",
+                "jumpTo": "/history"
+            }
+        ],
+        "friends": {
+            "nodes": [
+                {
+                    "id": "RnJpZW5kLWZiZDcxYTlmZGM4YWM2Y2U=",
+                    "nickname": "Qoo ér",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/52eaf8d3e150ec24",
+                        "width": 256,
+                        "height": 256
+                    }
+                },
+                {
+                    "id": "RnJpZW5kLWRkMDIzZmYxMzNlM2NjNWY=",
+                    "nickname": "ゆゆゆ",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/54076553a2745654",
+                        "width": 256,
+                        "height": 256
+                    }
+                },
+                {
+                    "id": "RnJpZW5kLTJiYjNkNTkzNzNhOTk4ZTQ=",
+                    "nickname": "すだちみそしる",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c54dfd5d0cd7d5e7",
+                        "width": 256,
+                        "height": 256
+                    }
+                }
+            ],
+            "totalCount": 3
+        },
+        "footerMessages": []
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "data": {
+        "fest": {
+            "__typename": "Fest",
+            "id": "RmVzdC1KUDpKVUVBLTAwMDAy",
+            "lang": "JPja",
+            "state": "CLOSED",
+            "teams": [
+                {
+                    "result": {
+                        "__typename": "FestTeamResult",
+                        "isWinner": false,
+                        "horagaiRatio": 0.33711,
+                        "isHoragaiRatioTop": false,
+                        "voteRatio": 0.25801,
+                        "isVoteRatioTop": false,
+                        "regularContributionRatio": 0.33411,
+                        "isRegularContributionRatioTop": false,
+                        "challengeContributionRatio": 0.33591,
+                        "isChallengeContributionRatioTop": false,
+                        "tricolorContributionRatio": null,
+                        "isTricolorContributionRatioTop": null
+                    },
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpBbHBoYQ==",
+                    "teamName": "くさ",
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.454899997,
+                        "g": 0.662750006,
+                        "r": 0.10588
+                    },
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/a8e4c17157cd31507a9b7f4b6267d5caa0bdee317044d55a96c5496bb42228b6_0.png?Expires=1704844800&Signature=wGFtPTbwgqiNF674Oi6VwNnMZ98m5sWLyny5WGgjHUSgFQspR92HGIqbN3SWLN5VxmAxZRIdtjLM0afJASMAIkw9HfBvzvGWGAFkhGtqIo6GawUgycOrIwAPuGlLnDWCLEdHdemt9pXGQLLWOY9JHYaintnKE~rthJztGoPw5H99~QZCLKWHdyk3RFuHGbzYCnsFENoHxP0bh1RZe~LksO1GEQoKBaUBeOGAV65MVep9OdQJqiNHV~lFW5jFFn~-1fKC7tqaOICCUbsagZylIEnq54R4fCa35TCbz8sklusiUjFwkfGyVeOLy0TmcjRvy-~uBonuD9sX9nrnchSjqQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "myVoteState": null,
+                    "preVotes": null,
+                    "votes": null,
+                    "role": "ATTACK"
+                },
+                {
+                    "result": {
+                        "__typename": "FestTeamResult",
+                        "isWinner": false,
+                        "horagaiRatio": 0.32521,
+                        "isHoragaiRatioTop": false,
+                        "voteRatio": 0.33601000000000003,
+                        "isVoteRatioTop": false,
+                        "regularContributionRatio": 0.32751,
+                        "isRegularContributionRatioTop": false,
+                        "challengeContributionRatio": 0.30551,
+                        "isChallengeContributionRatioTop": false,
+                        "tricolorContributionRatio": null,
+                        "isTricolorContributionRatioTop": null
+                    },
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpCcmF2bw==",
+                    "teamName": "ほのお",
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.0823500007,
+                        "g": 0.274509996,
+                        "r": 0.854900002
+                    },
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/b3bb3b4aba5b1bd4a63c897dfe4d4b3676707aa6dac39222d761bfae9fb864b1_0.png?Expires=1704844800&Signature=RR6iTc-tDSYH6fBQdmoP1QacrlUlJTnRlqPdnxJNDjwEHJCzqpYtM6NwQjkNrLlR-yLcb0Vr0wTt404xaEIdeUEquC5JBnT~qJfdjIj~NEapeyQKCzv3tX526qX6vuoqBHtgG2qtMayLSN~5E~oObueJJ2WI~YS5CafMvZhMUz2hl~xhY836pCylNZ5Kscjh7m1d7WsbYE3W19xpH2ebXVC3QBTTojwbLttygjHshjV7qHTDrISddru6-3i14npoy5l28rzT7ZGTB7TMKX-WKf12jJib7-aXQkPJrBWikYVXUzPqJ80NwFvXoD~g1oVDT98c6UIbJ-0ti4eLJdfvpA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "myVoteState": null,
+                    "preVotes": null,
+                    "votes": null,
+                    "role": "ATTACK"
+                },
+                {
+                    "result": {
+                        "__typename": "FestTeamResult",
+                        "isWinner": true,
+                        "horagaiRatio": 0.33771,
+                        "isHoragaiRatioTop": true,
+                        "voteRatio": 0.40601000000000004,
+                        "isVoteRatioTop": true,
+                        "regularContributionRatio": 0.33841,
+                        "isRegularContributionRatioTop": true,
+                        "challengeContributionRatio": 0.35861,
+                        "isChallengeContributionRatioTop": true,
+                        "tricolorContributionRatio": null,
+                        "isTricolorContributionRatioTop": null
+                    },
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpDaGFybGll",
+                    "teamName": "みず",
+                    "color": {
+                        "a": 1.0,
+                        "b": 1.0,
+                        "g": 0.454899997,
+                        "r": 0.18039
+                    },
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/c0276e2a150b4a61bcc46fca84c2aaef3bd09aa8e2e78baa4158e894c1685563_0.png?Expires=1704844800&Signature=JFIIAqPfy1lhIQiOhdGYpnKE0jIM5LQnpwlKCqJjDUIpZpAPDsmeg9fM-S6imZ5cOzkFuTxWd1JKeB~iuWfvhQwGYPtyYt5kym9u-oPEkZ3sO26-2GUNMpUOdWvmZJ5Wwmh50DkZyJWdISeEjQ0dTMgAGAGgYpjcOhI-6MzBg1EOLh57uwnpr0zjEBHuguyYpEpZI6FWBv3yZpo4W42xlNUM8QXDoEa2KNxE4B8O3FDExO4bAExlVpn1ZQteAvhUdAyfZ6HDd3uRAzYA~5qbvury8hoqRMec01kcpopoWCourd3yjGhHAr7jRHzL0EMCHeE2iPClcG8ubz6ugkOs1Q__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "myVoteState": null,
+                    "preVotes": null,
+                    "votes": null,
+                    "role": "DEFENSE"
+                }
+            ],
+            "playerResult": {
+                "grade": "えいえんのくさ派",
+                "horagai": 37,
+                "regularContributionAverage": 1767,
+                "regularContributionTotal": 81285,
+                "challengeContributionAverage": null,
+                "challengeContributionTotal": null,
+                "tricolorContributionEnabled": false,
+                "tricolorContributionAverage": null,
+                "tricolorContributionTotal": null,
+                "maxFestPower": null
+            },
+            "myTeam": {
+                "color": {
+                    "a": 1.0,
+                    "b": 0.454899997,
+                    "g": 0.662750006,
+                    "r": 0.10588
+                },
+                "teamName": "くさ",
+                "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwMjpBbHBoYQ=="
+            },
+            "isVotable": false,
+            "undecidedVotes": null,
+            "startTime": "2022-11-12T00:00:00Z",
+            "endTime": "2022-11-14T00:00:00Z",
+            "title": "パートナーに選ぶならどのタイプ？",
+            "image": {
+                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-pocket/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=GD9kCU6mr8Lx-FKFZrH2DcxJKl8f49nWuyMAU3hxcTpHrNcFDUftDyYClraPM5oDc27yhmaaHjjaYUjwlU9FfkdJa7DnW0pjbOI864lZk2YRzbY5jiIiraXhuStVeROJQ733XfsUy53230gCzv8gkkEoGgXbzfvREe5m4lZsMfjwQ117IELGuN0bdSsBc3QNd0-dT~~6i9w0fGGz8HSQ7lLLKY2AupPdNZ6W4VIyIDpodKTQzIBjltrz0SCLgoNYiWuulfA38JhJTdY583OuYd3vOsmmRElBLRaQ~Urd3oUTb5nvwyJ4hme67WfFmC6jLq21n0ySbMrXhu8g7jhIzg__&Key-Pair-Id=KNBS2THMRC385"
+            }
+        },
+        "currentPlayer": {
+            "name": "も",
+            "userIcon": {
+                "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/3452de4ffc975de6"
+            }
+        }
+    }
+}

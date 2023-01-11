@@ -1,0 +1,236 @@
+{
+    "data": {
+        "myOutfit": {
+            "__typename": "MyOutfit",
+            "id": "TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTox",
+            "index": 1,
+            "controlOptionConsole": {
+                "isEnableGyro": true,
+                "isReverseLr": false,
+                "isReverseUd": false,
+                "cameraSpeedGyro": 5.0,
+                "cameraSpeedStick": 5.0
+            },
+            "controlOptionHandheld": {
+                "isEnableGyro": true,
+                "isReverseLr": false,
+                "isReverseUd": false,
+                "cameraSpeedGyro": 5.0,
+                "cameraSpeedStick": 5.0
+            },
+            "currentWeapon": {
+                "id": "V2VhcG9uLTUwMjA=",
+                "__typename": "Weapon",
+                "weaponId": 5020,
+                "weaponCategory": {
+                    "__typename": "WeaponCategory",
+                    "id": "V2VhcG9uQ2F0ZWdvcnktNQ==",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_type/color/24421de5a122d13fed9caae9986ff18c511f62bd46feb9dbb9d48287499bdac4_0.png?Expires=1704844800&Signature=QzvpiX4CD2mv~9U0xXCMT0BbUvxCDZCKZ8GF2U2XVxTu4qru8fPdtg2VlKrdOyq4QApxh0bfpa8QzsK717B6ycHvBO3msUORu3UOu6pdOwGffTh9p4yDfTXX6hFRtGMKZ5AH7lce3vjGshiVBsg4Kstfl6oTa5Wt8UAlrQQNfCy4SrfsGU1QF03uFrqSC6OFt91TWsXXwHxp1twe6-O5NCVb0-iAoK~q9nnjh9SSDcaNtZAa7O~m8erc~ci4LvWLOFU3C4XbmqtSh~bmrh9hCHHZxLp36~aY~oJvZpOV8kdtwaIoTjQC8Da5UPXXJGvB-WcaWqiIV~spjNMJ-XYSlQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "マニューバー"
+                },
+                "name": "ケルビン525",
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_img/802d3d501738c620b4f709203ccad343490bd3340b2fda21eb38a362320dc6ed_3.png?Expires=1704844800&Signature=a9O0Aby4jEIPsMdliX~efsE4HniNiMwXnwyn5DlXeK9KY-YQWgOkCiP6GCmDBkovJDSXmOq3yOSf7rzO3hneR4sFNZrbWveL49PDd9coZoFm6U~qEHvuxFAvumNc0zEDDJ5zX6exoAK03rOrhexObEHjUGEy5tr84S9PhvLbFxu-Q4RQdV2njSF-94w8pwo95wJW54xI6SoQdxFUXSfjP7OhkhjuGZ1qZ1bcemXwt~GqWJVfkL0y3Z0lfNHr-fMi1GRHtCjJ6PRCAlDTg3qa7Ad46EJ508eN9Zcl1yyrWt3YUgSuwJ1eD3EWwE50xeIxMARzXt4qpDvgt6KsBnWf7A__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "stats": {
+                    "paint": 89009
+                },
+                "subWeapon": {
+                    "__typename": "SubWeapon",
+                    "id": "U3ViV2VhcG9uLTQ=",
+                    "name": "スプラッシュシールド",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/sub_img/blue/480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646_0.png?Expires=1704844800&Signature=cQ1EuYme9MUrsBCBLVrW4Gcji12Gj7fDlpniNWPlRJevnlK~hCXEac37Fe6P~a1c1QqiWP2PG3ugEf-cLIaPAfpJzrAgBQtlS4C8s12WuB0TslPzfZnzv5e~1HxphufAfCqWkVT-qRx0rAM0nDcVtnhPHiywZBDmYQao7s6CaKtK59euT8aFXZz9i6NBI~ErUJKst5oarE9pfhpSRk0ABISBGwd4sHfDH98O3HWs6YTrwW5t8xbqsr92lCxzphSM32CJQWEH31RPCOgKesBbsZldLbM3u3jIN-DLi2bt47GQO143Lig6yFv9N5S0lDmNtXcJ1IhfA95n~lxLNFdqKw__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                },
+                "specialWeapon": {
+                    "__typename": "SpecialWeapon",
+                    "id": "U3BlY2lhbFdlYXBvbi02",
+                    "name": "ナイスダマ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/blue/bd327d1b64372dedefd32adb28bea62a5b6152d93aada5d9fc4f669a1955d6d4_0.png?Expires=1704844800&Signature=kJ5Ec0mojKrVq8NXv73HS44V6BTvzx89~VbA4P3tHAvcjojRbWeioejhFQeStwrz90q-lit5bNvOe2gBrr8LQZC73AMBQ1hB72lNN5plPTQbLTlQKQDJ-aqOpDNOUZS6FxQst7Ir9QmrLEVRSfI-a--OLqvdrRHSxXinO1UirmB~LccXFZQAwQ3Rej6di5MuDkpiXv7nL0GbBg6VB9B--7StSzzxADSs-HGEdELixfxPROFBPZAp-1g0cia4gi-MUyEML7RQQDGJuQKkKFBlHqa4z1350K4ybWVAGieDgVScZxfVEkgHGsGZjcukdcI8VCMafl8szajexUPdc0m0Kg__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                }
+            },
+            "currentShoesGear": {
+                "__isGear": "ShoesGear",
+                "__typename": "ShoesGear",
+                "shoesGearId": 2005,
+                "name": "キャンバスHi トマト",
+                "rarity": 2,
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/gear_img/20ec2d227e6371055f4bd19e3fe082f3ca46a7ba1817edf042d0e921ad025933_0.png?Expires=1704844800&Signature=XAWco8eYXoEgdA2nUUbC7w9Ae9bSxMqfKZ32n4dQ4yOIDPrP5ZBPIG~rwgYOC56F6ZHVxorq~BNKJaRZJQ-PfKFFRX9kjBveaI2HLf7EfYkJTzrgo0thNWlURCJRV8jbBeZ0-cS9kmy76wjpmNbxYmlQu1z3H1hZuzp3xor2NvN6MMORmQzmIFqyY2w2c~6O2QOjgDjHnNpLiQCElmxpUweONdfh9IXVbkR78185TSyW6raODu9aAYQg8psFiRoqcbQ67FOSqt599yCvRK1dhoUHPpR~dOHJWxPMtu7FA1zq9qxddygjjTMmzaHON4XripqfpyCHJMoesZWzaXzpCA__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "brand": {
+                    "__typename": "Brand",
+                    "id": "QnJhbmQtMg==",
+                    "name": "クラーゲス",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/brand_img/744d1ff06654007506d8600e9903c6be80cddadb03e174bd8d24c2075c66227e_0.png?Expires=1704844800&Signature=Yp184qhKGKiE4sKm0hFDMo5Yb0gTza~rTmGXMygHBiUt1WcTkpvVCzm98l6nvlp54oeqpb5ripfp6W15gKPR771ooUmMd7yG~-OMiFtvLLLl8seH0YOkdI3us7Gkuudfe70Tw3boAB6btWxNDSDY1z4piKOdaO3oD6Kr7cexPfceirVFO0XO5zImMzNll0NWN9xpmZfRb7UMWO1X9amj3zzKRnfLtzueXhLRqv1PF44HJ5N3nlEAipliI5IabmGYLqjdxlLmzdJZY-wuu1UxupNjfsBHuQ-MvhoacbWICpFoVSn6hJrgmU5H3qrRedyjd35L6fnLVqQwA2efotwTrA__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                },
+                "primaryGearPower": {
+                    "__typename": "GearPower",
+                    "gearPowerId": 109,
+                    "name": "ステルスジャンプ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/f9c21eacf6dbc1d06edbe498962f8ed766ab43cb1d63806f3731bf57411ae7b6_0.png?Expires=1704844800&Signature=okP5zKFAL-FGe1BKbNIK0T~Otx5msRDYQA6J5RpCJ4SJgFZ9BGcvnoSWgdwvPj75uB3kYQ-SQvmwqthRZADBIlhLYM52~nd7ss4bzqJKvwbAx~3qgCeGXZOesM2qSJvf~Z~j0IBRexmE~-U6HU6RQrCGZyoWf5DBZx5vhB1UrTeDCsgjkR8mRpy~HioeX6aMHkqHdYIcH7BzJo5keTetqGLlaiRjl0-S0XvZ1pEV~CrZvaxemGsr6xpxdVN3ZPZSza4asHomajUQH3Mp5fYGlH~Ovnf4uuQUHQsqpJVVP7BvmrMSH-i7TJujT7fDcWvIrMnvbZqf4Udhjb9eEvx8FQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "power": 1.0
+                },
+                "additionalGearPowers": [
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 12,
+                        "name": "サブ影響軽減",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/664489b24e668ef1937bfc9a80a8cf9cf4927b1e16481fa48e7faee42122996d_0.png?Expires=1704844800&Signature=jUstLSje-Jy4FPd~Jbr8ardKzK27lVbSsfNLROPPs7bYVJH21mUpi6xoK~cEfaR5UC7ngRTGXpcWaPSbj0eYmgY-Px9BrZ9CTg1g1zwghotrfwe3XFCWVQj5BVUHMiDvhQXw9ml8nBt5sp7KrlQPe~UsI4OlG7~ku0lAnHhuObJl6xBtyDawMnSn10mPdqSyJ4WzaQlVHOqXDmIJkcimQdBJsPbNpuZ~qKVU3kszIg10Gf5frNxoXiSM3CDWiF0fhCy3MqYtaQH7YKzk3D3N8ujRdRZq-QrsQ3fuKlAcp9A2CNt~-HhjheUEMxP5w0WslARUrnW0kt2Cvn9yOiCT0Q__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 13,
+                        "name": "アクション強化",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/1a0c78a1714c5abababd7ffcba258c723fefade1f92684aa5f0ff7784cc467d0_0.png?Expires=1704844800&Signature=oFcw9kDRHW2pVrtvB8S05~9FYuw3SQ3pu8oDTCuYo79XfbCzUmPlYcEsPXJXUYNq2nollwMHaDuJMR8NROhR0gI022ukP4q1fGKb050c8ToUkg1XloIHLyaxodTmNuZ8XyT1qAQdVJtnmk7Nhg-Jt6-j-27TTDtX9HiISZwF17~y88AONEL34irl0RpafhE3XUUxqzXHT6oxggX2LA4lyAzZRGSFHUpu5px5P52D4mI6ro3LWpXMRunIitu38ZzQc0-g9vjqzlmcRPcGhFIZ7Cz2FevhBumakgfkIsjpSFl172CKukyIRlB~RrLUCkyDsIZryZPIMexc91Bf5FtPgA__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 13,
+                        "name": "アクション強化",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/1a0c78a1714c5abababd7ffcba258c723fefade1f92684aa5f0ff7784cc467d0_0.png?Expires=1704844800&Signature=oFcw9kDRHW2pVrtvB8S05~9FYuw3SQ3pu8oDTCuYo79XfbCzUmPlYcEsPXJXUYNq2nollwMHaDuJMR8NROhR0gI022ukP4q1fGKb050c8ToUkg1XloIHLyaxodTmNuZ8XyT1qAQdVJtnmk7Nhg-Jt6-j-27TTDtX9HiISZwF17~y88AONEL34irl0RpafhE3XUUxqzXHT6oxggX2LA4lyAzZRGSFHUpu5px5P52D4mI6ro3LWpXMRunIitu38ZzQc0-g9vjqzlmcRPcGhFIZ7Cz2FevhBumakgfkIsjpSFl172CKukyIRlB~RrLUCkyDsIZryZPIMexc91Bf5FtPgA__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    }
+                ],
+                "stats": {
+                    "exp": 10595
+                }
+            },
+            "currentClothingGear": {
+                "__isGear": "ClothingGear",
+                "__typename": "ClothingGear",
+                "clothingGearId": 8036,
+                "name": "スミチラシシャツ",
+                "rarity": 2,
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/gear_img/57ffe463b66ae5604d991e955f66d98f35b82b8dbf8bddfb97c88ce0ff3e3c2c_0.png?Expires=1704844800&Signature=S~TeO31bYf8BFRSBVoa5xF-5dfWFFXmVzjIetIilzEs9i8hrOG0ew0oB6tTw5KWNKMebPlvBSpCIbeeEnM3cZNK0DZehDn8l0YZojN7qfQrnnAms9BBMY9o3ENKi4usnGZfYYwYiYm4dfI-iu4kTd9g8fTKwAoBeKehh2MJ3cJortdu7OKUjD76ucKvg282Vz2PBKE3~IvUoJgDdLWRcX9UVH~TmqC1UiG0SAd1LyMTAgiUG3jeqiJdX9YnupcocuUg4KOHJ~BSUHf~M8UvJ1XdmeEwBYQ6XmkDy2Zl3riN7g4kYUqqgCCOH3o9QY0U~Y3MtAsDJN0Rx~dZLHOx6Fg__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "brand": {
+                    "__typename": "Brand",
+                    "id": "QnJhbmQtMTc=",
+                    "name": "タタキケンサキ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/brand_img/ee29b54b234f20ebb7c2934e453cd5c732cc1b5fd0fc3928147f9dd9f5a4fdb1_0.png?Expires=1704844800&Signature=icaryiUN1kUvWhlGhZU33~7WZohYfqnewijBLIgOfHT9ZVjTbmMQirWESVO~E3b3JYF8VHu-nEY4VVXICw2x5s4FildGix8HTNR1dShe423wGZeBaZu8qsUi93hDSR34vLqFAMMs7BaYHHiPT2S6lvikMdW7KMsSiiCUYfTadF6OjgvAMiM4lXGLqm8buyTmyoLzA3Z~uDDzgd5He1aRpj0oTsBzG3kRbUwbUbSAPi3PPfz9CU7k04aK4T7RIqrsUKoRa9mea01JN8LKcb-nHbFHLezt0gXBdT75m2bVBU9rrdB2AKR1luiRRRDJ-1R7USpLeYjg8UgmA9pjgq0pNw__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                },
+                "primaryGearPower": {
+                    "__typename": "GearPower",
+                    "gearPowerId": 8,
+                    "name": "復活時間短縮",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/aaa9b7e95a61bfd869aaa9beb836c74f9b8d4e5d4186768a27d6e443c64f33ce_0.png?Expires=1704844800&Signature=SHgU8h1htngLkcrajryd~JMDuf5mOtXkOhf1FLTXFo9RXBT5LQH0IbVzplW03liu9V1MQTvSrqyt2QTqyPKg3i~BAQLvGvbu6tZV7nl2lwGhUmM8M-qEWwmyYgDtIz33kG8lBagBE35UGky87TX86Z325CnVJvYkifmiKIeUN7M6V3YjwUlgDRnLP0~GWKrIG6HVbGXXUkqYD8tGTDhQ9uV5yfa5pIqOwMWbHEqZtVCwqRoa~yv4k9WADkBAcDATgP-7yhLOZWzyNcp1xJO-yKjh7MG83S-g3p8DW3RZL3hv~7zpy0SS7R6e5N5Hju2RQPL-nSmGW3IhrgsawMrHyA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "power": 1.0
+                },
+                "additionalGearPowers": [
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 3,
+                        "name": "ヒト移動速度アップ",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/3b6c56c57a6d8024f9c7d6e259ffa2e2be4bdf958653b834e524ffcbf1e6808e_0.png?Expires=1704844800&Signature=RKgnLvTb3y5uM7SzYQlV8isC~Pv81NuXEHzc2wDIFT~faQV2upbdXbZLG3MUVsGCcBWzbgU4HJlxqRHxlUC31W-PgW~TOu5Pv4~U~kDw5rUBrapSazdMcibUPJi2K7QKG4izw72VbgY~1VkaIFahU8yBaYC5lqi0xFvKz5p7nbfOn0almLfrMKAxiqfCFedcAk9A4wCzBshxsajztfu-NdOwCeW4wHSZL7e85NkYtPxwD-FwVZXa5OVRxd7vxR0nViNfH6OA5~WMElC-KTJecUC6CoDYWT424KQr8eYJLi42fhSm52266VbboiVvEOXGZEi9nkyoH1X3V7k9Nyq0mQ__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 4,
+                        "name": "イカダッシュ速度アップ",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/087ffffe40c28a40a39dc4a577c235f4cc375540c79dfa8ede1d8b63a063f261_0.png?Expires=1704844800&Signature=HA3Nv4-tROo3Fmb-l9thOATr2hmg0CP4MJrteVK2m7CoEYan3xZHLJdQ07goIRA9VBZVITTjGUzNll7N1rOqRO7BrFuD6HCX9wRvuqH9Tx35-QU7TZtYc6CRxgL-4kirsoac2B~O4pi4Yby~INFHazR16Cn5~aj~JMfGeGVEtXrcBE3hC0ju5DCc-52pd9x~U0BNXLqk0Gk0IXybETufdgzny6R7E-s9iD-mwhQGW7BggyiGsizkFP56xlM6lKoNOf5TJM4Kuukdmjixdp6DWHnHCqhec2EcMhQOT102hb3tQTshqWUqpHUkXto7fzCsUkmuNNFOsXugOcfM85Kpgw__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 4,
+                        "name": "イカダッシュ速度アップ",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/087ffffe40c28a40a39dc4a577c235f4cc375540c79dfa8ede1d8b63a063f261_0.png?Expires=1704844800&Signature=HA3Nv4-tROo3Fmb-l9thOATr2hmg0CP4MJrteVK2m7CoEYan3xZHLJdQ07goIRA9VBZVITTjGUzNll7N1rOqRO7BrFuD6HCX9wRvuqH9Tx35-QU7TZtYc6CRxgL-4kirsoac2B~O4pi4Yby~INFHazR16Cn5~aj~JMfGeGVEtXrcBE3hC0ju5DCc-52pd9x~U0BNXLqk0Gk0IXybETufdgzny6R7E-s9iD-mwhQGW7BggyiGsizkFP56xlM6lKoNOf5TJM4Kuukdmjixdp6DWHnHCqhec2EcMhQOT102hb3tQTshqWUqpHUkXto7fzCsUkmuNNFOsXugOcfM85Kpgw__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    }
+                ],
+                "stats": {
+                    "exp": 22145
+                }
+            },
+            "currentHeadGear": {
+                "__isGear": "HeadGear",
+                "__typename": "HeadGear",
+                "headGearId": 3023,
+                "name": "ワイヤーグラス",
+                "rarity": 2,
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/gear_img/b455e3e093659fb5ca0c57f2831dcffbac34a137acfc4ceb47503036da94531b_0.png?Expires=1704844800&Signature=mO4IHRkkmMSMDCYqTRnTIcvWhj-JSWMp2uu~A5we6BqXEoPWRv0yOArj1A54n1KTTPfWocgx2HBpfJmIPfynua2x-M9vFgvUB0vO17N6foJ3Yxl7uket8qcgsgkBcyPwxK-VLUOeRMSlo6~HlBxB-~Z146evdEeW8EG0vQJKhTwWU3Hd4x03HP5JXRrxpdxIsdiUg0RYEgWFOhTxbTCBCl35LoTPtxyBY7uewP5~TfeQt~ldypxsDa7wa~qbABIQDX0TT1WqSQ31eoeml~yn6hvnMlAe5ORGzeaSTfQV8iSuG1lHf87RJXjTVZ~iU0GggRypwq0fubO7tXVdyz393w__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "brand": {
+                    "__typename": "Brand",
+                    "id": "QnJhbmQtMTc=",
+                    "name": "タタキケンサキ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/brand_img/ee29b54b234f20ebb7c2934e453cd5c732cc1b5fd0fc3928147f9dd9f5a4fdb1_0.png?Expires=1704844800&Signature=icaryiUN1kUvWhlGhZU33~7WZohYfqnewijBLIgOfHT9ZVjTbmMQirWESVO~E3b3JYF8VHu-nEY4VVXICw2x5s4FildGix8HTNR1dShe423wGZeBaZu8qsUi93hDSR34vLqFAMMs7BaYHHiPT2S6lvikMdW7KMsSiiCUYfTadF6OjgvAMiM4lXGLqm8buyTmyoLzA3Z~uDDzgd5He1aRpj0oTsBzG3kRbUwbUbSAPi3PPfz9CU7k04aK4T7RIqrsUKoRa9mea01JN8LKcb-nHbFHLezt0gXBdT75m2bVBU9rrdB2AKR1luiRRRDJ-1R7USpLeYjg8UgmA9pjgq0pNw__&Key-Pair-Id=KNBS2THMRC385"
+                    }
+                },
+                "primaryGearPower": {
+                    "__typename": "GearPower",
+                    "gearPowerId": 8,
+                    "name": "復活時間短縮",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/aaa9b7e95a61bfd869aaa9beb836c74f9b8d4e5d4186768a27d6e443c64f33ce_0.png?Expires=1704844800&Signature=SHgU8h1htngLkcrajryd~JMDuf5mOtXkOhf1FLTXFo9RXBT5LQH0IbVzplW03liu9V1MQTvSrqyt2QTqyPKg3i~BAQLvGvbu6tZV7nl2lwGhUmM8M-qEWwmyYgDtIz33kG8lBagBE35UGky87TX86Z325CnVJvYkifmiKIeUN7M6V3YjwUlgDRnLP0~GWKrIG6HVbGXXUkqYD8tGTDhQ9uV5yfa5pIqOwMWbHEqZtVCwqRoa~yv4k9WADkBAcDATgP-7yhLOZWzyNcp1xJO-yKjh7MG83S-g3p8DW3RZL3hv~7zpy0SS7R6e5N5Hju2RQPL-nSmGW3IhrgsawMrHyA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "power": 1.0
+                },
+                "additionalGearPowers": [
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 0,
+                        "name": "インク効率アップ(メイン)",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/5c98cc37d2ce56291a7e430459dc9c44d53ca98b8426c5192f4a53e6dd6e4293_0.png?Expires=1704844800&Signature=PJ2gr~bbLUF0wGuo3Er8IxKVMhfiotV5K9uHSDE30dkPO-mPdSVBoq5hCSaCwrR6h87FMtES58skJq3uh0Lr4B4YUsJK0k-DFDSPgPsTPcSeqyDhIif2FgPYSM9Yp18ORi~8mA~T7xoT5gT0OP4XeREGl5yxCHsMj9GEoG89gUqwQe~1~EFnqgX5XFb0Vcm6lGYw5wNXqBWxkyGlgzPjaDxJnlgDwcjSwvVpaPT5eSRdX1-DCJRVTCZ0CCH~~~ZFqrU1cHyF7ZxEaqESUnqUU~Y6oZz-2cufnfEWY9GPE61YnfAwfN8k1DAwExbzmR8hMHVHd7AKEfPSyLu90bRtQg__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 1,
+                        "name": "インク効率アップ(サブ)",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/11293d8fe7cfb82d55629c058a447f67968fc449fd52e7dd53f7f162fa4672e3_0.png?Expires=1704844800&Signature=pNcBcIMKoAj7xwE5ivLtTNrTJNdRl~dfx~pf22O2BeysRuRMaJpnjR3GGfM7Qf4rfpocB8lLUFtWusnUxU1VJX-2RtSCI9dwP60Y1mjhtGaIzR5WyGU5rv-tScxQfXpxOgKWBvNF-~Qn1JxCXJmWI8pUQHKlWKW28REUekCC5oabbf12lOgiJXZyJ6eUAGIzZHAf0icQ4JM4DYaxYnXqw9SVp9KA-Wi501FsWCgTpkhprw0H7Fd8013C2MJExKGPPJt6xatMx~UF1CFO9B~qxyY2fJCp8xs4iq-Id1GajmgB-LLT-SPSkv1hhByUHMlrjFB~q-EuTfyEapc6arx0uQ__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    },
+                    {
+                        "__typename": "GearPower",
+                        "gearPowerId": 0,
+                        "name": "インク効率アップ(メイン)",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/5c98cc37d2ce56291a7e430459dc9c44d53ca98b8426c5192f4a53e6dd6e4293_0.png?Expires=1704844800&Signature=PJ2gr~bbLUF0wGuo3Er8IxKVMhfiotV5K9uHSDE30dkPO-mPdSVBoq5hCSaCwrR6h87FMtES58skJq3uh0Lr4B4YUsJK0k-DFDSPgPsTPcSeqyDhIif2FgPYSM9Yp18ORi~8mA~T7xoT5gT0OP4XeREGl5yxCHsMj9GEoG89gUqwQe~1~EFnqgX5XFb0Vcm6lGYw5wNXqBWxkyGlgzPjaDxJnlgDwcjSwvVpaPT5eSRdX1-DCJRVTCZ0CCH~~~ZFqrU1cHyF7ZxEaqESUnqUU~Y6oZz-2cufnfEWY9GPE61YnfAwfN8k1DAwExbzmR8hMHVHd7AKEfPSyLu90bRtQg__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "power": 0.3
+                    }
+                ],
+                "stats": {
+                    "exp": 305
+                }
+            }
+        }
+    }
+}

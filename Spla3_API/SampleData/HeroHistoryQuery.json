@@ -1,0 +1,1022 @@
+{
+    "data": {
+        "heroRecord": {
+            "progressComment": "クリアおめでとう！",
+            "progressPhrase": "オルタナ調査中…",
+            "progressRate": 0.89,
+            "sites": [
+                {
+                    "id": "SGVyb1NpdGUtMQ==",
+                    "siteNumber": 1,
+                    "progressRate": 0.87,
+                    "siteName": "みらいユートピアランド",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/9ef1d552d7cab8edcb4ac6402c7df310d99bcbcdd39483a72fd2662d57ce4d5a_0.png?Expires=1704844800&Signature=lBDaotkimC45lBD2qevUmx96Vjx4n4QYiQwtcIhpWUtq1LeQx8zESifhmw94O4Wlve0DPNUGJpelMYmfgUQ5UaZYvpIhuQBbJ1zZCw1m7omtY7FGbvxqAjRTuzS3ufDcQdLrcgp0nvZ2Ly3~dnMvSm-nO70SiEcdpj6DmoGE1jNMN98s5QnmXS9GA6pllCwGc2v7OE7P4lksGISL7SCg0EIWsE~NmyX0u9g0qQc2YG2fNSeRbc86Ft-DKpfa1~K94Xkr1KwaR9ur~3Ktuwc8CBY7pcVxgWMMx0wg-OTkXChlGaOfzDTWmZseZAceZ~RMvp1UZVO-vrOrnlSG0EB8jg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "アタシ達も３号ばっかりに任せてないで調査しよ！",
+                    "progressCommentSpeaker": "AORI",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 205.11,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オルタナという楽園へ、ようこそ。",
+                            "description": "いろいろ使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 136.46,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "小鳥が集う、憩いの場をあなたに。",
+                            "description": "あせらず対処してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 107.81,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "驚きをまとう、建築の美学。",
+                            "description": "気を引きしめてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 238.43,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "扉を開けた先で、真の上質に出会う。",
+                            "description": "カギを探してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 157.6,
+                            "bestClearWeapon": {
+                                "name": "エクスプロッシャー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/1e32f5e1e65793585f6423e4fcae1a146a79d2a09e6e15575015af8a2032a4fe_0.png?Expires=1704844800&Signature=NPq7roxYBGQ1M5NsCP4iiY1LyhYCtMQPgPwjBVBBzxNeU9IRXYXswCzjckDeuq6M~2AxLYqKexiOKXHEX2j6Qk3fxSoEvQNaftm8ujQMqFL-axdhT6o0G3Ap10hDnI9mvjjsksjgLI3eLzIovDdEvXeGtqbdM9bqOBSXPnDeZv4XWQ24OMGQi~G~6xGoRWDz6lZ1LGe2ONRz~Au-CKBcmwqwVQICS00c9uoKR7l7ZD9otXqMH6Vi2~91ZSjA1lHChbKMAgZw7jzeEMgMqg4fAzgBZ5AJfaS6UNIeDs4nkMDpbfpN0FLi3RYnv0TbBsaRygHghtBsLj5xt1gwMVjKdw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "日々の彩りに、素敵なモニュメントを。",
+                            "description": "インクで塗りつくしましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 258.76,
+                            "bestClearWeapon": {
+                                "name": "ショクワンダー",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/7b53d9b20930c4b90c2164d4e2c2b13b1a33d688e0b553447804ebf1f15ce17e_2.png?Expires=1704844800&Signature=LdmL82FE7eBxQrRjVZDkxyTbhgjzrK4ZAbWwYwSqdN9MjnOzomU7kNOekj63gnuGOu9xHkgqW0hzf5gMxCF~ElhAA5Bd5bXvyi2HfpPufevL1ToiYNoLRAU~JcegpQMoD9wyuyUck0fzcEYN~ZduAFu3~rFNwPScl1tggPAX~KlqOlEES5WlsXNC7AkG8impYcOEkX0M8Ie3EmtfNacYPu5UJLBzONWFPEbBY8EmblP9d0kwMfoStIr6dhz8PLcJeSbIyoSY8MrsWR3LGpZKtxFYOYdNPes4EATlXlao1Tpnqz122qsoA2oCN7JRDde9eouOmsTH9LU1wR03v~L6jg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オルタナの高層を住みこなす、その贅沢。",
+                            "description": "ショクワンダーでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 259.28,
+                            "bestClearWeapon": {
+                                "name": "コジャケ",
+                                "category": "SUB",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/sub_img/yellow/6a3658b06814b814fec802d77d9f336808c621f95eae9de044cc8353d13e251d_2.png?Expires=1704844800&Signature=ftXWmnmbLPP6dRn7Ef153nhY8NztbD9Ek718oCJy2r37nV9X5dJbTf7jeHW3f5MDysklqcmP4DYc7e1Ql0OSn4efcO5--SA9tI1NZgZPuDVgV7NS3qE-cC5JYc6NrR99dXaMRtnlzdHO5EtNgq2DElWUHvW9AfKO6XLnqH6W2sZEKhuBL1KiealD22mGoeONSK9WoADYCpo6ihatCHym79RoSCnM1e1yaSMvmqCTQGh-7qAJ-mJwChAAEotchagDB9xbr0yb4kcqYpNMxU6Y5usE7aa-wG5yOkL9v043AwzPKXMu7X1vO3KO2aVuUenV8ooK9Co0kuqXTF8Oug5Lbg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "大切なパートナーと、心を通わす快適空間。",
+                            "description": "コジャケと共にゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 8,
+                            "isBoss": false,
+                            "bestClearTimeSec": 9.65,
+                            "bestClearWeapon": {
+                                "name": "4Kスコープ",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/ebc007b2f27b0813f0c9ce7371bdab78c62e6a05777c928bf34222a79d99de8f_0.png?Expires=1704844800&Signature=r5FOB4YNLjhUJ3xlYkRJdjZYbha0gIy13iMBncaHR3pyLovGkWRfEBVpJ-LrPuPX9Zmxv1nngq2UtevMVR1limGopnHB1lPpTcxYbtW8S2RLobwo7Uj8V-kNkRbhnBcHk4JxFWj6FTIRwJGSBOMUfmamMXClmd5yLwmTeNA801~yMNwehhNcxlgpd7i6o3FPh4Skm6VuqSOz7Rmy2biW1OITWNzoTKUQ0Hf~BmTnXrFpLO~oyOLaYS1EFDg10IVKUabDAF8h1elWt8LYcU1rfC164VpDgvfu4RD1oCpGObLHIvEVyjClUWRQbAYTAD4MNSENDq257L3yriEpEUJzSQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "宇宙の中心が、ここにある。",
+                            "description": "一発でマトをすべて壊しましょう"
+                        },
+                        {
+                            "stageNumber": 9,
+                            "isBoss": false,
+                            "bestClearTimeSec": 212.16,
+                            "bestClearWeapon": {
+                                "name": "トライストリンガー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=Xkj7scE0D6bq-st-ZR0HoG9hq9kIfM2wzd8YjAekWqmgNa3Nk9jMndbAJgtAQeKypdz3aAAacQkOd361eoXFze7sg8kjwjodVGEFeW8t5yP4cuo9ZYf1Gq1q9OLKgIM3SIWx1od7h65sBYsP1GXTHP1fZZWcnaEdWnUacqUAuXVJY2eoxb31IQIVr9joRFuNIWr5PH~80uzIjKCIUItweTKkeCg-NoyisBgw7LSRTGiP4hq-x~O70zXMX8ECmYkQBJ~ehob1s~ABalEG2U0Z-6vIoUXEvEeKTJbUz0IbNDSLQdQ3UQ0Mm2ecRfGZyo4s8ZFUA64V5e-53EZwA6wOBg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "くつろぎと、開放感。木漏れ日のプロムナード。",
+                            "description": "ストリンガーを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 10,
+                            "isBoss": false,
+                            "bestClearTimeSec": 65.8,
+                            "bestClearWeapon": {
+                                "name": "そうびなし",
+                                "category": "NONE",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/ui_img/4fbf7fb92d6f683ae8aa9ebf08dc589e84b66f93d4739a68feefd9e428bf202a_0.png?Expires=1704844800&Signature=OwnUMYenkw71Hmdl1BOEzR1cMW22u0zgTAcvYipsWj7FDiw3u0olbJ9Uc1MROQ2~~fTb2ZzRNhi-jQI1xogYYBlZoy0JwDSzmFJX1iDTf4EzWgJFVkMqEEZmhRtqokEsmvckUwhofaZ8ToxEH9EBHgewyJ-9jibbKy400AiNJTcGIqsbD27jMycQT7qrmZk7g~8LN2Ooj4ZLTSBfbB~a26VZ1cSqq151p8ulcqgWYamrUMl2YeDx0kHpEO7gyB9qqLw-7IJcTQBE5y2rHOmPozlnR0cY58b5~EWHdBKHBl4STqy9-xZXBr8OBHItOURqOdgMqxYnZSwX6NmFlmJ5zw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "夜景に包まれ響き合う、レジデンス協奏曲。",
+                            "description": "時間いっぱい生き延びましょう"
+                        }
+                    ]
+                },
+                {
+                    "id": "SGVyb1NpdGUtMg==",
+                    "siteNumber": 2,
+                    "progressRate": 0.97,
+                    "siteName": "あんしんライフファクトリー",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/892227e61517fa5970763e973eea53bdbc673c1d78252c7b5932cd9af16db337_0.png?Expires=1704844800&Signature=KF4~HYke-RYgRaCyOosnwJhKnHiVw--Klspfy0~nAP5XpUMC1dmoFy36bnbmSaX1dF9vKofnL9chKpGdelRXH79mFWUv0SjSJfzAg~zXyr1J-sLo-t4W6adzjvjoqGX2~G3VwreTTqfQcl6KX8F80ahLu8cSSf2I9jZO1g4eTSdloaw5Qj33QJ-C2xAEzSpmOwGuuwTiHhSRuzQ08FYUB~2wcpbxHFFW02y4SYWSXUQWf2FsKU06cikhHLkSAO1QFCuupTpVlpecPmm0T9Fk1utED1BbvuwkexgqCJ2gExoz0cNRWRFL8NfVhfYxcTQ6Z0E9dey~dqnVzMr78rkyug__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "うわっ、この場所けっこう高いところにあるね…",
+                    "progressCommentSpeaker": "HOTARU",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 104.16,
+                            "bestClearWeapon": {
+                                "name": "ロングブラスター",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0d2963b386b6da598b8da1087eab3f48b99256e2e6a20fc8bbe53b34579fb338_0.png?Expires=1704844800&Signature=rxZ1bEdSTtKQO-fiymC4loJLZsdKEV6kw1Q3AwIZgqxF25DwokDif0hRWfGddBsKxYTGmVb7EJaR0ZTee6YWiwYgCIkfi7-qtnCZ6FyEDfpgUXjNoHRhZI40gxrALbkRbunQRwvH9rvWhf7SFHaHWCLAhv9yP~pOqxphPHgE~xuvBsprT4VKw0mIDiLyh7YcNZy0IyuIAP7WZqEK83Ii8g3oUzaUEMUt5nchHYWDY19SQVAAAvFrnks1lu5ueo7Pul-6JS~kU08ZWMbJrbIvCI6ck9XXG~5Lu4mNfxhmkeUtbyVFvHlyIluRHNOwkBUfYw72uhgDtMYvVuSXyKNHRw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "人生に、メリーゴーランドのような華やぎを。",
+                            "description": "回転に気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 184.98,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "ふくらむ、夢のつぼみ。街の温もりに包まれて。",
+                            "description": "スポンジを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 203.15,
+                            "bestClearWeapon": {
+                                "name": "ホクサイ",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/ce0bb38588e497586a60f16e0aca914f181f42be29953742fd4a55a97e2ebd22_0.png?Expires=1704844800&Signature=pVOG7Sw9TNC520b1~CjkEFO3omH2R0XpSNww7K71WUUy8vugAm~la~4yGHXNkNoj0WVhgho0fu~CEGFYO9NHuFPDbHQ-PxeoRq~ckyE7~568Ig-YA8S5YiIPYXrB1Zgap5UGvY7igVxXoYQFu6oLpMd-z-HpJmYhzjC3O4MOpczssLaDY~Dunk1ds8AH9aTsPccbjmuepfp88qPSPgVK-hBQNmj36jgiqgd58yKehqasSWie-V-c4VNzHfwjejrJ5pdpEFSG149kFSygDSOFfG~H9v47fISbDZboxZIfb0Oik0Z4GZe4MXqmdll99TSrIkmWrKZW4SvQKylGJO5DoA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "きらめきの高台に、ヘビブロックが伸びる。",
+                            "description": "ヘビブロックを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 72.3,
+                            "bestClearWeapon": {
+                                "name": "ジェットスイーパー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/035920eb9428955c25aecb8a56c2b1b58f3e322af3657d921db1778de4b80c59_0.png?Expires=1704844800&Signature=N3nsS65H4BEbLdw-J~XfHN2rZSIPOrPBIMzrmhPD6b3pVz4vPhsdQOnGflrrWpQLIUQjbmC22yANl5Lho7OaIAeN19BusamrecyEvur~MC6NWXyv~aaC5hkEYE8L2DTa-VHy14HJQpXa3b7s~jO2YTq156YsvuzXYhZZcTEJxZuVVs4QS0m4wO65CXd2uK1SDWhDh0ZGgrKLHG9svGLY202Xt2zeeXJUEu9MFijZt2rpPvpOrEKH6aabAeM8dJuUOIH~Vpka5wx0J0D732XcnJ~Reun--U0jusWWE~b5PvzsWwV0phVqk8-idS24JQxrDrMhj5TlB9NTMMciZ~KyBQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "進む、未来へ。時空を駆ける街、在住。",
+                            "description": "マトを壊してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 185.13,
+                            "bestClearWeapon": {
+                                "name": "カニタンク",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/aaf6369163c0a535e2a545a12eeb87e0195c3aa2ee28fd7fa7d3696969e415b5_2.png?Expires=1704844800&Signature=LF60xrpmHhMQ2GWSSg7HTBwYVsMcKd9voWRCK7xdNJlbo4XCxUD791kaphpU25SgN1r6as2VQ16JsjSpihUe3lMB6BNlw3FWN3Ge1~RlT1w0CdArdEggCKIPbHhTUvHF8hkbgZjvZurYrCXDBh797edYSd0kGF8Fp4~K04irW0jegIrl4FQxn6rk6USNs2aJvKUKxZhrrOnLpLWu9lcIMrtkFwIAT3hjVf80wQJJqZuUR1qz6HWONnzSwfaujFiqEk27hqUJd7fFL7qiht0qVuAm6rrGlegB5Yq20nco8J5DNBC5BtAT8AXq21DYM7ZSnShEkttI67u9OYj5nfCFMw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "美しの夜景に、匠の遊び心がそびえる。",
+                            "description": "カニタンクでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 188.16,
+                            "bestClearWeapon": {
+                                "name": ".96ガロン",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/fe2b351799aa48fcb48154299ff0ccf0b0413fc291ffc49456e93db29d2f1db5_0.png?Expires=1704844800&Signature=EouVF2IGn0UVTBuqBCj2Jaam5-41Vzua2tL-wnEWBVQ6FF-DhENLYGZPyKoF4S-tGz8ohgo--iL0eoRTpPiH46~U2iyIVEaorEf0CHl7xufeABxHmspDJBuiXmJ7lvOmKZGua-W9YAzCRq1gCPCzqjSvk4cNqA11eQrdFr1ZPfaIvwgni2AmHTtM9rG-MJG5auhOMs4ZlMeT7bViXpSJzkBWIwKDA6wOy0ZrHrWj7pTF5VlzRVXTJhopMMG0fByOfIXTZR75k-HBXAimANftf80kYiRSFH0dETVWwiWfJdjtKABQEKamwQ1zrfdKqSfMB9-UC9iZxQAy-MvPcEdhdQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "住みこなす、都心という最上級の迷宮を。",
+                            "description": "迷路を進んでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 96.93,
+                            "bestClearWeapon": {
+                                "name": "ロングブラスター",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0d2963b386b6da598b8da1087eab3f48b99256e2e6a20fc8bbe53b34579fb338_0.png?Expires=1704844800&Signature=rxZ1bEdSTtKQO-fiymC4loJLZsdKEV6kw1Q3AwIZgqxF25DwokDif0hRWfGddBsKxYTGmVb7EJaR0ZTee6YWiwYgCIkfi7-qtnCZ6FyEDfpgUXjNoHRhZI40gxrALbkRbunQRwvH9rvWhf7SFHaHWCLAhv9yP~pOqxphPHgE~xuvBsprT4VKw0mIDiLyh7YcNZy0IyuIAP7WZqEK83Ii8g3oUzaUEMUt5nchHYWDY19SQVAAAvFrnks1lu5ueo7Pul-6JS~kU08ZWMbJrbIvCI6ck9XXG~5Lu4mNfxhmkeUtbyVFvHlyIluRHNOwkBUfYw72uhgDtMYvVuSXyKNHRw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "豊かな心で、ミニマムに生きる。",
+                            "description": "限られたインクでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 8,
+                            "isBoss": false,
+                            "bestClearTimeSec": 195.8,
+                            "bestClearWeapon": {
+                                "name": "プライムシューター",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/5607f7014bbc7339feeb67218c05ef19c7a466152b1bd056a899b955127ea433_0.png?Expires=1704844800&Signature=ne-Lmj9brqPIfp041vwQXOpWBH13nU2hYkYGcreLIYXpkZ-skp6P23uU~-afoArJnRpBSJvL5FiiO13LkEhjhXT2MgZjODi-faneacETeTtXrrCLB77h0JtJK3adtaiEpud0C50HyZEvhIAOvCPRiZZBa82X3Tc3nQ4~QR6ywy4BjRicZot3SXIIESsiJHnbUzeJ26KBpCk2IYMwHrnrs9fFZgYThlF9QS5kOdqK4mos55lRkTrbnTPzH7TAm9SCwYS7EOYeCZdUERLT3PNCUwr4DBd-95xm20X9mVx23QB2FkNB0t3csGt8Z612oIuNQld0gEojEvXKGNJvyX6KLQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "そこに至る、その過程も美しい。",
+                            "description": "スイッチをONにしてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 99,
+                            "isBoss": true,
+                            "bestClearTimeSec": 299.35,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オルタナに封印された、輝く器。それは…。",
+                            "description": "トビラの先へたどり着きましょう"
+                        }
+                    ]
+                },
+                {
+                    "id": "SGVyb1NpdGUtMw==",
+                    "siteNumber": 3,
+                    "progressRate": 0.93,
+                    "siteName": "ながいきヤングニュータウン",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/ae367302f90f1bc8ffa847b8f691efd1ac54f2989a16b87448f59866152ace02_0.png?Expires=1704844800&Signature=bGlNGQIW30pBJWoL04NUOWWPnXvBLWqyvhlrTjJ4mBDIH9WjKpjIh4kbJI9-nFgOXW~cUDvOOtTJVRNHkasg8dJ0XEws-6r7ha9~hV5SPitQMmNaDYOLelhWtXNTXpgY~NRbiJs41IslLcW3DpwbyxOKjEDM6AxKJMkh2oVRIBxswdeeViWQoasK5xThVCZlcaInQzhAWbecgsbJA9BUg2j8tLmDDB5ciY0Gdo~jq08DJumAg43fhWKz53sXa2G1ZqZOU-8oEmaKue1tCSjL77mbZA7rj5~7SvpKbWdF7X7HyxUZdubgGX6ew~~N~LD-cFsdp6iOiKTRQoDWkomKRQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "ツルツル、スベスベやね♪",
+                    "progressCommentSpeaker": "HOTARU",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 156.08,
+                            "bestClearWeapon": {
+                                "name": "ハイドラント",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/34fe0401b6f6a0b09839696fc820ece9570a9d56e3a746b65f0604dec91a9920_0.png?Expires=1704844800&Signature=MDu0ACyVwkFhyHR2HIiEic3iMeBlmLwF~o1zDbhwAXw4Rt8Nw3~85AALKUchjnK9RZ2RfI-Do8WBgKSJnQ5g-WJt1jgGIYrm3ZM4lCR10e8jcIVHxnUaBv14UxHi7oJR4NjWRZWLQWhJRoXCDH8rRIcZBy6GWV8LgsX98X~XyGNgdxXcc4HQr3YvSRX4y19D3IbVi73be8mPMzV-lZtqQXhRh9yM9HPxiaSFWa2-nBpe~MInEt40i82uA7krZMYgOgDwauxiLdRUsSS3H9NEPtNuWo-DWwV-CoUxpImAgcVf-BQl1bo53NMMWXjyWvRnVVr6Ei6AeHT3BvIPat8FwQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "その丘、上品な喧噪をまとい。",
+                            "description": "撃ち合いを制してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 273.98,
+                            "bestClearWeapon": {
+                                "name": "カーボンローラー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/29358fd25b6ad1ba9e99f5721f0248af8bde7f1f757d00cbbc7a8a6be02a880d_0.png?Expires=1704844800&Signature=K5qt6u62gdEfUEYobLVqaQEH1cesAlcvdbMFL37rpgGISX-q-6x9gdaDEoBB4GvxI986jJ45w87vLPyyo-eI5fW8yrBNQuQ-7bCTZMlRWHI1pFx-rIFIGhGpyHxmJpOgTQ3q9VE1q1gLWJsx0gUyDkp8SDU9rkZerO3Xw04EwkcRvCLbLYDW-ti-smWbUc9SxYodPASAmv8LEQfUKrT3m7FW08wGBnPU4KXvM5TrBXOQR6OiED38VG~g56lav0a1dHrU~aD8uevklfff7QtmXRNEWQmruqRfD5BrdWTFN2BuO9ZaAvAEB9eplIVpBj-v8ooWDiZ~9L-su8QHwy5KVQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "大空に住まう。私は自由を駆ける鳥。",
+                            "description": "飛ぶものに気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 178.13,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "ヌリホイールが開拓する、無限大の未来。",
+                            "description": "ヌリホイールを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 161.31,
+                            "bestClearWeapon": {
+                                "name": "カーリングボム",
+                                "category": "SUB",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/sub_img/yellow/8d31879c8692155c9ecb213fb5d75c8cdef49c4f4e8f13a1ee732ace9eef2a58_2.png?Expires=1704844800&Signature=i6DUZAPVAGcN9ww6KQrv8fOES34M~yz2HMeVUnWmTw7RlY00htqbGEb7z5iCdVQC~4UBGiMLD7J407JhRbhmYaSZ8NEBiIMN8pGs1xPWqUWIt5zcV94DIbF0GGa6gknrRTr1WD75VLmZrQ-f1CJFvqQKB2wlYpRoAvosCe564aWN5t3~s86F5OGzI6HiFvwUtm~XhlWEg3iZwQhnfROvdcq--QKpNhXquHnpLh6LRr-AZs7uV-d6Z~0LAMm~VQruPfXkEfmxdygNluLvBiCQiOcSPK9Wi9XY9r3WWslHu7NaeVuFYHcB2rQCc5ulxR-2GvDEzJXeGZVBRVSImtsVHw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "誰にでも、完璧にこだわりたいときがある。",
+                            "description": "カーリングボムを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 55.16,
+                            "bestClearWeapon": {
+                                "name": "パブロ",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/260428edbf919f5c9e8c8517516d6a7a8133cf7348d216768ab4fb9434053f08_0.png?Expires=1704844800&Signature=sm3kJU7hN-uxQ1sy1pzrYd5oRpDygnTdHBtu9DJ~EPY3jfaBzUAtOkneSRo6f3VbC0gWnujLLMITzAxF5xERMisNfRDRUip0lWQ63Q5bEwisrYxOf8U8jZXlPc9J2MStHNmK3z6fYDkt4DZe9Ifhujg0AdPenGYacEkMi492UcIO~FEGEohFaPOOrtvdeGDbv45ZfG-rvZ12GFDzfw4s6zaH8TNFll~oiefNPiEKdXV7KG6Dvt5kVwJfKqu3Uwl4rGP7ooQykTgZSm1RjFwvIORxdMoCBDl2PCO4praP0D7mjL21F~jSHdo4bi9BkcqV7BPvefvN926IXyvjNtMuGw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "時代に流されない「特別」を、いつも大切にしたい。",
+                            "description": "マトをすべて壊しましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 48.7,
+                            "bestClearWeapon": {
+                                "name": "H3リールガン",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/418d75d9ca0304922f06eff539c511238b143ef8331969e20d54a9560df57d5a_0.png?Expires=1704844800&Signature=KIiJQIqd5bTmx4JokT919QsxSvo62FmgWoPyMNQVtZmNfyPIrmBZX76CZWRH6Me9hwnPYAdzZEOKc4clUKsl4Cv4O1Q37c3dvXyHflS5FtAyE9Mrrz3ufoH8w~gzhHRPp6bo0lk8uSjmxNJ8vggYkVyO~di2C35ZYEpIM1RzdwZ7F50cZ7GoZ351Lpiv3974WSrMLCnIgo0HK7wAUBbFGDv1HTRL7c~apTBHYQhpUCIF9H56JkwJLfcH7yZhE13oTLnSP7oCjySTz-rxd3fD4px9-dCLVyQjywYYXXWxGf7PtP8VDOdNIkX3vz1xTn~11wys3vsq9HTrbeTaOllWdw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "見果てぬ贅を、追い尽くす。",
+                            "description": "時間内にマトをすべて壊しましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 162.05,
+                            "bestClearWeapon": {
+                                "name": "スプラシューター",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/e3874d7d504acf89488ad7f68d29a348caea1a41cd43bd9a272069b0c0466570_0.png?Expires=1704844800&Signature=GB3FVcwqAnGFLcwxsWZZs5Az0ef5nLOJbVqizScO8gc6P1RqfOouUIfKEZEAhXE~4td2oH0efWABoMcEH8aRG0mMM4txG923kQ02nq6jUybr87bYjijZvq81iysoL~LdS8PCtacGmzmehz6zrbhkYEvshC22G5PeoZfihqX3YBFXkeX~PfnGJGZlkEcOmg~4BniNCsN6DDliwaTiQvvXEeShYMOXr59-u6GwG-~C8rdd3CfblnUfflCRDHJSUWViAcaNJCaZdMR2LOkDuXxq79UOEsVE28znHmn77p3Wnwwlr80w8Vo4UV9IJo7cjmc~Yn6r4lTZ2l80jihhccaxVw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "敷かれたレール、何色に染めるか。",
+                            "description": "インクレールを使ってゴールしましょう"
+                        }
+                    ]
+                },
+                {
+                    "id": "SGVyb1NpdGUtNA==",
+                    "siteNumber": 4,
+                    "progressRate": 0.86,
+                    "siteName": "うめたてドリームランド",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/7aaa14b9343ca12cb2e447099d87f2ecbf15d4433dbe360b561ed857f8386ee2_0.png?Expires=1704844800&Signature=kWX-w2pEKr9Ty2fpl2S6kbHimF47zAWV-FNFT4QZBwsYNlgbgU55peV~Q8EXl7WRriwUPAkLqihEy4VDKHT~qnGF4QlAcRGrsQuc2C07fqAgrqy9burFYqfsP-JyX3qKClrVX~6WVeHiD6Ql5qHklpBB-Mx0zD-PEeaS4h8SjlSjXHK2K8pF651nXwb4zBgZ9CQrOSdgl6jVjdjfUHSN5u~gjGsXXm3Smr8qraLwDP53BPz2dxBDqnvAwae-cZlkwphekbfRrXMe9wPKs-jQFvZLY5fl7miiQzV-zZlDvRWiJJWzh1qjzojMJseWP2ESfE4R2m~QSWgetTB98525SQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "この潜水艦まだ動くのかなー？",
+                    "progressCommentSpeaker": "AORI",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 193.8,
+                            "bestClearWeapon": {
+                                "name": "ソイチューバー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/2b349390a464710982d7e1496130898e7b5a66c301aa44fc9e19332d42e360ad_0.png?Expires=1704844800&Signature=azfJS0d0Zdow5-~UP1DWHGbpkn6eYFtUhlF67bFtuHU~5btPrehW8vr1SAK4lu1nkjhueHou1r2FHGc7xemN6tiYeWqNIvUA1PFC6FPsdUb1wXeOTY2ZINIASUfhDReusQ2~PO45BYrOiHmKPEuaLcAxccCVXArG8K27tiecEfq81EAHhvRmtdVJh8orLhFbxatHspQkPaGa0tigkfHExeAvGnq-AoG8ofQRKwvd9aAQIOYK3-QkG6OAwxyKgzIJz~dd3g8KDCh1XSlPA5PVjYpL-t3ZpeW5Nlxv9XbsuDrxEjElEM2ZASqHUWHFcSb6n~HNWU77qkF0oyNBRyfZVg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "ようこそ、世界が愛したベイエリアへ。",
+                            "description": "プロペラリフトを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 98.81,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "心、弾む。オルタナは今日も元気です。",
+                            "description": "はねるものに気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 168.85,
+                            "bestClearWeapon": {
+                                "name": "スクイックリンα",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=pF6lei~B6lvNF1d2r~OZ~AhWyy29MAnLAfWfmxBOw2mEkBqnn3AeWlcOzm4ZLsMZWE9oWWk6IiDn9eIzXxPqseCVznD0EKOLSknhmMjGr9vhKmW2DeyJz2k-c4wFJ6TWqk3a-lsIBK5IN2BNypfWtPNmWACqad5rdG57QiRUa0jNSYRy0hPxPdxSLQhcFKbBJ6jgKBj0I71vWtli9MfTl520m~xVYu0Y4A4oF2imLY6FmxzBAKz7Nc8cLdNbe7PYGZPljqt0gq8fr04wZErrLvmRZZXMIqwuh2Ld69VynA53ItrEXUONOuCC66k1bVb9YIEo7iwNOJUu3Mavi-HUsA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "坂を上り、川のせせらぎに耳を澄ます。",
+                            "description": "押し出しに気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 243.35,
+                            "bestClearWeapon": {
+                                "name": "トライストリンガー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=Xkj7scE0D6bq-st-ZR0HoG9hq9kIfM2wzd8YjAekWqmgNa3Nk9jMndbAJgtAQeKypdz3aAAacQkOd361eoXFze7sg8kjwjodVGEFeW8t5yP4cuo9ZYf1Gq1q9OLKgIM3SIWx1od7h65sBYsP1GXTHP1fZZWcnaEdWnUacqUAuXVJY2eoxb31IQIVr9joRFuNIWr5PH~80uzIjKCIUItweTKkeCg-NoyisBgw7LSRTGiP4hq-x~O70zXMX8ECmYkQBJ~ehob1s~ABalEG2U0Z-6vIoUXEvEeKTJbUz0IbNDSLQdQ3UQ0Mm2ecRfGZyo4s8ZFUA64V5e-53EZwA6wOBg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "芸術。この街の夜景を、人はそう呼ぶ。",
+                            "description": "ヘビブロックを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 293.83,
+                            "bestClearWeapon": {
+                                "name": "ボトルガイザー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/db9f2ff8fab9f74c05c7589d43f132eacbff94154dcc20e09c864fced36d4d95_0.png?Expires=1704844800&Signature=l1346t3iG3~dICvaaJDHqYoehsiFMdMuELlbWqpjykDJrOW0qMfnE3Dxih8Ul6SctW4wD4XXNe5oAQI5tTNjW8J5WBow6eq~IVsboHiaRXU9yOYOkkShM894NNPafDXzVNZ6kEwFdia00tQwmWHoBZIFl-ghvnczhjuJ3zBCC2OQ79PVDdAK1z5x9uYGgoVQiqABrjIHX5wW8tAyqeDf3GIN2gFqBqBUu4b5Z7QM5q3lMkFRvKU3AhXPQo8J0fjHcGm8rNrFPjeq07Sg9egI-V39TA3SsKbOUvsUWNxgGk3BtQueQtVZGGJijomA0PKf~DMmOt-VQR7pSDkDPCAZKQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "「引き算」とは「美しさの足し算」である。",
+                            "description": "お手本とよく見比べましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 94.45,
+                            "bestClearWeapon": {
+                                "name": "スクイックリンα",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=pF6lei~B6lvNF1d2r~OZ~AhWyy29MAnLAfWfmxBOw2mEkBqnn3AeWlcOzm4ZLsMZWE9oWWk6IiDn9eIzXxPqseCVznD0EKOLSknhmMjGr9vhKmW2DeyJz2k-c4wFJ6TWqk3a-lsIBK5IN2BNypfWtPNmWACqad5rdG57QiRUa0jNSYRy0hPxPdxSLQhcFKbBJ6jgKBj0I71vWtli9MfTl520m~xVYu0Y4A4oF2imLY6FmxzBAKz7Nc8cLdNbe7PYGZPljqt0gq8fr04wZErrLvmRZZXMIqwuh2Ld69VynA53ItrEXUONOuCC66k1bVb9YIEo7iwNOJUu3Mavi-HUsA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "押し寄せる価値と向き合う、本質と技芸の舞台。",
+                            "description": "マトをすべて壊しましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 291.66,
+                            "bestClearWeapon": {
+                                "name": "ソイチューバー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/2b349390a464710982d7e1496130898e7b5a66c301aa44fc9e19332d42e360ad_0.png?Expires=1704844800&Signature=azfJS0d0Zdow5-~UP1DWHGbpkn6eYFtUhlF67bFtuHU~5btPrehW8vr1SAK4lu1nkjhueHou1r2FHGc7xemN6tiYeWqNIvUA1PFC6FPsdUb1wXeOTY2ZINIASUfhDReusQ2~PO45BYrOiHmKPEuaLcAxccCVXArG8K27tiecEfq81EAHhvRmtdVJh8orLhFbxatHspQkPaGa0tigkfHExeAvGnq-AoG8ofQRKwvd9aAQIOYK3-QkG6OAwxyKgzIJz~dd3g8KDCh1XSlPA5PVjYpL-t3ZpeW5Nlxv9XbsuDrxEjElEM2ZASqHUWHFcSb6n~HNWU77qkF0oyNBRyfZVg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "Charge&Keep 革新をまとい、伝統を継ぐ邸。",
+                            "description": "よくねらってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 8,
+                            "isBoss": false,
+                            "bestClearTimeSec": 136.1,
+                            "bestClearWeapon": {
+                                "name": "ハイドラント",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/34fe0401b6f6a0b09839696fc820ece9570a9d56e3a746b65f0604dec91a9920_0.png?Expires=1704844800&Signature=MDu0ACyVwkFhyHR2HIiEic3iMeBlmLwF~o1zDbhwAXw4Rt8Nw3~85AALKUchjnK9RZ2RfI-Do8WBgKSJnQ5g-WJt1jgGIYrm3ZM4lCR10e8jcIVHxnUaBv14UxHi7oJR4NjWRZWLQWhJRoXCDH8rRIcZBy6GWV8LgsX98X~XyGNgdxXcc4HQr3YvSRX4y19D3IbVi73be8mPMzV-lZtqQXhRh9yM9HPxiaSFWa2-nBpe~MInEt40i82uA7krZMYgOgDwauxiLdRUsSS3H9NEPtNuWo-DWwV-CoUxpImAgcVf-BQl1bo53NMMWXjyWvRnVVr6Ei6AeHT3BvIPat8FwQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "見つけた。「駅直結」という未来への近道。",
+                            "description": "マトを壊してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 9,
+                            "isBoss": false,
+                            "bestClearTimeSec": 264.21,
+                            "bestClearWeapon": {
+                                "name": "スクイックリンα",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=pF6lei~B6lvNF1d2r~OZ~AhWyy29MAnLAfWfmxBOw2mEkBqnn3AeWlcOzm4ZLsMZWE9oWWk6IiDn9eIzXxPqseCVznD0EKOLSknhmMjGr9vhKmW2DeyJz2k-c4wFJ6TWqk3a-lsIBK5IN2BNypfWtPNmWACqad5rdG57QiRUa0jNSYRy0hPxPdxSLQhcFKbBJ6jgKBj0I71vWtli9MfTl520m~xVYu0Y4A4oF2imLY6FmxzBAKz7Nc8cLdNbe7PYGZPljqt0gq8fr04wZErrLvmRZZXMIqwuh2Ld69VynA53ItrEXUONOuCC66k1bVb9YIEo7iwNOJUu3Mavi-HUsA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "さあ、飛び立とう。空にそびえる理想郷へ。",
+                            "description": "足場に気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 10,
+                            "isBoss": false,
+                            "bestClearTimeSec": 87.28,
+                            "bestClearWeapon": {
+                                "name": "スクイックリンα",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=pF6lei~B6lvNF1d2r~OZ~AhWyy29MAnLAfWfmxBOw2mEkBqnn3AeWlcOzm4ZLsMZWE9oWWk6IiDn9eIzXxPqseCVznD0EKOLSknhmMjGr9vhKmW2DeyJz2k-c4wFJ6TWqk3a-lsIBK5IN2BNypfWtPNmWACqad5rdG57QiRUa0jNSYRy0hPxPdxSLQhcFKbBJ6jgKBj0I71vWtli9MfTl520m~xVYu0Y4A4oF2imLY6FmxzBAKz7Nc8cLdNbe7PYGZPljqt0gq8fr04wZErrLvmRZZXMIqwuh2Ld69VynA53ItrEXUONOuCC66k1bVb9YIEo7iwNOJUu3Mavi-HUsA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "機を見るに、美。",
+                            "description": "マトを壊してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 11,
+                            "isBoss": false,
+                            "bestClearTimeSec": 171.2,
+                            "bestClearWeapon": {
+                                "name": "ジムワイパー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/ddd2a4258a70cdaf8a1dbc0ded024db497445d71f950fe7645fa8c69a178a082_0.png?Expires=1704844800&Signature=V35zCuHlHuky7r301luadXBLPMSf5g3HswtF4lbN6cMbJmE8kKx8hGxKpvE3vO9SOsMFgX8xZRBndQJub7wkRAyf0w4T6T7mqKex3TW5v1qAZ129CAPAUOkes6OfAQ1IOupCjmbUucdGdot0WiKnu8yZvFzdYA33~0q-mEZ--cixGmBoVGjEvxKvW3s3PLPzjXq6FnLueERNMl-4bM~i8bClS8Me2Y8DFULeJ65q7Wp6vd-fvpYK5I0AlJkH01VPYuZxdOpfdZeZaoHel97Mnasr6jOrd8j9h8JCtMqz8IeQJinOSo6yWDElibLvjkD5dxbepApUXdPsZgb2qz21Cg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "私という歴史を刻む、和の空間。",
+                            "description": "ワイパーを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 12,
+                            "isBoss": false,
+                            "bestClearTimeSec": 81.46,
+                            "bestClearWeapon": {
+                                "name": "ホクサイ",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/ce0bb38588e497586a60f16e0aca914f181f42be29953742fd4a55a97e2ebd22_0.png?Expires=1704844800&Signature=pVOG7Sw9TNC520b1~CjkEFO3omH2R0XpSNww7K71WUUy8vugAm~la~4yGHXNkNoj0WVhgho0fu~CEGFYO9NHuFPDbHQ-PxeoRq~ckyE7~568Ig-YA8S5YiIPYXrB1Zgap5UGvY7igVxXoYQFu6oLpMd-z-HpJmYhzjC3O4MOpczssLaDY~Dunk1ds8AH9aTsPccbjmuepfp88qPSPgVK-hBQNmj36jgiqgd58yKehqasSWie-V-c4VNzHfwjejrJ5pdpEFSG149kFSygDSOFfG~H9v47fISbDZboxZIfb0Oik0Z4GZe4MXqmdll99TSrIkmWrKZW4SvQKylGJO5DoA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "線を引く、道ができる、やがて街になる。",
+                            "description": "スイッチをONにしてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 99,
+                            "isBoss": true,
+                            "bestClearTimeSec": 201.71,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オルタナに封印された、気高き刃。それは…。",
+                            "description": "トビラの先へたどり着きましょう"
+                        }
+                    ]
+                },
+                {
+                    "id": "SGVyb1NpdGUtNQ==",
+                    "siteNumber": 5,
+                    "progressRate": 0.83,
+                    "siteName": "あすなろグリーンヒルズ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/50b082ee91249f941de5b87766f0dcb827b2cb1161ec7f0b00604490787705bf_0.png?Expires=1704844800&Signature=iCsY7Qz2pg~D85oPc~sUrtipjEfKr4mWQSdrh5tzlaUcz5~1MqjFnw8n2OdlJac6Sz8zIk0iQMfsY~lm56i7RUhh3rQzcuOzrMn7i3boO9JkkB1VHRxajU2fhtjesSESiyBHMu9E6vIooW13MTol3zy60qnLVMQBN4RWteYdgj4pphy85EaMX~u7OdQewtpwVJI558wpVH0u96kmbtdKavgl~HcapUtX1wxtjA6cxivZIbX0sfsnEZSuPeBsDQofpMhq1EI4RZcdtrHxH0EbFLaRLTt8ZeGNFsDPyrD0pyRbagUYoAo8CQOHFLXt0QykSedVQlWWn-xNyXXNgZWEuA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "ここってポテト作ってるかな？",
+                    "progressCommentSpeaker": "AORI",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 224.46,
+                            "bestClearWeapon": {
+                                "name": "ケルビン525",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/802d3d501738c620b4f709203ccad343490bd3340b2fda21eb38a362320dc6ed_0.png?Expires=1704844800&Signature=FB3VxArTrQHd0ze7gK6YIuJmc32vcMfLMFuQjTsa0mJBX049zuFkYy2uMGfdgjsuDzAWFfWa5FcflATwbEpRNVbFfBZkNJHLVveWXRTYZuTOZmUOjzXUxCEH~-P1~xvBd7WmGosL8xVMhx95SDs4IK8TgmQ-yLG3oPdPuZcXdIon04~VexH9jY9myGE9DuZ4HyNngtrxs98lJk0-J9lXzQs82JOaLHomQMhU2KwJtC--K0MVFBS6OIdXfptHd1ShUbtJ5ecZw9dN3ge2G2X6bCrkE7DYswyYzHO~Kh3FoaaIgZ3NuCJTzF4tJHUjh7qh8wNv1eF~LeclMkXoP0ypkg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "曲がり角の数だけ驚きあり。散歩道も、人生も。",
+                            "description": "撃ち合いを制してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 180.0,
+                            "bestClearWeapon": {
+                                "name": "スパッタリー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/f1c8fc32bd90fc9258dc17e9f9bcfd5e6498f6e283709bf1896b78193b8e39e9_0.png?Expires=1704844800&Signature=dYZ90vOWKiht-aqL6UM0zGDjNaeW7jo0X2nLgmypoHE96hvwK9l4XUGgWqk5DqSOnobUVU~ONlzngHVyOBCUUtOMqfVIirbOUXMgcxk-T7y3Sd3dbcEnH-r4llj5BJ1NIcT88MdxhkU3KPYWie24Jq1nkd~zMrMQSMGXnzWHVrRCJ3DJkM1FRDKo1cLZT4eX75q~29Tay0VfEtEu9ig6A~MNUHe9816Tr-7mSphhdLK5U6~NO70r3m8Lc~HuLMOJDpKdy2xLIhjvhnV9EaV2v7uOYyblOk-nSG2hghiw1IiHBDaJDPyoZXd25wrDDYT8eoyKgfAFT2CPRtbKy0bFuA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "裏側へのこだわり。それは豊かさの象徴。",
+                            "description": "背中をねらってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 194.98,
+                            "bestClearWeapon": {
+                                "name": "ボールドマーカー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/6e58a0747ab899badcb6f351512c6034e0a49bd6453281f32c7f550a2132fd65_0.png?Expires=1704844800&Signature=FQdjsM1EhI1-A0JWUuJt89QKi4zwT5HUfzb33gZkiFmnhCqCZnnaRU~odhPwZwiQx2mt9wdii5m-iXVXVmlhBvkNiYlkOfuqYa4N4-vqpnpUVfx3H3ZQUlmLsjL3L4kphgGPO7ts2UXGo3GQmW7jle85i7IYAORhzNmXxbjSFVBCnXUHkxYka0p4gZ-4CsbbupzzbfMN09~y1mSZQTCop0BCdXfiKbDq2c4z~DF7GppZ3VOlOxcBpXgTLywrkyVcKD2T8d96SWrBtxgUjLjhIVCgGOPwIWsYaARxrBvEx7RyreC18yFyh8zkSAlUjeUcQUQht8Do091Jupnf7GIXSw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オブソリートビュー、飾らない景色の中で。",
+                            "description": "視線に気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 294.18,
+                            "bestClearWeapon": {
+                                "name": "トライストリンガー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=Xkj7scE0D6bq-st-ZR0HoG9hq9kIfM2wzd8YjAekWqmgNa3Nk9jMndbAJgtAQeKypdz3aAAacQkOd361eoXFze7sg8kjwjodVGEFeW8t5yP4cuo9ZYf1Gq1q9OLKgIM3SIWx1od7h65sBYsP1GXTHP1fZZWcnaEdWnUacqUAuXVJY2eoxb31IQIVr9joRFuNIWr5PH~80uzIjKCIUItweTKkeCg-NoyisBgw7LSRTGiP4hq-x~O70zXMX8ECmYkQBJ~ehob1s~ABalEG2U0Z-6vIoUXEvEeKTJbUz0IbNDSLQdQ3UQ0Mm2ecRfGZyo4s8ZFUA64V5e-53EZwA6wOBg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "屋根、それは未来の邸宅の条件。",
+                            "description": "頭上に気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 79.33,
+                            "bestClearWeapon": {
+                                "name": "パブロ",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/260428edbf919f5c9e8c8517516d6a7a8133cf7348d216768ab4fb9434053f08_0.png?Expires=1704844800&Signature=sm3kJU7hN-uxQ1sy1pzrYd5oRpDygnTdHBtu9DJ~EPY3jfaBzUAtOkneSRo6f3VbC0gWnujLLMITzAxF5xERMisNfRDRUip0lWQ63Q5bEwisrYxOf8U8jZXlPc9J2MStHNmK3z6fYDkt4DZe9Ifhujg0AdPenGYacEkMi492UcIO~FEGEohFaPOOrtvdeGDbv45ZfG-rvZ12GFDzfw4s6zaH8TNFll~oiefNPiEKdXV7KG6Dvt5kVwJfKqu3Uwl4rGP7ooQykTgZSm1RjFwvIORxdMoCBDl2PCO4praP0D7mjL21F~jSHdo4bi9BkcqV7BPvefvN926IXyvjNtMuGw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "美意識が調和する空間に、立ち入る特別を。",
+                            "description": "時間内にイクラをすべて集めましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 329.0,
+                            "bestClearWeapon": {
+                                "name": "ショクワンダー",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/7b53d9b20930c4b90c2164d4e2c2b13b1a33d688e0b553447804ebf1f15ce17e_2.png?Expires=1704844800&Signature=LdmL82FE7eBxQrRjVZDkxyTbhgjzrK4ZAbWwYwSqdN9MjnOzomU7kNOekj63gnuGOu9xHkgqW0hzf5gMxCF~ElhAA5Bd5bXvyi2HfpPufevL1ToiYNoLRAU~JcegpQMoD9wyuyUck0fzcEYN~ZduAFu3~rFNwPScl1tggPAX~KlqOlEES5WlsXNC7AkG8impYcOEkX0M8Ie3EmtfNacYPu5UJLBzONWFPEbBY8EmblP9d0kwMfoStIr6dhz8PLcJeSbIyoSY8MrsWR3LGpZKtxFYOYdNPes4EATlXlao1Tpnqz122qsoA2oCN7JRDde9eouOmsTH9LU1wR03v~L6jg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "家屋が並ぶ、その伝統の見晴らしに恋をする。",
+                            "description": "ショクワンダーでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 135.66,
+                            "bestClearWeapon": {
+                                "name": "ラピッドブラスター",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0a929d514403d07e1543e638141ebace947ffd539f5f766b42f4d6577d40d7b8_0.png?Expires=1704844800&Signature=Cti6iWbaJpyT5yE7m~q4qeWXqphUiGl~RFk2VizBKvrHTE38DJiyJBspmWdl-pBsrKu2Tj3GFx~tGvRUBY~FWr-UVqCNLDbsWd6Afw2G2Xz6BMjP5Wme-crU2Zjnaj7IRWV~D-SshzUpqfJ7aYhMHcFyNra4m6EzNM41BE-DKa~H6S2vS3LpnUpg-aSGCIPDkIv~JysPMWcuv0dwK-QWSMyHIacBs0yDkMxfj3X8eLwGYNgTAI2Zsvo7VUn746MHElTeF1U-IFTyELl2cwNKP--Xv9qnxVqfRXqlxKQuruNAoBNTdnRuN4zLB1yzcXP4Xwwa0NBQv~0xos-Gy6A89Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "不可逆な時の中で、この街並みを選ぶ意味。",
+                            "description": "マトを壊してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 8,
+                            "isBoss": false,
+                            "bestClearTimeSec": 145.6,
+                            "bestClearWeapon": {
+                                "name": "スーパーチャクチ",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/afb7eede9a30455617a970699bc3549b5fff3b6a3b596078fe7e0a0bf32db2e8_2.png?Expires=1704844800&Signature=fgMm40TRjTic5OUQeUTuXDNfSuoQ50GZE3sNsRxCE1m8vzXQUFmbik-ukp5X9qw7cuzXCNrSdT1aj5JSyxvbf8QWrviJ9bFn~if15kL108bj-jX4pPF7svl~knl0CpTCasBuotieUeT-7JEy3vJ6esjVr-fycoPb8hIxBvkgREXQ6N3VvvTcxw4n-4XLKfOzKTTWcucE6oYFdOrm2Zj652oMPJoVv9BA1wqwd7D5sRD~Z9jb47WxlmV4JD47G1Ics91ztk0fxErcBX16bf3U~lma~tmh4Jmkromw92sBc9HUakqmZSfdYjxDtNG-2Qgtg0n77RHw9nsJi2c9Du5Yrg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "確かに踏みしめる。この夜景に暮らす、歓びを。",
+                            "description": "スーパーチャクチを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 9,
+                            "isBoss": false,
+                            "bestClearTimeSec": 136.91,
+                            "bestClearWeapon": {
+                                "name": ".52ガロン",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/01e8399a3c56707b6e9f7500d3d583ba1d400eec06449d8fe047cda1956a4ccc_0.png?Expires=1704844800&Signature=mnAz8tQqXeYH5JAc0HqjDimGCDairugSVSIvneK15xyBPNIKSimyxQaj-pK4-nrPCCHARN1Lv8IRFy6gEsdzdnKhTIXj2Cmi2CHb3OvmR2B4sm3qoQ5RwIctlC71~z7isXB-spNafrULNPAX2lAgnkMtrGzXHYTDRd6Kcn7MI5O1gIZJy0n0zt56Oe8tmQ1y0hrBGvQgjYJEsp1pfyMVWLoOTXnCoFNr9TImFJZP0j0CoJRowNh7fivLXCmAIG2mrjXGGRJrmbAHt6SapBdix~A-MmtlJiw8FLwi-ZsichlUqA4vxmYcZFdcXFaOEIrMOCaSK0IV~3sVnP3CTSEiHQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "霧と邸宅の、甘美なるマリアージュ。",
+                            "description": "手探りで進んでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 10,
+                            "isBoss": false,
+                            "bestClearTimeSec": 153.53,
+                            "bestClearWeapon": {
+                                "name": "トライストリンガー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=Xkj7scE0D6bq-st-ZR0HoG9hq9kIfM2wzd8YjAekWqmgNa3Nk9jMndbAJgtAQeKypdz3aAAacQkOd361eoXFze7sg8kjwjodVGEFeW8t5yP4cuo9ZYf1Gq1q9OLKgIM3SIWx1od7h65sBYsP1GXTHP1fZZWcnaEdWnUacqUAuXVJY2eoxb31IQIVr9joRFuNIWr5PH~80uzIjKCIUItweTKkeCg-NoyisBgw7LSRTGiP4hq-x~O70zXMX8ECmYkQBJ~ehob1s~ABalEG2U0Z-6vIoUXEvEeKTJbUz0IbNDSLQdQ3UQ0Mm2ecRfGZyo4s8ZFUA64V5e-53EZwA6wOBg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "水と緑に充ちた、潤う日々への片道切符を。",
+                            "description": "ライドレールに乗ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 11,
+                            "isBoss": false,
+                            "bestClearTimeSec": 100.16,
+                            "bestClearWeapon": {
+                                "name": "ショクワンダー",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/7b53d9b20930c4b90c2164d4e2c2b13b1a33d688e0b553447804ebf1f15ce17e_2.png?Expires=1704844800&Signature=LdmL82FE7eBxQrRjVZDkxyTbhgjzrK4ZAbWwYwSqdN9MjnOzomU7kNOekj63gnuGOu9xHkgqW0hzf5gMxCF~ElhAA5Bd5bXvyi2HfpPufevL1ToiYNoLRAU~JcegpQMoD9wyuyUck0fzcEYN~ZduAFu3~rFNwPScl1tggPAX~KlqOlEES5WlsXNC7AkG8impYcOEkX0M8Ie3EmtfNacYPu5UJLBzONWFPEbBY8EmblP9d0kwMfoStIr6dhz8PLcJeSbIyoSY8MrsWR3LGpZKtxFYOYdNPes4EATlXlao1Tpnqz122qsoA2oCN7JRDde9eouOmsTH9LU1wR03v~L6jg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "走る、飛ぶ。あなたと躍動するエリア。",
+                            "description": "ショクワンダーでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 12,
+                            "isBoss": false,
+                            "bestClearTimeSec": 163.85,
+                            "bestClearWeapon": {
+                                "name": "クーゲルシュライバー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/206dbf3b5dfc9962b6a783acf68a856f0c8fbf0c56257c2ca5c25d63198dd6e1_0.png?Expires=1704844800&Signature=uuj3zQjQSqdChd5zlW3rCg4cyyALTaKbqUyupe0FaKly21BsxKGbrGaI1kndCusnYdMFAmkMv86fIsX5Yija4zkprCjfSyrd1dhC5SUkpDh4obm9nCuSRXTXQRpqhCiaOu8Pml8bQZIgWIx9uVc3pnW85NH~6C2YkKad8wBdmChNaherowMU3kQ~buo6h1KJVeCeqvlCkgQ4fCNgTE3V6RK0~NDprTsaPq~TSzz3zHiiCRTyYKiBhXdSrotmRkrEyXxkxJCldu1V7d0S-~iRxXvREGHDqBfvneNDlsP1wDldyBE9zg4xb~N7plQd1Z3TcoyxVxxBz0AgXwQvx~t-fQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "欲しいものはいつも、遠くにあった。",
+                            "description": "射程を生かしてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 13,
+                            "isBoss": false,
+                            "bestClearTimeSec": 409.88,
+                            "bestClearWeapon": {
+                                "name": "ボールドマーカー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/6e58a0747ab899badcb6f351512c6034e0a49bd6453281f32c7f550a2132fd65_0.png?Expires=1704844800&Signature=FQdjsM1EhI1-A0JWUuJt89QKi4zwT5HUfzb33gZkiFmnhCqCZnnaRU~odhPwZwiQx2mt9wdii5m-iXVXVmlhBvkNiYlkOfuqYa4N4-vqpnpUVfx3H3ZQUlmLsjL3L4kphgGPO7ts2UXGo3GQmW7jle85i7IYAORhzNmXxbjSFVBCnXUHkxYka0p4gZ-4CsbbupzzbfMN09~y1mSZQTCop0BCdXfiKbDq2c4z~DF7GppZ3VOlOxcBpXgTLywrkyVcKD2T8d96SWrBtxgUjLjhIVCgGOPwIWsYaARxrBvEx7RyreC18yFyh8zkSAlUjeUcQUQht8Do091Jupnf7GIXSw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "水面にゆれる。秘密をまとった、その魅惑。",
+                            "description": "ラインマーカーを使ってゴールしましょう"
+                        }
+                    ]
+                },
+                {
+                    "id": "SGVyb1NpdGUtNg==",
+                    "siteNumber": 6,
+                    "progressRate": 0.89,
+                    "siteName": "しあわせリサーチラボ",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_banner/629c99a95cccc3380f4596c87b9711547c9ad5d0ecf3dc49ae791b2b3310326f_0.png?Expires=1704844800&Signature=vitQOKphGA3zsJ9hqoTPhFB9FOFHQfK0VKVv3zIHICMoYKiemv8s0dJu8naLUu5N0OFA5IFxxNkYGOe11JwipU1NzAx9or8KKf3O2hWI4wAU-iwq0~GT7NEz93w8shVimdEwpt-lMviEu-YCO4HGG-2-Mbo0p2Q0UQsmlaHQ8S8PDS-ipRATcfvHn7kRo88Y9c21pKryePanK~HeQY-oXEylZkEARqQGk4xF~alSP4jdsTm0PeGKhEIyPobvfJMburN3IBo~yvI2gOStERNXDbkYDvyE3eAfC7wH1D4eEzK4hQBLix21UNX4OCCcTwmTtzOq-HzN1xTujPwVU1vnWQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "progressComment": "わー、ビルが半身浴してるー！",
+                    "progressCommentSpeaker": "AORI",
+                    "reward": null,
+                    "clearedStages": [
+                        {
+                            "stageNumber": 1,
+                            "isBoss": false,
+                            "bestClearTimeSec": 153.86,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "その日常は、非日常をまとう。",
+                            "description": "ぐるっと回ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 2,
+                            "isBoss": false,
+                            "bestClearTimeSec": 369.63,
+                            "bestClearWeapon": {
+                                "name": "スクイックリンα",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=pF6lei~B6lvNF1d2r~OZ~AhWyy29MAnLAfWfmxBOw2mEkBqnn3AeWlcOzm4ZLsMZWE9oWWk6IiDn9eIzXxPqseCVznD0EKOLSknhmMjGr9vhKmW2DeyJz2k-c4wFJ6TWqk3a-lsIBK5IN2BNypfWtPNmWACqad5rdG57QiRUa0jNSYRy0hPxPdxSLQhcFKbBJ6jgKBj0I71vWtli9MfTl520m~xVYu0Y4A4oF2imLY6FmxzBAKz7Nc8cLdNbe7PYGZPljqt0gq8fr04wZErrLvmRZZXMIqwuh2Ld69VynA53ItrEXUONOuCC66k1bVb9YIEo7iwNOJUu3Mavi-HUsA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "下る、上る。高台生活の贅沢なルーティン。",
+                            "description": "頂上に登ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 3,
+                            "isBoss": false,
+                            "bestClearTimeSec": 200.68,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "集う、美の粋。",
+                            "description": "いろいろな攻撃に気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 4,
+                            "isBoss": false,
+                            "bestClearTimeSec": 244.91,
+                            "bestClearWeapon": {
+                                "name": "シャープマーカー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/25e98eaba1e17308db191b740d9b89e6a977bfcd37c8dc1d65883731c0c72609_0.png?Expires=1704844800&Signature=uWCLmjC28C2MgnsNi80uFsrcKsbiF~RgQv7M-TbqeZeEwODISFesEl8dBmEOfgnCccWMCS25eCARoLE2odw9EksvgBTD6NwLwgQLi2I2hwRdmvbJo1PPajHfjkH1fbhu3wmKColojyNeQobwCnsJhROvNGWgn1xMRo2drWsrRhPPRnZv10T1cDLV-Wi2hbfF7llhaSE5u1o7pEBkcpHhHeFYUPGSHN6NY6WLZZQSei8rmrVnqTBmsnKnQkxs4j1rGT-cz51ccgzKpDuyk3QxBqR2Ex0-lhppWZ0PpE4i7GVkdlyMtkWHZfx90t0NVVubIfEaiBGW9vY66mehQVGu9g__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "限りある今に、限りない喜びを。",
+                            "description": "限られたインクでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 5,
+                            "isBoss": false,
+                            "bestClearTimeSec": 219.18,
+                            "bestClearWeapon": {
+                                "name": "カーリングボム",
+                                "category": "SUB",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/sub_img/yellow/8d31879c8692155c9ecb213fb5d75c8cdef49c4f4e8f13a1ee732ace9eef2a58_2.png?Expires=1704844800&Signature=i6DUZAPVAGcN9ww6KQrv8fOES34M~yz2HMeVUnWmTw7RlY00htqbGEb7z5iCdVQC~4UBGiMLD7J407JhRbhmYaSZ8NEBiIMN8pGs1xPWqUWIt5zcV94DIbF0GGa6gknrRTr1WD75VLmZrQ-f1CJFvqQKB2wlYpRoAvosCe564aWN5t3~s86F5OGzI6HiFvwUtm~XhlWEg3iZwQhnfROvdcq--QKpNhXquHnpLh6LRr-AZs7uV-d6Z~0LAMm~VQruPfXkEfmxdygNluLvBiCQiOcSPK9Wi9XY9r3WWslHu7NaeVuFYHcB2rQCc5ulxR-2GvDEzJXeGZVBRVSImtsVHw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "アナタ色計画、始動。",
+                            "description": "インクに気をつけてゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 6,
+                            "isBoss": false,
+                            "bestClearTimeSec": 212.03,
+                            "bestClearWeapon": {
+                                "name": "スプラローラー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/536b28d9dd9fc6633a4bea4a141d63942a0ba3470fc504e5b0d02ee408798a87_0.png?Expires=1704844800&Signature=XIKp6uyVTmYHpIj9hZ-TlDp1No3Ba2AAFt3h9-MNW4xhs8e0ljY61yOnOp~wnfg1PpERLPy2Rf1Y3vUe2-Z4WlTaOXJzRbjlEbluGAv3te1G8NOZSXUH9aqKs0s8YSy9UkVKzwanvZV1JBdV4LPWjXXAO9NmMyyY45KwojE0jFHNkia6kyO8Rwy7iVJy7Iz523twe98rOc9gcwyBayO-RxwtkRfz3wZuzAw5h67tgaDEAFT5-qQAZzBxhQCaScrMLt~Xb3DDFGXFI9PV-fIb9zqwTp8ceuye05ONgqhZLcRtsQMT1GbyEwxkzgM4VYDkZUCQmwTd5pxdaqiRECj0AA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "時代を巻き込む衝撃が、ここに。",
+                            "description": "ローラーを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 7,
+                            "isBoss": false,
+                            "bestClearTimeSec": 90.9,
+                            "bestClearWeapon": {
+                                "name": "カーボンローラー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/29358fd25b6ad1ba9e99f5721f0248af8bde7f1f757d00cbbc7a8a6be02a880d_0.png?Expires=1704844800&Signature=K5qt6u62gdEfUEYobLVqaQEH1cesAlcvdbMFL37rpgGISX-q-6x9gdaDEoBB4GvxI986jJ45w87vLPyyo-eI5fW8yrBNQuQ-7bCTZMlRWHI1pFx-rIFIGhGpyHxmJpOgTQ3q9VE1q1gLWJsx0gUyDkp8SDU9rkZerO3Xw04EwkcRvCLbLYDW-ti-smWbUc9SxYodPASAmv8LEQfUKrT3m7FW08wGBnPU4KXvM5TrBXOQR6OiED38VG~g56lav0a1dHrU~aD8uevklfff7QtmXRNEWQmruqRfD5BrdWTFN2BuO9ZaAvAEB9eplIVpBj-v8ooWDiZ~9L-su8QHwy5KVQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "この高さ、この輝き、この儚さ。最高峰。",
+                            "description": "急いでゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 8,
+                            "isBoss": false,
+                            "bestClearTimeSec": 178.08,
+                            "bestClearWeapon": {
+                                "name": "トライストリンガー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=Xkj7scE0D6bq-st-ZR0HoG9hq9kIfM2wzd8YjAekWqmgNa3Nk9jMndbAJgtAQeKypdz3aAAacQkOd361eoXFze7sg8kjwjodVGEFeW8t5yP4cuo9ZYf1Gq1q9OLKgIM3SIWx1od7h65sBYsP1GXTHP1fZZWcnaEdWnUacqUAuXVJY2eoxb31IQIVr9joRFuNIWr5PH~80uzIjKCIUItweTKkeCg-NoyisBgw7LSRTGiP4hq-x~O70zXMX8ECmYkQBJ~ehob1s~ABalEG2U0Z-6vIoUXEvEeKTJbUz0IbNDSLQdQ3UQ0Mm2ecRfGZyo4s8ZFUA64V5e-53EZwA6wOBg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "心地良い。「静」と「動」の美しいバランス。",
+                            "description": "タイミングを見ながらゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 9,
+                            "isBoss": false,
+                            "bestClearTimeSec": 111.1,
+                            "bestClearWeapon": {
+                                "name": "プロモデラーMG",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/5ec00bcf96c7a3f731d7a2e67f60f802f33d22f07177b94d5905f471b08b629f_0.png?Expires=1704844800&Signature=hezW-XMU~a8DFBkcj9K1Dwe8IoxD~iWHKh~XkYk1wYUFrW0VBqrrkncrNVDs0xEXBF7eyluzoor7v6A4qre3Opf8P2IMDlyokq~-z44~yzE~sXzuzq9DhnbimY-a9CwKw9q57D45KhQj4c0xoRBLRsEn-xMu-f8imlwpbSTd74Q1Rto9sjzcGreVnSzT2YdZBZum5-DAnh5Wu92gmyLQHIiYvbm8d~74GtAnBvsRXdKW1ekp5SNAzyOe3741QEqj53D10cmyd0fjxWPeg0od28av17~dZ3yod7Zr9xPugO1oGnkj6S5Lq0vWk8LgrBVNdyVAaLXL3~OhDK8wvofxcw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "競争という、先進と洗練のポテンシャル。",
+                            "description": "時間内にゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 10,
+                            "isBoss": false,
+                            "bestClearTimeSec": 183.7,
+                            "bestClearWeapon": {
+                                "name": "ジェットパック",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/918b6bb427c6b2ae3d1c58baaaa86a7a519adfaec405ce0520598ba87b911079_2.png?Expires=1704844800&Signature=tfmvzv~-L-4IjXQCyZ11OKZF0YWrXId8fz2AXp9oh45iCvAoESYe2VWVPx6axzLO605mxZzZCU2APZ7ow6lMVRBRCPCm-YVQZXEI8bIumV9xoXDsGIcaGiy4hB3X3dT8sQx8B-azSlj5qZ7H~bP8DRg4Vb93rWvsHb2J6rsrlyJEaMXpv5XfsdchO9amgI1JxBLOqeewAcZrCAebKfa4t0b57emSoRsfedHErDIRtmWiS~dfGVLYGd1qKoabqgvZH35GiSAR63zMboRjXqRg3NA64rfPc5S3LGMokunWRXYeQYd0nT~u5gr7UtcW3T-~7bxl9GK0bNbluwYkOgYCmw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "想像する、天空を住みこなす自分を。",
+                            "description": "ジェットパックを使ってゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 11,
+                            "isBoss": false,
+                            "bestClearTimeSec": 305.4,
+                            "bestClearWeapon": {
+                                "name": "オーバーフロッシャー",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0199e455872acba1ab8ef0040eca7f41afca48c1f9ad2c5d274323d6dbc49133_0.png?Expires=1704844800&Signature=rVvUL9g~1eK2SZMsKkS1eTVBemPUSA7B1~tFaBeHIdUsc0cW1nc~dG-IlEGR2os22WudIwKwIcHrRp0bVjNqcHh9Hh-lWOmk0ne1uoCxUmlalCeky6Qa2uQVNI1uao-93gGTBMCBz9-SXeNbme9MqS~VnQRTmQ8vzwMUr8pqPIq1lxiCi5Rz-ZkgIH1QNr2LKu47veBpqemnbR1erF9hAtN9VmQ-VVDBA9xTPi8usDK5HWbuv4VAxssQbOP0Ty-hKKU1ITdyHafhy6LngLBj-o8qza~-FBYy5hURkQ825YkRfQ2HeEZS9a5QKtFEj2uBURe6TQQflUZsdhFuwE9ghA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "追い求めていた、暮らしの正解がここに。",
+                            "description": "カギを探してゴールしましょう"
+                        },
+                        {
+                            "stageNumber": 12,
+                            "isBoss": false,
+                            "bestClearTimeSec": 85.03,
+                            "bestClearWeapon": {
+                                "name": "ウルトラハンコ",
+                                "category": "SPECIAL",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/special_img/yellow/f0d145692e3f18aa80fbd42f7216f1e675d5b95eee5eb85783f39c038677088e_2.png?Expires=1704844800&Signature=XPgrOwwsx8XkdH39eiLOEMNHHOR15w4xX~OL010oiiGuE6HmTXlavLuEMar7xMfUaJWsyyND-hmoM7D0fpBNCWcmyJVvCND79ByatiaMfnrSQfdcNiJhl-297QBaUcjo2A6LpMVl7r6lsSuYlnHGmCSKa4UZTiNNfNMWmBSnERqGQYgUeGAU7ripVs5NeCRFoVcy5xDY6JPQVs-3SXPl~ga2A9zvSvVJNmnfMhtQBpQo0Kh7y507iuWIToYzEirR6QhMr9zyc8ROvoiQtnue3uxpUIf~X4sa-g6M8mkG9GZz0uzZFIxGKRd~nDNGNB-y5sYFZd1fANdbnFonlWfksw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "「住まい」の既成概念を、壊し尽くす。",
+                            "description": "時間内にすべての目標をたたきましょう"
+                        },
+                        {
+                            "stageNumber": 99,
+                            "isBoss": true,
+                            "bestClearTimeSec": 190.73,
+                            "bestClearWeapon": {
+                                "name": "ヒーローシューターLv1",
+                                "category": "MAIN",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/9f789ff48b7cb1ff45cfc194c0ab66ee0536b19a477119e261773707ca8e898a_0.png?Expires=1704844800&Signature=k1yMzfutp~enEFqmYYJYPF8ChQu4LLMD9C8jNny385au4y~-Qizi4kQdD1byvJBKrVQW6xOYQx7uldFNQCzcJoFlHOZi0920prSc7njlSf1nHY50qvVO2~faS5Ck7J0DMOOmOUUSo8Vo9qhym7GxC2ExOKiZVNRfFyBzULR04QjmLCV5hrtPsazr-TrtgiMbWOPV108OwWfmTahwnRug5HWZCfLTkd7SZJqF7sFhk9HijKyZiALYL86sRlM5oWcmLld0ni~V4wjYaFe9J-0errt66Q1WnFLReiy6hBMPttwl1xkHTAvezpBUteeGhFN-u7gWdgPpC-yGE4~EPAXy3Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            "stageName": "オルタナに封印された、強い心。それは…。",
+                            "description": "トビラの先へたどり着きましょう"
+                        }
+                    ]
+                }
+            ],
+            "reward": {
+                "id": "V2FsbHBhcGVyUmV3YXJkLTIxMQ==",
+                "sampleImage": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_rewards/phone/c58dd0a3760008c901839e21a0a5ae6cc92e3765513823ca9553e6ef5f733b36_0.png?Expires=1704844800&Signature=GEETKalTCm3UJWFtFLPP2UK2RRbZgT9N4cjX5e7QXL-ToVNd5~xwQNJXJfaaDTjLGjb3A1nJOOvd8~e85nO16ATXcBncpZNBQtQfA894plSwL9ig83AUqjQDdCCueqkNLbg0u7cvSgBO5E5jU3DfFmDyr5HNfGrdtfcCAPNU7btKFesiaghK6R48FYA1DddEiZcnAxyhKjKlRuuZK52LHi0jXy-~vUOTPVPEnuWgxQEOAvQ~Qbwz73VVHYmMRA9mhSnWM-8TPalqyfia4TMjNOK3ybQ4lTRtrShC7pXbhM3TUZMpK47-GML5vbjDt51T352ULzDAD~KTkm8etXQ7Xw__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "downloadImages": [
+                    {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_rewards/phone/c58dd0a3760008c901839e21a0a5ae6cc92e3765513823ca9553e6ef5f733b36_0.png?Expires=1704844800&Signature=GEETKalTCm3UJWFtFLPP2UK2RRbZgT9N4cjX5e7QXL-ToVNd5~xwQNJXJfaaDTjLGjb3A1nJOOvd8~e85nO16ATXcBncpZNBQtQfA894plSwL9ig83AUqjQDdCCueqkNLbg0u7cvSgBO5E5jU3DfFmDyr5HNfGrdtfcCAPNU7btKFesiaghK6R48FYA1DddEiZcnAxyhKjKlRuuZK52LHi0jXy-~vUOTPVPEnuWgxQEOAvQ~Qbwz73VVHYmMRA9mhSnWM-8TPalqyfia4TMjNOK3ybQ4lTRtrShC7pXbhM3TUZMpK47-GML5vbjDt51T352ULzDAD~KTkm8etXQ7Xw__&Key-Pair-Id=KNBS2THMRC385",
+                        "variant": "PHONE"
+                    },
+                    {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/mission_rewards/tablet/c58dd0a3760008c901839e21a0a5ae6cc92e3765513823ca9553e6ef5f733b36_1.png?Expires=1704844800&Signature=hRksnkUNn4afO9-YM49kepTYSIGJR6E28YzdxeNsyTyzcNQsP3wJYAr2yI0xqihqjibatHOq03v6gE33kPXCd50rrAPm8JdxzEeFSIO400pjZe2o6HFrj-vsCNEYr-1eHOuLnV3s7cmUgSFkDbK8WZNfRpiSpS8hua7-VdWo8t-b2NY4JseUIJLnfY3kxkVWozo9BHegdjKVGi24lmKQl8x6XuFgCGNIDQug9-gaoT9vDXkMpDAGa0cfELHk4~bPVBQipXkM5iEFJZe7arBKrT9a24xXd2~GuqIaejwlfFIMY-cqlUqocYKZNcmj1pRuD2HtLJA~MoePIZfDr~so0A__&Key-Pair-Id=KNBS2THMRC385",
+                        "variant": "TABLET"
+                    }
+                ]
+            },
+            "fullReward": null
+        }
+    }
+}

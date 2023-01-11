@@ -1,0 +1,22 @@
+{
+    "errors": [
+        {
+            "message": "Variable $checkinEventId of type String! was provided invalid value",
+            "locations": [
+                {
+                    "line": 2,
+                    "column": 3
+                }
+            ],
+            "extensions": {
+                "value": null,
+                "problems": [
+                    {
+                        "path": [],
+                        "explanation": "Expected value to not be null"
+                    }
+                ]
+            }
+        }
+    ]
+}

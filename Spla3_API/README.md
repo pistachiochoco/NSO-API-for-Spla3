@@ -1,5 +1,8 @@
 # Spla3 API
 
+#### For reference
+I used `Spla3_API_Helper_Detailed`.py and sent all the requests below to Spla3 API and got the responses.
+Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData).
 
 ## Operation
 
@@ -56,6 +59,51 @@
 |             DetailFestRecordDetailQuery              | `96c3a7fd484b8d3be08e0a3c99eb2a3d` |                                  $festId                                   | fest ID                  |
 |                CoopHistoryDetailQuery                | `9ade2aa3656324870ccec023636aed32` |                            $coopHistoryDetailId                            | coop ID                  |
 
+####  Descriptor of Parameters
+- **XRankingDetailQuery**: `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
+  - from **XRankingQuery**: `["data"]["xRanking"]["currentSeason"]["id"]`
+- **DetailTabViewXRankingArRefetchQuery**:  `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
+  - from **XRankingQuery**
+
+
+- **VsHistoryDetailQuery**: `vsResultId: VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVHVUxBUjoyMDIyMTExM1QxMzU3MDlfMTcyY2EzOTAtNzNlZC00MjBiLTg0NjItMWI3NjRlMjAwOTM1`
+  - from **RegularBattleHistoriesQuery**, **PrivateBattleHistoriesQuery**, **BankaraBattleHistoriesQuery**, **XBattleHistoriesQuery**, 
+
+
+- CoopHistoryDetailQuery: `coopHistoryDetailId: Q29vcEhpc3RvcnlEZXRhaWwtdS1hamNhYmF0enF1c3Jva2V5cG5tbToyMDIzMDEwNFQxMzUwMzVfZGJhYTUxMjYtYTBlYi00ZTFjLWI1MzMtYjU0NDIzOWVjZDY2`
+  - from **CoopHistoryQuery**
+
+
+- **MyOutfitDetailQuery**: `myOutfitId: TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTox`
+  - from **MyOutfitsQuery**
+
+
+- **SaleGearDetailQuery**: `saleGearId: U2FsZUdlYXItMF8xNjczMzk1MjAwXzA`
+  - from **GesotownQuery**
+
+
+- **PagerUpdateBattleHistoriesByVsModeQuery**:
+  - ```
+    "isRegular": True,
+    "isBankara": True,
+    "isXBattle": False,
+    "isLeague": False,
+    "isPrivate": False
+    ```
+
+- **DetailFestRecordDetailQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
+- **DetailRankingQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
+- **DetailVotingStatusQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy` (only available during fest(?))
+  - from **FestRecordQuery**
+
+
+- **JourneyChallengeDetailQuery**: `journeyId: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
+  - from **ChallengeQuery**
+- **JourneyQuery**: `id: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
+  - from **ChallengeQuery**
+
+<br>
+
 ##### Refetch Queries
 If the original query needs extra parameter, the corresponding refetch query also need that parameter.
 
@@ -108,53 +156,8 @@ If the original query needs extra parameter, the corresponding refetch query als
 |          CreateMyOutfitMutation          | `31ff008ea218ffbe11d958a52c6f959f` |     $input      |
 |        CheckinWithQRCodeMutation         | `8d54e1c6bdcc65181f65adc582914ad8` | $checkinEventId |
 
-
-### Descriptor of Parameters
-- **XRankingDetailQuery**: `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
-  - from **XRankingQuery**: `["data"]["xRanking"]["currentSeason"]["id"]`
-- **DetailTabViewXRankingArRefetchQuery**:  `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
-  - from **XRankingQuery**
-
-
-- **VsHistoryDetailQuery**: `vsResultId: VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVHVUxBUjoyMDIyMTExM1QxMzU3MDlfMTcyY2EzOTAtNzNlZC00MjBiLTg0NjItMWI3NjRlMjAwOTM1`
-  - from **RegularBattleHistoriesQuery**, **PrivateBattleHistoriesQuery**, **BankaraBattleHistoriesQuery**, **XBattleHistoriesQuery**, 
-
-
-- CoopHistoryDetailQuery: `coopHistoryDetailId: Q29vcEhpc3RvcnlEZXRhaWwtdS1hamNhYmF0enF1c3Jva2V5cG5tbToyMDIzMDEwNFQxMzUwMzVfZGJhYTUxMjYtYTBlYi00ZTFjLWI1MzMtYjU0NDIzOWVjZDY2`
-  - from **CoopHistoryQuery**
-
-
-- **MyOutfitDetailQuery**: `myOutfitId: TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTox`
-  - from **MyOutfitsQuery**
-
-
-- **SaleGearDetailQuery**: `saleGearId: U2FsZUdlYXItMF8xNjczMzk1MjAwXzA`
-  - from **GesotownQuery**
-
-
-- **PagerUpdateBattleHistoriesByVsModeQuery**:
-  - ```
-    "isRegular": True,
-    "isBankara": True,
-    "isXBattle": False,
-    "isLeague": False,
-    "isPrivate": False
-    ```
-
-- **DetailFestRecordDetailQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
-- **DetailRankingQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
-- **DetailVotingStatusQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy` (only available during fest(?))
-  - from **FestRecordQuery**
-
-
-- **JourneyChallengeDetailQuery**: `journeyId: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
-  - from **ChallengeQuery**
-- **JourneyQuery**: `id: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
-  - from **ChallengeQuery**
-
-<br>
-
-### Responses of some queries
+<br><br>
+### Responses of some queries (memo)
 - **myOutfitCommonDataFilteringConditionQuery**: `weaponCategories`, `subWeapons`, `specialWeapons`, `gearPowers`, `brands`
 - **myOutfitCommonDataEquipmentsQuery**: `weapons`(with paint points?), `headGears`, `clothingGears`, `shoesGears`
 - **XRankingQuery**: the top player of each rule and the user's ranking information

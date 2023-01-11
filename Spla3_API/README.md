@@ -1,7 +1,7 @@
 # Spla3 API
 
 #### For reference
-I used `Spla3_API_Helper_Detailed`.py and sent all the requests below to Spla3 API and got the responses.
+I used `Spla3_API_Helper_Detailed.py` and sent all the requests below to Spla3 API and got the responses.<br>
 Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData).
 
 ## Operation

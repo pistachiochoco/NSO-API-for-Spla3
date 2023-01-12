@@ -1,0 +1,249 @@
+{
+    "data": {
+        "coopSchedules": {
+            "__typename": "CoopScheduleConnection",
+            "nodes": [
+                {
+                    "__typename": "CoopSchedule",
+                    "startTime": "2023-01-11T00:00:00Z",
+                    "endTime": "2023-01-12T16:00:00Z",
+                    "setting": {
+                        "__typename": "CoopNormalSetting",
+                        "coopStage": {
+                            "__typename": "CoopStage",
+                            "id": "Q29vcFN0YWdlLTc=",
+                            "name": "ムニ・エール海洋発電所",
+                            "image": {
+                                "__typename": "Image",
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_1.png?Expires=1704844800&Signature=WXjtzHyFgv~ALzNFvg9j9DXyPblbYPVoh1Wcymbhln17G5ut1r3pi43BEQ-MSq2CKicZumlVSDXhtMa0GevJrQIHXCuL7~Xzg-Je~lCpZDQQ6ks5P-~~fkgy16FJPROi2-GJL00R21uK2TdLvpya2yZl94PD~yY02QikXkgBTsnfGCJVHZAozeGeK9Kc19IfTsy0seVmdXWzqjKQFi7l4FzgKRUYhCG58mboC2kTb7BkUjStT1SIAq8QmmeSfIfepKzQidSZrCGoGDs-rX0J37Xo8E7Y8eOL4NTdFkwM68pyTjRf2ggvKEoRsw43vgX0ma~w-cdvThwv6VgVd-Rn7g__&Key-Pair-Id=KNBS2THMRC385"
+                            }
+                        },
+                        "weapons": [
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/f1c8fc32bd90fc9258dc17e9f9bcfd5e6498f6e283709bf1896b78193b8e39e9_0.png?Expires=1704844800&Signature=dYZ90vOWKiht-aqL6UM0zGDjNaeW7jo0X2nLgmypoHE96hvwK9l4XUGgWqk5DqSOnobUVU~ONlzngHVyOBCUUtOMqfVIirbOUXMgcxk-T7y3Sd3dbcEnH-r4llj5BJ1NIcT88MdxhkU3KPYWie24Jq1nkd~zMrMQSMGXnzWHVrRCJ3DJkM1FRDKo1cLZT4eX75q~29Tay0VfEtEu9ig6A~MNUHe9816Tr-7mSphhdLK5U6~NO70r3m8Lc~HuLMOJDpKdy2xLIhjvhnV9EaV2v7uOYyblOk-nSG2hghiw1IiHBDaJDPyoZXd25wrDDYT8eoyKgfAFT2CPRtbKy0bFuA__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/e68609e51d30dfb13e1ea996e46995ed1f7cf561caef0fe96314966d0a039109_0.png?Expires=1704844800&Signature=pKjscKz3yrBu4Wyv~F1EjE2FAnHZQ2RSca5CXll0~NTH08b~rP-y2ELjGxFfPefbLnTZ~Q7CeBmtInlQFKKTjAe1sq-XK7UONVYCnffnDp~P7LbNoWkH86p5pUseh2YCj3rrkXy4Cae-lnS6QXrkBv0C6UqNiBSoLRaImaqZFbocK5bMlJmihvbsvqQDzwOfP7GRabWw9NUP9M4DsArSg0GdTCuxbmZ9VXE2JATqtGEY2Rxd4XotSfvrFGUj~jdqjM3Z~U5t3M5IIgQTDYujXg3pj-26lw6QEyB-gjvGUKUPcBhgEOzSknlG4cyP6srQPgcDvuxuKPqVs7l4EZmOYg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/0a929d514403d07e1543e638141ebace947ffd539f5f766b42f4d6577d40d7b8_0.png?Expires=1704844800&Signature=Cti6iWbaJpyT5yE7m~q4qeWXqphUiGl~RFk2VizBKvrHTE38DJiyJBspmWdl-pBsrKu2Tj3GFx~tGvRUBY~FWr-UVqCNLDbsWd6Afw2G2Xz6BMjP5Wme-crU2Zjnaj7IRWV~D-SshzUpqfJ7aYhMHcFyNra4m6EzNM41BE-DKa~H6S2vS3LpnUpg-aSGCIPDkIv~JysPMWcuv0dwK-QWSMyHIacBs0yDkMxfj3X8eLwGYNgTAI2Zsvo7VUn746MHElTeF1U-IFTyELl2cwNKP--Xv9qnxVqfRXqlxKQuruNAoBNTdnRuN4zLB1yzcXP4Xwwa0NBQv~0xos-Gy6A89Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/ed294b2c7b3111988d577d7efddb9e5e475efc5e0932e5416efedc41fd98eb04_0.png?Expires=1704844800&Signature=UqoTpOqDPHnphgODkw2lLn1lcsfmJcPLgZD4j72nLaTFhFKCYDZxPY21R8-pqGHM~1gujhMNDfdI2U6T-970T8nOHQhe0yuG~0G0cG-VJA~MUo-2IzLW-mCku90o7a3k29iF5WM8va1xefIedVTkCiEsqJEy9SC40IR00-okMALIoff2nHFfBhUzM2EVTC-F9uwbxk4AKv9FMTpCDf7roODm86~PheKN6kiRxKwZSp21Y5pR16mpJjrtWlcAQPyYA-R9js-WMqaBYQ0QnElRnuL7KCakNk6uinKd0m2grDKcM3maBWWpoMZFA0RvuOl79Vz3e3zRerDSLvt~RaGcEg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "rule": "REGULAR"
+                    }
+                },
+                {
+                    "__typename": "CoopSchedule",
+                    "startTime": "2023-01-12T16:00:00Z",
+                    "endTime": "2023-01-14T08:00:00Z",
+                    "setting": {
+                        "__typename": "CoopNormalSetting",
+                        "coopStage": {
+                            "__typename": "CoopStage",
+                            "id": "Q29vcFN0YWdlLTY=",
+                            "name": "難破船ドン・ブラコ",
+                            "image": {
+                                "__typename": "Image",
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_1.png?Expires=1704844800&Signature=XHvpmGSIFEluN-542KoX8SgM2sHawPVsW7pLhPnmtl6GohUp~fb3nkehRcBTwMigm5Uz8BtyVT4m4yBRySEt3QraqSZbbTGOTFhc-UqFxkiOnrDYCFZb1kCRKwpWG5ndMnzfxTbgEUENJ~-WAr7UkJX4m-j3MWoNkO4ekbKFiev1eVWuaQm~PhOk6NlyKJ6Gy3Of5h24Md5n1jW3xHO4CqjtXtbPxhr5Dtinq~8y7na-7b13rc4KQ393Oq30jW8023w-ItZW3bLPOEe2n2A3imO~uuMivU7kA21eGwmzEpUkIUOMxLBkUYZVYmX5-MUa~tH1t8MyrBshDcJ0CjJaxA__&Key-Pair-Id=KNBS2THMRC385"
+                            }
+                        },
+                        "weapons": [
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/b43978029ea582de3aca34549cafd810df20082b94104634093392e11e30d9bd_0.png?Expires=1704844800&Signature=UQxelQpwiMqZoT~zxoElASirqpcTiYP-GUH-K7mdlD2cR1~9SNUh7zPhFFImV-aH7QQJCkeUsWmoq0BjkjCUYXEfcWmJ3FNq5rzemgf8Xl0K1vDyC~e~8BJ8Z6TDyW53BrhBbd7K-PTr9wW6zxrmhraSqmmEZmt8gqpr~C22TGcu6bu5R33YHaO0lWpfrsIb3kPIBlTgtBWtG660DoVh6duRr1-fl0KjazJBBL8FW7OaFtVc65lENwfaKWW5RXuFqMRJ2NaXS2aHdtrgiRcP8hu-rjKTkRNNclFS4wzRRK8wMx9n0IBHeZkBctMK2SURVlezod9wO82~eFFKqcFDwQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/96833fc0f74242cd2bc73b241aab8a00d499ce9f6557722ef6503e12af8979f4_0.png?Expires=1704844800&Signature=dVnU-80qhckjFoJ3YUA~zBon5RCz9Fc~I4c5IYcUpJwXwv2vzahf0T3o25a5Y19yJV7tuiLOGh62d0yTSrkBiqJLtEBqacTh4mGIEEmFsfB5oy2Z5gq0YKAz4WmG1gm24i7vYV3SpMCtOpr3qFerKhO6alJ3PWrVLryGLe0MBvmXFkMyCklDT-bv3tLz7y5uQgCEpQVuEz0~eT5Z8-f~itDJQQBb1AYbwn-Dl~4rPWuFMHP~-rIYFURJz2EUruin8Uy9xHwX2g~AIQ~~klm8vOR1uAq4SUs3cbkbWt2COLStq-JDg7La~ukLVp3X9-pXq25T-EvSzAjxmd-TqgOULQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/db9f2ff8fab9f74c05c7589d43f132eacbff94154dcc20e09c864fced36d4d95_0.png?Expires=1704844800&Signature=l1346t3iG3~dICvaaJDHqYoehsiFMdMuELlbWqpjykDJrOW0qMfnE3Dxih8Ul6SctW4wD4XXNe5oAQI5tTNjW8J5WBow6eq~IVsboHiaRXU9yOYOkkShM894NNPafDXzVNZ6kEwFdia00tQwmWHoBZIFl-ghvnczhjuJ3zBCC2OQ79PVDdAK1z5x9uYGgoVQiqABrjIHX5wW8tAyqeDf3GIN2gFqBqBUu4b5Z7QM5q3lMkFRvKU3AhXPQo8J0fjHcGm8rNrFPjeq07Sg9egI-V39TA3SsKbOUvsUWNxgGk3BtQueQtVZGGJijomA0PKf~DMmOt-VQR7pSDkDPCAZKQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3f99800b569e286305669b7ab28dc3ff0f0b1b015600569d5ac30ab8a97047a0_0.png?Expires=1704844800&Signature=la3l5wk2Cj-LU9LOt8rp67l7BeYbyFGuukNuQcoN4Qg4NgBSt4lpTzbWfd7aqOmOF3dyk0bVfoBe7h74-TCs1KSjrcGoqadGAk7QLp0iqIsrxKvm0o2AOeKYoW4vS4uuDLrEiGoA8n-lQyS7x4X1nE8IwG923V-6RNHLJX7AXSOKEYZ01qS3FADwiLcwj72N50LYXWvy2uDY1jFNr-GuiSuhKURctj5qtQJFfs80VkK5LN4XlS8qA3-jnVil9nQaPevwNpGDMWujhPS2sPCvj2EXsGVtZ9Tqi4jvF3NlJoZ8YPKMzNGQTfsotU80rHMM5hlGjYqsaxfH6x5wm3uWnw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "rule": "REGULAR"
+                    }
+                },
+                {
+                    "__typename": "CoopSchedule",
+                    "startTime": "2023-01-14T08:00:00Z",
+                    "endTime": "2023-01-16T00:00:00Z",
+                    "setting": {
+                        "__typename": "CoopNormalSetting",
+                        "coopStage": {
+                            "__typename": "CoopStage",
+                            "id": "Q29vcFN0YWdlLTE=",
+                            "name": "シェケナダム",
+                            "image": {
+                                "__typename": "Image",
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/be584c7c7f547b8cbac318617f646680541f88071bc71db73cd461eb3ea6326e_1.png?Expires=1704844800&Signature=mt-ARWIVo4CgJ6SCWnAad9H5uCjQcyuRcO2nof2h4jzm7sritAeGAjxguDYfgO~sbks5UxMn2URH0~8J9RZgRx6tj~iyZRSqQLL1VrS~ulwTyyB8cG2sFpGAijqKt6LHv1D9pnbQvPBfmtB4oq-IE7RfdzET~lFWUShIpwX2J7rxHgTNfNtWyF9-13ZIeXg9Gmjyv6L7Gg3MpUhtYxZiFtDpxp10CkiemsqOfzCGEnJ9oeMOOZIt8Q2Rwqnt9h3LJllpJkmwo~UdFyVae3SQauHU7wqrpNxIzN27qBn76dqBPC~Q2jL~h~Slz~DbOEj9BOUC-4hKPSmQ~NhtQyKopA__&Key-Pair-Id=KNBS2THMRC385"
+                            }
+                        },
+                        "weapons": [
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=fT3nmIn95pkRr1DADByTg~oZn2DZmLdlPZH0VcdneT0K085rBiIlohsqsPTb-KAmCQguD9tLYwMZEwiZ8ObGb18H0bcMmo0tNPfY3ZanYTIAcJGUHcMcC4xZlbkxV5so7R9vfx0Lfn85uu4NwewjG-HG2xtD3UHFKIaYS4WnRFCgVAgOiI~d3OReg4cz3PFX3p3wSfRAo~FY89Ec88K-KP3lpqdhm8QOdyP0vnL0sapPSOkG6w77RSMP6KcZ~0hzpJBRFjVrynNcUGjAA04qTAEYp2cAWUH35opO-isSxbk-7nXTjErFk-fFlUzRo9Ni2aq8rDhen7JzFNHfSAy4Mg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=fT3nmIn95pkRr1DADByTg~oZn2DZmLdlPZH0VcdneT0K085rBiIlohsqsPTb-KAmCQguD9tLYwMZEwiZ8ObGb18H0bcMmo0tNPfY3ZanYTIAcJGUHcMcC4xZlbkxV5so7R9vfx0Lfn85uu4NwewjG-HG2xtD3UHFKIaYS4WnRFCgVAgOiI~d3OReg4cz3PFX3p3wSfRAo~FY89Ec88K-KP3lpqdhm8QOdyP0vnL0sapPSOkG6w77RSMP6KcZ~0hzpJBRFjVrynNcUGjAA04qTAEYp2cAWUH35opO-isSxbk-7nXTjErFk-fFlUzRo9Ni2aq8rDhen7JzFNHfSAy4Mg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=fT3nmIn95pkRr1DADByTg~oZn2DZmLdlPZH0VcdneT0K085rBiIlohsqsPTb-KAmCQguD9tLYwMZEwiZ8ObGb18H0bcMmo0tNPfY3ZanYTIAcJGUHcMcC4xZlbkxV5so7R9vfx0Lfn85uu4NwewjG-HG2xtD3UHFKIaYS4WnRFCgVAgOiI~d3OReg4cz3PFX3p3wSfRAo~FY89Ec88K-KP3lpqdhm8QOdyP0vnL0sapPSOkG6w77RSMP6KcZ~0hzpJBRFjVrynNcUGjAA04qTAEYp2cAWUH35opO-isSxbk-7nXTjErFk-fFlUzRo9Ni2aq8rDhen7JzFNHfSAy4Mg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=fT3nmIn95pkRr1DADByTg~oZn2DZmLdlPZH0VcdneT0K085rBiIlohsqsPTb-KAmCQguD9tLYwMZEwiZ8ObGb18H0bcMmo0tNPfY3ZanYTIAcJGUHcMcC4xZlbkxV5so7R9vfx0Lfn85uu4NwewjG-HG2xtD3UHFKIaYS4WnRFCgVAgOiI~d3OReg4cz3PFX3p3wSfRAo~FY89Ec88K-KP3lpqdhm8QOdyP0vnL0sapPSOkG6w77RSMP6KcZ~0hzpJBRFjVrynNcUGjAA04qTAEYp2cAWUH35opO-isSxbk-7nXTjErFk-fFlUzRo9Ni2aq8rDhen7JzFNHfSAy4Mg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "rule": "REGULAR"
+                    }
+                },
+                {
+                    "__typename": "CoopSchedule",
+                    "startTime": "2023-01-16T00:00:00Z",
+                    "endTime": "2023-01-17T16:00:00Z",
+                    "setting": {
+                        "__typename": "CoopNormalSetting",
+                        "coopStage": {
+                            "__typename": "CoopStage",
+                            "id": "Q29vcFN0YWdlLTI=",
+                            "name": "アラマキ砦",
+                            "image": {
+                                "__typename": "Image",
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/3418d2d89ef84288c78915b9acb63b4ad48df7bfcb48c27d6597920787e147ec_1.png?Expires=1704844800&Signature=vHhRufcoPdZymKZjOcg~GXqqNOdOVN6~742UIYBBqbQ7hPwyh1F7txP2zoY6DoQEs~T1~rVMkLILQ~XSBHAIEBRn8LpFnGB2xh5xSOaKSehZdhML7~yxm1E1QDNR2b4UkaktnLvC0BcyQfJ9tsh8RsmYOpsiWsrTYKkCMkVXCTknzCaIWZABPgVycgsEe-GVOvpZ3JAxfXX8M2vo-fPvOgnMNmewyBbeSpUC~SSdVaw2lC8UPZ3H-rELK6ci6h25fZYTvw4~MtYGxakiK3tezYhEUbWQCikl5ygQ8rAKomgDbXc45IRNeHpR6A4g2S-cWXkGoij4nkzww0~SPZyHOA__&Key-Pair-Id=KNBS2THMRC385"
+                            }
+                        },
+                        "weapons": [
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/01e8399a3c56707b6e9f7500d3d583ba1d400eec06449d8fe047cda1956a4ccc_0.png?Expires=1704844800&Signature=mnAz8tQqXeYH5JAc0HqjDimGCDairugSVSIvneK15xyBPNIKSimyxQaj-pK4-nrPCCHARN1Lv8IRFy6gEsdzdnKhTIXj2Cmi2CHb3OvmR2B4sm3qoQ5RwIctlC71~z7isXB-spNafrULNPAX2lAgnkMtrGzXHYTDRd6Kcn7MI5O1gIZJy0n0zt56Oe8tmQ1y0hrBGvQgjYJEsp1pfyMVWLoOTXnCoFNr9TImFJZP0j0CoJRowNh7fivLXCmAIG2mrjXGGRJrmbAHt6SapBdix~A-MmtlJiw8FLwi-ZsichlUqA4vxmYcZFdcXFaOEIrMOCaSK0IV~3sVnP3CTSEiHQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/137559b59547c853e04c6cc8239cff648d2f6b297edb15d45504fae91dfc9765_0.png?Expires=1704844800&Signature=QV4AWT6RMVki-lZ2vLdcxc~9pOKd4LQbVrz4DRfOtnXGiI4D-AySS9las5yMLFpmxhZTWznpyRl5OEHuOAgN2zAkLqZnM~NW27BNVhVruRueENzMQ1xAli3CUvK3HlOg0X3LIT05b2-7JMtCG2z1uodIm4kTVAGIQW36mnhJp4GcKypd3VUv8ENWTUKn9ArKvgCWNFGi~bvCzTgyWmvuFEunakzqQHsCvgIp~3GJ9x8dmFhFQAxDNBiNY3vKH21jwl-ep15nhlfYwAezQwfFPw9JGYKtKwc3Q0aKnKSFeISHJ4oPVRAQFEPR7eYsxPZMamSRiO-P3KUNUowHKB~u4w__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/b8f50833f99b0db251dc1812e5d13df09b393635b9b6bd684525112cbb38e5e4_0.png?Expires=1704844800&Signature=iA35iZb3lO6yFj1FB~0NuQJ3G4CROb05EvLTXS8QyDS5I0NSxs6Sakn4V2AFxL84AuFH9Ak5V-dzbL0hr0OKlaa61NUGKYhxjfu-wXunvRs7CrlM-fFJbjxmRxJ~7UNpW0TS~FgOtGXN3F8ozyqmc1Di49G6S-TKcj~H6RV3IkU7riZHV05rdMlVwQ7ujl8RJXAURR1gBRCNIU1CoFmRi1rQgNcUU4YrJANoiuMpcoslup4MTUg517HszUgHxYX7rnfmArLdteJ8rnADoSKUrqpc3pJwXP0-DXmx46lYoe42L6seID4dWGDIKKP7sYOgqi6oPfdY5SgtKLiY921C8Q__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/2b349390a464710982d7e1496130898e7b5a66c301aa44fc9e19332d42e360ad_0.png?Expires=1704844800&Signature=azfJS0d0Zdow5-~UP1DWHGbpkn6eYFtUhlF67bFtuHU~5btPrehW8vr1SAK4lu1nkjhueHou1r2FHGc7xemN6tiYeWqNIvUA1PFC6FPsdUb1wXeOTY2ZINIASUfhDReusQ2~PO45BYrOiHmKPEuaLcAxccCVXArG8K27tiecEfq81EAHhvRmtdVJh8orLhFbxatHspQkPaGa0tigkfHExeAvGnq-AoG8ofQRKwvd9aAQIOYK3-QkG6OAwxyKgzIJz~dd3g8KDCh1XSlPA5PVjYpL-t3ZpeW5Nlxv9XbsuDrxEjElEM2ZASqHUWHFcSb6n~HNWU77qkF0oyNBRyfZVg__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "rule": "REGULAR"
+                    }
+                },
+                {
+                    "__typename": "CoopSchedule",
+                    "startTime": "2023-01-17T16:00:00Z",
+                    "endTime": "2023-01-19T08:00:00Z",
+                    "setting": {
+                        "__typename": "CoopNormalSetting",
+                        "coopStage": {
+                            "__typename": "CoopStage",
+                            "id": "Q29vcFN0YWdlLTc=",
+                            "name": "ムニ・エール海洋発電所",
+                            "image": {
+                                "__typename": "Image",
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_1.png?Expires=1704844800&Signature=WXjtzHyFgv~ALzNFvg9j9DXyPblbYPVoh1Wcymbhln17G5ut1r3pi43BEQ-MSq2CKicZumlVSDXhtMa0GevJrQIHXCuL7~Xzg-Je~lCpZDQQ6ks5P-~~fkgy16FJPROi2-GJL00R21uK2TdLvpya2yZl94PD~yY02QikXkgBTsnfGCJVHZAozeGeK9Kc19IfTsy0seVmdXWzqjKQFi7l4FzgKRUYhCG58mboC2kTb7BkUjStT1SIAq8QmmeSfIfepKzQidSZrCGoGDs-rX0J37Xo8E7Y8eOL4NTdFkwM68pyTjRf2ggvKEoRsw43vgX0ma~w-cdvThwv6VgVd-Rn7g__&Key-Pair-Id=KNBS2THMRC385"
+                            }
+                        },
+                        "weapons": [
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/e3874d7d504acf89488ad7f68d29a348caea1a41cd43bd9a272069b0c0466570_0.png?Expires=1704844800&Signature=GB3FVcwqAnGFLcwxsWZZs5Az0ef5nLOJbVqizScO8gc6P1RqfOouUIfKEZEAhXE~4td2oH0efWABoMcEH8aRG0mMM4txG923kQ02nq6jUybr87bYjijZvq81iysoL~LdS8PCtacGmzmehz6zrbhkYEvshC22G5PeoZfihqX3YBFXkeX~PfnGJGZlkEcOmg~4BniNCsN6DDliwaTiQvvXEeShYMOXr59-u6GwG-~C8rdd3CfblnUfflCRDHJSUWViAcaNJCaZdMR2LOkDuXxq79UOEsVE28znHmn77p3Wnwwlr80w8Vo4UV9IJo7cjmc~Yn6r4lTZ2l80jihhccaxVw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/be8ba95bd3017a83876e7f769ee37ee459ee4b2d6eca03fceeb058c510adbb61_0.png?Expires=1704844800&Signature=F-rHY55JDiKOv~-eFBMBSXyWZT2TKe93tXKojhKq8VS4v4ZgFKh3ZrSazfCR~QVNUqXkfIphtplz4FUth4Foqhjm4az4BMDCHQZzgKvc-q7qX1ZqlfWwqcEL5bJkuqy4cSQ3DYwzZb03Lg2X-zFLqkAOVR4zmpwpXfsHChXNYkTBZW6uCdWzQepBxRuP7omI0zPnltxdcLn1nATu1I~ZjJSCf4YQO6RfNb~GYSB7Qff5wg-MjuMZWdXdx0l2Nx18lRmbWW24MCnYC-N2Jy0Fm7OdxPoqmfeNcxhgtS2P2jm6z1nqv5PpIohtCSmTN7UlHFhOD1nfmuI7~j-BP4Y8og__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/5607f7014bbc7339feeb67218c05ef19c7a466152b1bd056a899b955127ea433_0.png?Expires=1704844800&Signature=ne-Lmj9brqPIfp041vwQXOpWBH13nU2hYkYGcreLIYXpkZ-skp6P23uU~-afoArJnRpBSJvL5FiiO13LkEhjhXT2MgZjODi-faneacETeTtXrrCLB77h0JtJK3adtaiEpud0C50HyZEvhIAOvCPRiZZBa82X3Tc3nQ4~QR6ywy4BjRicZot3SXIIESsiJHnbUzeJ26KBpCk2IYMwHrnrs9fFZgYThlF9QS5kOdqK4mos55lRkTrbnTPzH7TAm9SCwYS7EOYeCZdUERLT3PNCUwr4DBd-95xm20X9mVx23QB2FkNB0t3csGt8Z612oIuNQld0gEojEvXKGNJvyX6KLQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "CoopSupplyWeapon",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/082489b182fbbabddde40831dac5867d6acc4778b6a38d8f5c8d445455d638eb_0.png?Expires=1704844800&Signature=Oa7x20adlzJuh~f1s9m-oV4Bu-pXzzzpR7xuYWIN7sWJkR-aAlO1U-4gwKa84NVqndGqWBUD6G9xYWMMTW3q2HygeaEOXH0hl3oYzItjbuYUYkUvze3bGcZn~8AXrsay44z38AiGa-x1zmxx76NC-QE~M~dea-S-QgQ2xuqvgeszVekghZvYfIxWHVFPPDJyUdKs5mW3eOR8KAFMKxF1PGJqkYPVNUPWU6w7ouybeJ5tG5Oen70RXrdMTN332dn3xeqw9XiXEd8tuQDsvfPgJudZ0Av7UqY59dB3DfPGjIP7raq~SCI4AmAzdqBbjwKBI3ixTbQ7uMTza1wA4tuq5g__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "rule": "REGULAR"
+                    }
+                }
+            ]
+        }
+    }
+}

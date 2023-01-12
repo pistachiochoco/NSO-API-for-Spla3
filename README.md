@@ -87,6 +87,7 @@ get the `bullet token`. This bullet token is also needed when you send requests 
 # Access Spla3 API
 Spla3 API is a little different from Spla2 API. There are two ways to access it.
 One is fetching data through the NSO App, the other is fetching data through the widget (different user-agent).<br>
+For more information, you can refer to [**Spla3_API**](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API).
 
 ## What are needed
 - `web service token` from Step7
@@ -121,8 +122,7 @@ locally. You can change the global variable `USER_LANGUAGE` to any language code
 like.
 
 #### Available Requests
-[Here(/Data/query_id_data.json)](https://github.com/pistachiochoco/NSOAPIforSpla3/blob/main/Data/query_id_data.json)
+[Here(Data/query_id_data.json)](https://github.com/pistachiochoco/NSOAPIforSpla3/blob/main/Data/query_id_data.json)
 I saved all query-id pairs under the current web view version. Note than some queries need specific id inside other
 response to fetch data. For example, if you want fetch to the detailed result of one game, you need the id of that game
 for fetching the result.<br>
-For more information, you can refer to [/Spla3_API](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API).

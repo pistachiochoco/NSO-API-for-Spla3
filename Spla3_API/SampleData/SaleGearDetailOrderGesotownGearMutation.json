@@ -1,22 +1,64 @@
 {
-    "errors": [
-        {
-            "message": "Variable $input of type OrderGesotownGearInput! was provided invalid value",
-            "locations": [
-                {
-                    "line": 2,
-                    "column": 3
-                }
-            ],
-            "extensions": {
-                "value": null,
-                "problems": [
-                    {
-                        "path": [],
-                        "explanation": "Expected value to not be null"
+    "data": {
+        "orderGesotownGear": {
+            "gesotownGear": {
+                "gear": {
+                    "__typename": "HeadGear",
+                    "additionalGearPowers": [
+                        {
+                            "image": {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91_0.png?Expires=1704844800&Signature=q04IScBlAMa74ahHjC1pBS5bCOwwrvWoG8s6R3ExCyeQH0COqSRcPbqesLc5fCx5onpVQ3OZp9P4rTbmBWs-YiojVxibbpOV-NkgapFVvhNvQ3hiU4YuWTfFKUHnhUIDUUOo69BGcuzZDvLBjn5a0R8t8YX0HaQ9rnvB6NCAeZnd7KttoeREIhAtaaEXAeiMbgPbTktCupqkuggyWAN8HO~H8tXat-M-XwFXkOm7rwDR-qeEtt-RRnNIbbeVQW6hJgWxy~tsaqfwatTAIEvdgWN7tX3NK31IsBigXCaqxPezdTa9PbSZActSn6fescDEMiI3I-S9vaxVHoX0yKW4UQ__&Key-Pair-Id=KNBS2THMRC385"
+                            },
+                            "name": "はてな"
+                        },
+                        {
+                            "image": {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91_0.png?Expires=1704844800&Signature=q04IScBlAMa74ahHjC1pBS5bCOwwrvWoG8s6R3ExCyeQH0COqSRcPbqesLc5fCx5onpVQ3OZp9P4rTbmBWs-YiojVxibbpOV-NkgapFVvhNvQ3hiU4YuWTfFKUHnhUIDUUOo69BGcuzZDvLBjn5a0R8t8YX0HaQ9rnvB6NCAeZnd7KttoeREIhAtaaEXAeiMbgPbTktCupqkuggyWAN8HO~H8tXat-M-XwFXkOm7rwDR-qeEtt-RRnNIbbeVQW6hJgWxy~tsaqfwatTAIEvdgWN7tX3NK31IsBigXCaqxPezdTa9PbSZActSn6fescDEMiI3I-S9vaxVHoX0yKW4UQ__&Key-Pair-Id=KNBS2THMRC385"
+                            },
+                            "name": "はてな"
+                        }
+                    ],
+                    "brand": {
+                        "id": "QnJhbmQtOA==",
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/brand_img/5bfe0fa5868f4aa0edc436c05ddc230d6d527e9405f070f9472945976928d1e5_0.png?Expires=1704844800&Signature=pYeDAqagwPjIsyBJTKc~KOrFSBjH1MdN4lsqSGnuxyRrfHAJMrqmJVXc66Z0Thbnu9LWwIMW3Dklbcb~~ULidYzXcBE~7npAgO4VC1XYkyLruv3VoWhT1SfeMLJR29xPo78bj3J1YmG9g6T3i4rlW75mEmz6LOpgyOgEtZAypEzHX9MqjQ4x6PR7gYiNF4yppM-zX40b9HJpm-Fv7Xr9rIUV8NNMMGV2XyPDVvzEUT6BCfHYzFWnhcnNRe9FjLQm85B7wv2Xq4PhT49tr63u-PB~F0LSfUva2P7lXjIDPIknpoHxShRnQOf8gnXvMjIhz4kVDf~wRyamj-XGhNFpkg__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "name": "ジモン",
+                        "usualGearPower": {
+                            "desc": "メインウェポンの消費インク量が少なくなります。",
+                            "image": {
+                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/5c98cc37d2ce56291a7e430459dc9c44d53ca98b8426c5192f4a53e6dd6e4293_0.png?Expires=1704844800&Signature=PJ2gr~bbLUF0wGuo3Er8IxKVMhfiotV5K9uHSDE30dkPO-mPdSVBoq5hCSaCwrR6h87FMtES58skJq3uh0Lr4B4YUsJK0k-DFDSPgPsTPcSeqyDhIif2FgPYSM9Yp18ORi~8mA~T7xoT5gT0OP4XeREGl5yxCHsMj9GEoG89gUqwQe~1~EFnqgX5XFb0Vcm6lGYw5wNXqBWxkyGlgzPjaDxJnlgDwcjSwvVpaPT5eSRdX1-DCJRVTCZ0CCH~~~ZFqrU1cHyF7ZxEaqESUnqUU~Y6oZz-2cufnfEWY9GPE61YnfAwfN8k1DAwExbzmR8hMHVHd7AKEfPSyLu90bRtQg__&Key-Pair-Id=KNBS2THMRC385"
+                            },
+                            "isEmptySlot": false,
+                            "name": "インク効率アップ(メイン)"
+                        }
+                    },
+                    "headGearId": 1024,
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/gear_img/4883bcc057b243e8c6827ca5f29336c39e241f8b35794c1ee1510555194461f4_0.png?Expires=1704844800&Signature=mlwY1rhZZzlBRf~uTUNpfoSSZOLU3cl4lWpnkYWMrPGUum94vbDSlpFSK-QGpYaGP68rQX5ab-CxCxKXBcdKcWEhzzcSY9AgAK0bUy3ZT8gDRHQrNh34LK33PhuYeOLAZO6~ASJvfYiI7nBZBGDkg86Dd8RydLFKH1pQ0pARb-Bcj-ZmSI1RIHBjcuVDtz9cDtFDCQ57yLVZ9LTUSfg5hh2Dcvp7mPJAxOOegXzoZVjj9iJiA7J8oCxV6RPXwwDAQMV8uQfwGqltCkqyV8-KQIf~~RBQre4kqLOJs8m~hkD~i5nt~Gm56DPL516oojpFxbaCaIpDh4ZjWnzItVlB~A__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ハウスタグデニムCAP",
+                    "primaryGearPower": {
+                        "gearPowerId": 13,
+                        "image": {
+                            "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/skill_img/1a0c78a1714c5abababd7ffcba258c723fefade1f92684aa5f0ff7784cc467d0_0.png?Expires=1704844800&Signature=oFcw9kDRHW2pVrtvB8S05~9FYuw3SQ3pu8oDTCuYo79XfbCzUmPlYcEsPXJXUYNq2nollwMHaDuJMR8NROhR0gI022ukP4q1fGKb050c8ToUkg1XloIHLyaxodTmNuZ8XyT1qAQdVJtnmk7Nhg-Jt6-j-27TTDtX9HiISZwF17~y88AONEL34irl0RpafhE3XUUxqzXHT6oxggX2LA4lyAzZRGSFHUpu5px5P52D4mI6ro3LWpXMRunIitu38ZzQc0-g9vjqzlmcRPcGhFIZ7Cz2FevhBumakgfkIsjpSFl172CKukyIRlB~RrLUCkyDsIZryZPIMexc91Bf5FtPgA__&Key-Pair-Id=KNBS2THMRC385"
+                        },
+                        "name": "アクション強化"
                     }
-                ]
-            }
+                },
+                "id": "U2FsZUdlYXItMV8xNjczNTEwNDAwXzA=",
+                "isAlreadyOrdered": true,
+                "nextGear": {
+                    "id": "U2FsZUdlYXItMV8xNjczNTI0ODAwXzA="
+                },
+                "previousGear": {
+                    "id": "U2FsZUdlYXItMV8xNjczNDk2MDAwXzA="
+                },
+                "price": 10400,
+                "saleEndTime": "2023-01-13T08:00:00Z"
+            },
+            "previousOrderedGear": null,
+            "userErrors": null
         }
-    ]
+    }
 }

@@ -1,13 +1,27 @@
-# Spla3 API
-
+# Spla3 API <!-- omit in toc -->
 #### For reference
 I used `Spla3_API_Helper_Detailed.py` and sent all the requests below to Spla3 API and got the responses.<br>
-Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData).
+Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData)
+and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleDataWdiget).
 
-## Operation
+## Table of Contents <!-- omit in toc -->
+- [App API](#app-api)
+  - [Query](#query)
+    - [Queries (No parameter required)](#queries-no-parameter-required)
+    - [Queries (Extra parameter required)](#queries-extra-parameter-required)
+      - [Descriptor of Parameters](#descriptor-of-parameters)
+    - [Refetch Queries](#refetch-queries)
+  - [Mutation](#mutation)
+      - [Descriptor of Parameters](#descriptor-of-parameters-1)
+  - [Responses of some queries (memo)](#responses-of-some-queries-memo)
+- [Widget API](#widget-api)
+  - [Query](#query-1)
+      - [Descriptor of Parameters](#descriptor-of-parameters-2)
 
+
+## App API
 ### Query 
-#### No parameter required Queries
+#### Queries (No parameter required)
 |                   Name                    |           ID(sha256hash)           |
 |:-----------------------------------------:|:----------------------------------:|
 |            useCurrentFestQuery            | `c0429fd738d829445e994d3370999764` |
@@ -41,7 +55,7 @@ Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco
 |      BattleHistoryCurrentPlayerQuery      | `49dd00428fb8e9b4dde62f585c8de1e0` |
 |        BankaraBattleHistoriesQuery        | `0438ea6978ae8bd77c5d1250f4f84803` |
 
-#### Extra parameter required Queries
+#### Queries (Extra parameter required)
 
 |                         Name                         |           ID(sha256hash)           |                                 Variables                                  | Note                     |
 |:----------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------------------:|--------------------------|
@@ -59,7 +73,7 @@ Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco
 |             DetailFestRecordDetailQuery              | `96c3a7fd484b8d3be08e0a3c99eb2a3d` |                                  $festId                                   | fest ID                  |
 |                CoopHistoryDetailQuery                | `9ade2aa3656324870ccec023636aed32` |                            $coopHistoryDetailId                            | coop ID                  |
 
-####  Descriptor of Parameters
+#####  Descriptor of Parameters
 - **XRankingDetailQuery**: `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
   - from **XRankingQuery**: `["data"]["xRanking"]["currentSeason"]["id"]`
 - **DetailTabViewXRankingArRefetchQuery**:  `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
@@ -83,13 +97,14 @@ Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco
 
 
 - **PagerUpdateBattleHistoriesByVsModeQuery**:
-  - ```
+  ```
+    (example)
     "isRegular": True,
     "isBankara": True,
     "isXBattle": False,
     "isLeague": False,
     "isPrivate": False
-    ```
+  ```
 
 - **DetailFestRecordDetailQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
 - **DetailRankingQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
@@ -104,7 +119,7 @@ Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco
 
 <br>
 
-##### Refetch Queries
+#### Refetch Queries
 If the original query needs extra parameter, the corresponding refetch query also need that parameter.
 
 |                  Name                  |           ID(sha256hash)           |       Original Query        |
@@ -156,6 +171,44 @@ If the original query needs extra parameter, the corresponding refetch query als
 |          CreateMyOutfitMutation          | `31ff008ea218ffbe11d958a52c6f959f` |     $input      |
 |        CheckinWithQRCodeMutation         | `8d54e1c6bdcc65181f65adc582914ad8` | $checkinEventId |
 
+##### Descriptor of Parameters
+- **UpdateMyOutfitMutation**:
+  ```
+  "input": {
+      "myOutfit": {
+          "clothingGearId": 5023,
+          "controlOptionConsole": {
+              "cameraSpeedGyro": 0,
+              "cameraSpeedStick": 5,
+              "isEnableGyro": true,
+              "isReverseLr": false,
+              "isReverseUd": false
+          },
+          "controlOptionHandheld": {
+              "cameraSpeedGyro": -1,
+              "cameraSpeedStick": -1,
+              "isEnableGyro": true,
+              "isReverseLr": false,
+              "isReverseUd": false
+          },
+          "headGearId": 21010,
+          "id": "TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTo0",
+          "shoesGearId": 3024,
+          "weaponId": 2030
+      }
+  }
+  ```
+<br>
+
+- **SaleGearDetailOrderGesotownGearMutation**:
+  ```
+  "input": {
+      "id": "U2FsZUdlYXItMV8xNjczNTEwNDAwXzA=",
+      "isForceOrder": true
+  }
+  ```
+  
+
 <br><br>
 ### Responses of some queries (memo)
 - **myOutfitCommonDataFilteringConditionQuery**: `weaponCategories`, `subWeapons`, `specialWeapons`, `gearPowers`, `brands`
@@ -166,3 +219,21 @@ If the original query needs extra parameter, the corresponding refetch query als
 - **SettingQuery**: `currentPlayer`(name, icon)
 - **HomeQuery**: `currentPlayer`(weapon), `banners`, `friends` , `footerMessages` 
 - **ConfigureAnalyticsQuery**: `playHistory`
+
+<br>
+
+
+## Widget API
+### Query
+|       Name       |                           ID(sha256hash)                           | variable |
+|:----------------:|:------------------------------------------------------------------:|:--------:|
+|  CoopSchedules   | `f2924b9d93f7ff68670b6b0a91ab49370b7e23cf3d6a4e51a6dcc2940e86b023` |  $first  |
+|   VsSchedules    | `f5131603b235edce2218e71c27ed0d35610cb78c48bb44aa88e98fb37ab08cd0` |  $first  |
+| LatestVsResults  | `d167126ea863c00e3472fb3c2e9d9fbc37304d6168cd736e98c490288124f390` |          |
+| LatestAlbumPhoto | `11c92e624146233078b7902b6f61a883c9aa5968744fb03676e8996c3529008a` |          | 
+| CurrentEquipment | `6415729605742e57e4f627db2a5714ba38da0992ec91133b243bf517cd905369` |          |
+
+#####  Descriptor of Parameters
+- **CoopSchedules**: `first: 6`
+- **VsSchedules**： `first: 6`
+  - It can be changed to any number but there only 5 coop schedules and 12 vs schedules available.

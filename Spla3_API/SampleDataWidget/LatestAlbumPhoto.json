@@ -1,0 +1,11 @@
+{
+    "data": {
+        "photoAlbum": {
+            "__typename": "PhotoAlbum",
+            "items": {
+                "__typename": "PhotoAlbumItemConnection",
+                "nodes": []
+            }
+        }
+    }
+}

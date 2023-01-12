@@ -1,0 +1,164 @@
+{
+    "data": {
+        "vsResult": {
+            "__typename": "VsResult",
+            "historyGroups": {
+                "__typename": "VsHistoryGroupConnection",
+                "nodes": [
+                    {
+                        "__typename": "VsHistoryGroup",
+                        "historyDetails": {
+                            "__typename": "VsHistoryDetailConnection",
+                            "nodes": [
+                                {
+                                    "__typename": "VsHistoryDetail",
+                                    "id": "VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVDRU5UOjIwMjMwMTA1VDE2MjIwMl83NzkxZGU3Yi02MDM4LTRkOTUtYTVlNi1mY2RkNjBjZWJhOWE=",
+                                    "judgement": "WIN",
+                                    "knockout": "WIN",
+                                    "vsMode": {
+                                        "__typename": "VsMode",
+                                        "mode": "X_MATCH"
+                                    },
+                                    "vsRule": {
+                                        "__typename": "VsRule",
+                                        "name": "ガチエリア"
+                                    },
+                                    "vsStage": {
+                                        "__typename": "VsStage",
+                                        "name": "チョウザメ造船"
+                                    },
+                                    "player": {
+                                        "__typename": "VsPlayer",
+                                        "weapon": {
+                                            "__typename": "Weapon",
+                                            "image": {
+                                                "__typename": "Image",
+                                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3bcfdd841943c23d170b2cf97130d021dbb31bcca09f283af508f52271b4227e_1.png?Expires=1704844800&Signature=ZM7ynWX883DQ72zNf1RaqQBDUpKfLe~UWdmE2RS1Q7xHGZpN-1VCunSGUQ4sOHNk7Cu8Tb7EcRiQZ8daBldircQ~rMucy7ZgQPtR2kIhVXmCmwJ8nGOHS3CP5sWkNxLgvrhlTC6oMgrVqPiLOO6qWlgaQfVrwaGxsSWt-r8X~Jixi3Jrj1RqIjLQR8~j1DWiPJ~YhEodzM31S4Zx1cO9Xr3ADxYifEbxD0DLX2KfBxKjRo3E7cTSpFAOUrQu~xhNQK8SnTkbWBN~Y~4d8gxc-hou-1PC5UzvrSgBZm2Jmff1IyjBje2WNiVkvYLfRTHVDRT3bksQPSLqHHuxNtewdw__&Key-Pair-Id=KNBS2THMRC385"
+                                            }
+                                        }
+                                    },
+                                    "myTeam": {
+                                        "__typename": "VsTeam",
+                                        "result": {
+                                            "__typename": "VsTeamResult",
+                                            "score": 100,
+                                            "paintPoint": null
+                                        }
+                                    }
+                                },
+                                {
+                                    "__typename": "VsHistoryDetail",
+                                    "id": "VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVDRU5UOjIwMjMwMTA1VDE2MTU1MF9jNjEwY2RhOS01ZmUyLTRiZTktYTFhZi0wODhjNzYwNWY2ZTc=",
+                                    "judgement": "LOSE",
+                                    "knockout": "NEITHER",
+                                    "vsMode": {
+                                        "__typename": "VsMode",
+                                        "mode": "X_MATCH"
+                                    },
+                                    "vsRule": {
+                                        "__typename": "VsRule",
+                                        "name": "ガチエリア"
+                                    },
+                                    "vsStage": {
+                                        "__typename": "VsStage",
+                                        "name": "チョウザメ造船"
+                                    },
+                                    "player": {
+                                        "__typename": "VsPlayer",
+                                        "weapon": {
+                                            "__typename": "Weapon",
+                                            "image": {
+                                                "__typename": "Image",
+                                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3bcfdd841943c23d170b2cf97130d021dbb31bcca09f283af508f52271b4227e_1.png?Expires=1704844800&Signature=ZM7ynWX883DQ72zNf1RaqQBDUpKfLe~UWdmE2RS1Q7xHGZpN-1VCunSGUQ4sOHNk7Cu8Tb7EcRiQZ8daBldircQ~rMucy7ZgQPtR2kIhVXmCmwJ8nGOHS3CP5sWkNxLgvrhlTC6oMgrVqPiLOO6qWlgaQfVrwaGxsSWt-r8X~Jixi3Jrj1RqIjLQR8~j1DWiPJ~YhEodzM31S4Zx1cO9Xr3ADxYifEbxD0DLX2KfBxKjRo3E7cTSpFAOUrQu~xhNQK8SnTkbWBN~Y~4d8gxc-hou-1PC5UzvrSgBZm2Jmff1IyjBje2WNiVkvYLfRTHVDRT3bksQPSLqHHuxNtewdw__&Key-Pair-Id=KNBS2THMRC385"
+                                            }
+                                        }
+                                    },
+                                    "myTeam": {
+                                        "__typename": "VsTeam",
+                                        "result": {
+                                            "__typename": "VsTeamResult",
+                                            "score": 82,
+                                            "paintPoint": null
+                                        }
+                                    }
+                                },
+                                {
+                                    "__typename": "VsHistoryDetail",
+                                    "id": "VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVDRU5UOjIwMjMwMTA1VDE2MTExM180M2Q4YjllMS00NmQzLTQ5ZDQtOTIwMy1iNzFkMDVhZTQ0YTg=",
+                                    "judgement": "WIN",
+                                    "knockout": "WIN",
+                                    "vsMode": {
+                                        "__typename": "VsMode",
+                                        "mode": "X_MATCH"
+                                    },
+                                    "vsRule": {
+                                        "__typename": "VsRule",
+                                        "name": "ガチエリア"
+                                    },
+                                    "vsStage": {
+                                        "__typename": "VsStage",
+                                        "name": "チョウザメ造船"
+                                    },
+                                    "player": {
+                                        "__typename": "VsPlayer",
+                                        "weapon": {
+                                            "__typename": "Weapon",
+                                            "image": {
+                                                "__typename": "Image",
+                                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3bcfdd841943c23d170b2cf97130d021dbb31bcca09f283af508f52271b4227e_1.png?Expires=1704844800&Signature=ZM7ynWX883DQ72zNf1RaqQBDUpKfLe~UWdmE2RS1Q7xHGZpN-1VCunSGUQ4sOHNk7Cu8Tb7EcRiQZ8daBldircQ~rMucy7ZgQPtR2kIhVXmCmwJ8nGOHS3CP5sWkNxLgvrhlTC6oMgrVqPiLOO6qWlgaQfVrwaGxsSWt-r8X~Jixi3Jrj1RqIjLQR8~j1DWiPJ~YhEodzM31S4Zx1cO9Xr3ADxYifEbxD0DLX2KfBxKjRo3E7cTSpFAOUrQu~xhNQK8SnTkbWBN~Y~4d8gxc-hou-1PC5UzvrSgBZm2Jmff1IyjBje2WNiVkvYLfRTHVDRT3bksQPSLqHHuxNtewdw__&Key-Pair-Id=KNBS2THMRC385"
+                                            }
+                                        }
+                                    },
+                                    "myTeam": {
+                                        "__typename": "VsTeam",
+                                        "result": {
+                                            "__typename": "VsTeamResult",
+                                            "score": 100,
+                                            "paintPoint": null
+                                        }
+                                    }
+                                },
+                                {
+                                    "__typename": "VsHistoryDetail",
+                                    "id": "VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVDRU5UOjIwMjMwMTA1VDE2MDQ1NF81YzVkMDg5OS0zNmM5LTQyOTctYWI4OC1iZTM4ZDE4OGZjYzc=",
+                                    "judgement": "WIN",
+                                    "knockout": "NEITHER",
+                                    "vsMode": {
+                                        "__typename": "VsMode",
+                                        "mode": "X_MATCH"
+                                    },
+                                    "vsRule": {
+                                        "__typename": "VsRule",
+                                        "name": "ガチエリア"
+                                    },
+                                    "vsStage": {
+                                        "__typename": "VsStage",
+                                        "name": "ナメロウ金属"
+                                    },
+                                    "player": {
+                                        "__typename": "VsPlayer",
+                                        "weapon": {
+                                            "__typename": "Weapon",
+                                            "image": {
+                                                "__typename": "Image",
+                                                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/3bcfdd841943c23d170b2cf97130d021dbb31bcca09f283af508f52271b4227e_1.png?Expires=1704844800&Signature=ZM7ynWX883DQ72zNf1RaqQBDUpKfLe~UWdmE2RS1Q7xHGZpN-1VCunSGUQ4sOHNk7Cu8Tb7EcRiQZ8daBldircQ~rMucy7ZgQPtR2kIhVXmCmwJ8nGOHS3CP5sWkNxLgvrhlTC6oMgrVqPiLOO6qWlgaQfVrwaGxsSWt-r8X~Jixi3Jrj1RqIjLQR8~j1DWiPJ~YhEodzM31S4Zx1cO9Xr3ADxYifEbxD0DLX2KfBxKjRo3E7cTSpFAOUrQu~xhNQK8SnTkbWBN~Y~4d8gxc-hou-1PC5UzvrSgBZm2Jmff1IyjBje2WNiVkvYLfRTHVDRT3bksQPSLqHHuxNtewdw__&Key-Pair-Id=KNBS2THMRC385"
+                                            }
+                                        }
+                                    },
+                                    "myTeam": {
+                                        "__typename": "VsTeam",
+                                        "result": {
+                                            "__typename": "VsTeamResult",
+                                            "score": 81,
+                                            "paintPoint": null
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

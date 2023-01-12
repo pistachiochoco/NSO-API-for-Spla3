@@ -1,0 +1,149 @@
+{
+    "data": {
+        "vsSchedules": {
+            "__typename": "VsScheduleConnection",
+            "nodes": [
+                {
+                    "__typename": "VsSchedule",
+                    "startTime": "2023-01-12T12:00:00Z",
+                    "endTime": "2023-01-12T14:00:00Z",
+                    "regularMatchSetting": {
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0xMA==",
+                                "name": "マサバ海峡大橋",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=jAHg2hzZJ19hC91c5YRDEOCaiSeAc6TkzRWVQbENQrOizz6nteAWi6jmi21nokrDO8tSlD3pOzWI6Tll7V3eGW~Zt2MXY~dXpbSeqOiavluN~NEidrG9KK90gjOkdY0NPg-hBA0UxkN5s3ZwKQU7mWPGOf36Pk4c2fJmKJ4xTq4rAJV-5yu4lCdfSR8mDY6tlJ4atMPuSH2A~VuLBMF-s1RyVtG07Nt7MOEXM~nPydITETLED9iXrNf1Ewz3k5LbvMf6VzRas2VnjjIgOB6Gym3ARVB7imIgj5lrw8Loe3I0OVnOR1u2cBascNggGJBbp3VZ79dcZGlCt18zs7aKag__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0xMw==",
+                                "name": "海女美術大学",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/40aba8b36a9439e2d670fde5b3478819ea8a94f9e503b9d783248a5716786f35_1.png?Expires=1704844800&Signature=foB18ggxyMki1pmEfUp6pavbjs-hVYFSeZj03c4mF~A1k90CC5Ma3~YoczzPIYhKHPQUqDOp6-FnVmgjC7GT9bH5xphFroU74KDRuWfGN8GwiEfox2dgyOT7KAVhJRikhyXW7AarWwRRjkleygv8soG8HurRtXDFaKKTFC4W7jkxAEEKuB0SHnkS2heb6NAu9ANQAjH5QUcBzNNVI34V8shoV1Bzk7C9xiCDRWp1C6FTtpmerfZ9~iZCKCqPSbaHchLy6z8pVc2llJPYmsZUNcFm-vA8FbO1g3LqamV7FmlYOAhtYY2Ua1MFSfehr5keEKMiAwd4zDB0OiEMpRFk1g__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ]
+                    },
+                    "bankaraMatchSettings": [
+                        {
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "__typename": "VsStage",
+                                    "id": "VnNTdGFnZS0xMQ==",
+                                    "name": "キンメダイ美術館",
+                                    "image": {
+                                        "__typename": "Image",
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=J99BZxY~AvICrHtChQ~-CmSb1gH37zLLEqDv9UdjkoIQmFst---Cp3obRGUWehLN8wvOlj8kFAgB2LR1rVNcusnMfMCakk6yeOJL6KmcP9QN-0hF~YyhaEtU~wQMSu9UN-bcsN4gdo20v8zkdmb5UhG79puNXs4rOJTkhnA6MeF12NvIgUF4womnMs~0UmxASKIAsbhL3rt6pq8Sv0yPZSUGXxyaD3THXa-SfRK9FuPNyyuc1ZXuE6DZlgquJJAC80D7wIe8tR3uaaVz6KAYcW4xU9hE1-O-Stjr~GOg1MK-1Q2tOI1Y-ascdJEQmE5XI0vuYEvjFsuO8nlcRQ5o8A__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "__typename": "VsStage",
+                                    "id": "VnNTdGFnZS0xNQ==",
+                                    "name": "ザトウマーケット",
+                                    "image": {
+                                        "__typename": "Image",
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=GCdea230WVCZQr2PCOqy-0b52b61yqZvIYM6iFzTd-0~piNMDZGs6IDVl23ACnZm26TLGP7HNxWbz3hgSXHY5xkCmUvyLywH9SdjBEZqRD3b1vUW8YnmE27wQvRj3~ocbADyCZPAF~CZ6cYnsk1euFb3j1LP4hJ4-T7VamQxppVPG6ScswR~zF4ZpDVSfTa-bddsqOZ5ud4ITfVxudu4~a83XlXWPEPqQLll2Fga~zIhIFUONybPFputP4RAg-uVaW-1F9cRu9bjnCg-g~suWvREICnODIXN1-s3mFDPMDbkp3xnCqe8i7PjIhh-zQcunupM13k9Y6DZePq5ABQinA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ],
+                            "vsRule": {
+                                "__typename": "VsRule",
+                                "name": "ガチエリア"
+                            }
+                        },
+                        {
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "__typename": "VsStage",
+                                    "id": "VnNTdGFnZS0x",
+                                    "name": "ユノハナ大渓谷",
+                                    "image": {
+                                        "__typename": "Image",
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=IxScQ6-OdOhGhj0jd2xrLWfaDBuR0o38ZY00TN7xVp4XqekhXeaC9h~sSFqJGVF4JOoLiZTyvAWiduxRQ~W7Xqj~CQ48~xSrrqCv84eR0c8c~Zcatm1W73KjSIogINjFPEKTY9Rj5A0A-dn-ShbeFkGXAc6~d0BmJl32GCxANX4QxwOHd9FLuIDaTp6QZ6X86gXVDwf5pzXrrId3wW-mPRJTTu0tZ7anm6dvfX4i1nkwmpuVoiL-VoGenLxezh4w9e9fy3KNKqmkiW5~g29xxaL18pUZdG1sOPuihlOUcE326z~zoKvKjEwFXDH9dKLa3aYT00OdCjSk5sWz5~NfpA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "__typename": "VsStage",
+                                    "id": "VnNTdGFnZS03",
+                                    "name": "クサヤ温泉",
+                                    "image": {
+                                        "__typename": "Image",
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=Ql87p1LFei~dueJZDOOmvdZ6OwLuaoeG6lb2hUVrlbiYKw6GVrEehIFrVGAsVSpaSbZ4jtXP-6md8ydLWXF~a2FfDzFo11ChM0ExhLMrxxb~3q7oqxWnHPpt1gjpLOcg3g0MKe8~2w0IPpde8sIwgvcRwKQVOaVB1sMz26FJvSX0laTJ6aVgpZOsTXJIfK3w7Hw2KRlqyGaigk-mHmIYNALoqStU96-YhUTBKjP~H96XrauquSEgo0e3LrWoSgFcw4~mE1YB7~kKGDciH2ukcheyJ~0dQgrxDTtxExKy350Auh6zTr4JsEt7SFU23fpA9FhUd9k2p0SyFBIt6UdVFQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ],
+                            "vsRule": {
+                                "__typename": "VsRule",
+                                "name": "ガチアサリ"
+                            }
+                        }
+                    ],
+                    "xMatchSetting": {
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0xMg==",
+                                "name": "マヒマヒリゾート＆スパ",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=nXX05W~hBg8kE7xzJabwuPGonB6~suQAQeHV5fMy7nQWbNNDShMcOd-59AahxOtQEA~QxyQRzkyQ1aqNGHunlYN2icj-s-iy-GatmhMMfxfxnlrYR3GfAXoqgHV1dT1gUs-76PDqAZLGBwh4QUJl6BP8EhIujGKNIY0kFoAk8Cpe5r2nQwcdcajZZwG5oyZvql96trkiNLJuBRVRKdk-anNWdhM8zOl4Iv2H7Rp1SRkFLo~XyQa1dUQ8eftWu3eZXkNZnG~INmmzLGtLBSlClgab01y5EMl147wei0HkD6vg6cr2E6WJnbN6io~XnoeQkapQgYqmkYziZCrWQuxPpQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0xNg==",
+                                "name": "スメーシーワールド",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=WF4avQks3iFAIOoXmPHpYYPm8-hJO7sjK5BI7Tb8ZPq3a3zGEblouSSSTFUFND1cDGG~o-dsBCYp9GP~hhmIgQN3fGrFr5PpE7P-bwNc33bGGVmXLeUC7qig-zF380mVHKqj~YWTcq69rJ-KyBNtkeL9HWYup6AZZ5QJnSl8c3TKhl13BHaJX~sFNkffYO3eJ-kvOAy7Cvf-T5USFyQp~S8W5o8rKliIwQBXJlTzTSocvce1ZmNB6TyXEmuXwhDcMvB6RBxAoC1evdviO86W6ADNKcZcuFYDa0XbR4f6UIP7x6nDCHjf46bWY2k6OAZm0~0UhPOHIhg3YZtFMC0yUQ__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "vsRule": {
+                            "__typename": "VsRule",
+                            "name": "ガチヤグラ"
+                        }
+                    },
+                    "leagueMatchSetting": {
+                        "__typename": "LeagueMatchSetting",
+                        "vsStages": [
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0z",
+                                "name": "ヤガラ市場",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=QyhAFRgn-kll98gczlB30kQILr8o75Hf5HxqkJNA9ujKnn8fCS9FKmH2FJKycKVibjb9tIcNvsIefQqyq6nXS4DdnBT3jkuxVolBwH40yNif1mOaOeAakHIq9M67ofrsVt31iPdofFDLa6fJ0YUrPsS1fiPyPwtlAN82qBzzGhEan2c5LhXt-9vla9LS8uJ39ximJaOzlGZ~3dftvQUCW-BOnnI7ZFws0R2oJd9Aw~96aJ648vjSJ16pg-~lsUAbZgHF6dMZOpuplYXKgqPJyxEzNVunz3Mkv42uaBGwnCMKNuKTNNINfK3zZ2aeJ1W4d3yqGiRyrXAmJZx4igUsVw__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            },
+                            {
+                                "__typename": "VsStage",
+                                "id": "VnNTdGFnZS0xNA==",
+                                "name": "チョウザメ造船",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=STrmNUqf~kXW8WLNEkWH~Zmts0BktZErIZblS2vGYH49qu76tBasdl~qmIvj7CEkrCaOggq5K9gicjOfBRisRH5bQ6~MANEpGouwLFvwr5l7rq2dXJSJOBEHZZJYQjMP~hkvCqo9i1Z78t2fnnrGF8HTX3TkuQNakbx9V1SnSSrBYzdouNJZXKLf-BFUTk4ntW7gTfUPWt-8s3h8LL0cg84r9tYm9tHmoo5Gq7gABpvAvUW6m6J4ZcGzv~xayYE3fMQiaJfxATivMyt~zcUFCBDghbYvo-bLFtSTK0fxUUzs40J2X69AJtA2~Ka0bPagJGYQKednvsN-1pWeQaBJ0A__&Key-Pair-Id=KNBS2THMRC385"
+                                }
+                            }
+                        ],
+                        "vsRule": {
+                            "__typename": "VsRule",
+                            "name": "ガチホコバトル"
+                        }
+                    },
+                    "festMatchSetting": null
+                }
+            ]
+        },
+        "currentFest": null
+    }
+}

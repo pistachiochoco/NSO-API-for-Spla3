@@ -6,9 +6,16 @@ from bs4 import BeautifulSoup
 SPLA3_API_URL = NSO_API.SPLA3_API_URL
 self_path = os.path.dirname(__file__)
 root_path = os.path.split(os.path.dirname(os.path.realpath(__file__)))[0]
-data_path = os.path.join(self_path + '/SampleData')
+data_path = os.path.join(self_path, 'SampleData')
+widget_data_path = os.path.join(self_path, 'SampleDataWidget')
+# os.makedirs(data_path, exist_ok=True)
+# os.makedirs(widget_data_path, exist_ok=True)
 try:
     os.mkdir(data_path)
+except(FileExistsError):
+    pass
+try:
+    os.mkdir(widget_data_path)
 except(FileExistsError):
     pass
 
@@ -16,6 +23,7 @@ WEB_SERVICE_TOKEN = ""
 BULLET_TOKEN = ""
 USER_LANGUAGE = 'ja-JP'  # For fetching sample data I use Japanese for convenience.
 WEB_VIEW_VERSION = "2.0.0-bd36a652"  # Can be loaded from ./Data/web_view_ver.json.
+NSO_APP_VERSION = "2.4.0"
 
 QUERY_ID = {
     "CheckinWithQRCodeMutation": "8d54e1c6bdcc65181f65adc582914ad8",
@@ -104,6 +112,14 @@ QUERY_ID = {
     "useCurrentFestQuery": "c0429fd738d829445e994d3370999764"
 }
 
+WIDGET_QUERY_ID = {
+    "CoopSchedules": "f2924b9d93f7ff68670b6b0a91ab49370b7e23cf3d6a4e51a6dcc2940e86b023",
+    "CurrentEquipment": "6415729605742e57e4f627db2a5714ba38da0992ec91133b243bf517cd905369",
+    "LatestAlbumPhoto": "11c92e624146233078b7902b6f61a883c9aa5968744fb03676e8996c3529008a",
+    "LatestVsResults": "d167126ea863c00e3472fb3c2e9d9fbc37304d6168cd736e98c490288124f390",
+    "VsSchedules": "f5131603b235edce2218e71c27ed0d35610cb78c48bb44aa88e98fb37ab08cd0"
+}
+
 def load_tokens():
     '''
     Loads web service token and bullet token and save them globally.
@@ -152,7 +168,7 @@ def load_query_ids():
 def get_sample_data(query_name):
     '''
     Fetches Spla3 API responses with all available requests and save them locally.
-    TODO: Queries whose query name with "Detailed" need specific ids for fetching data.
+    TODO: Figure out variables needed for mutation type operations.
     '''
 
     if query_name not in QUERY_ID:
@@ -207,8 +223,58 @@ def get_sample_data(query_name):
     text = json.loads(response.text)
     NSO_API_Helper.save_data(text, f"{query_name}.json", data_path)
 
+
+def get_widget_sample_data(query_name):
+    '''
+    Fetches Spla3 API responses with available widget requests and save them locally.
+    '''
+
+    if query_name not in WIDGET_QUERY_ID:
+        print("Please modify code in main() and replace a available query name.")
+        sys.exit(1)
+
+    url = f"{SPLA3_API_URL}/api/graphql"
+    user_agent = 'GameWidgetsExtension/3062 CFNetwork/1335.0.3 Darwin/21.6.0'
+    operation_id = WIDGET_QUERY_ID[query_name]
+    operation_type = query_name
+    header = {
+        'Accept': '*/*',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Accept-Language': USER_LANGUAGE,
+        'Apollographql-Client-Version': f'{NSO_APP_VERSION}-3062',
+        'Apollographql-Client-Name': 'com.nintendo.znca.widget-apollo-ios',
+        'Content-Type': 'application/json',
+        'User-Agent': user_agent,
+        'X-App-Ver': NSO_APP_VERSION,
+        'X-Apollo-Operation-Id': operation_id,
+        'X-Apollo-Operation-Name': operation_type,
+        'X-Apollo-Operation-Type': 'query',
+        'Authorization': f'Bearer {BULLET_TOKEN}'
+    }
+    body = {
+        "extensions": {
+            "persistedQuery": {
+                "sha256Hash": operation_id,
+                "version": 1
+            }
+        },
+        "id": operation_id,
+        "operationName": operation_type,
+        "variables": {
+            # "first": 6
+        }
+    }
+    response = requests.post(url, headers=header, json=body)
+    if response.status_code != 200:
+        print("Request failed.")
+        sys.exit(1)
+    text = json.loads(response.text)
+    NSO_API_Helper.save_data(text, f"{query_name}.json", widget_data_path)
+    return
+
 if __name__ == '__main__':
     load_tokens()
     # load_query_ids()
     get_sample_data("Query name here")
+    get_widget_sample_data("Query name here")
     sys.exit(0)

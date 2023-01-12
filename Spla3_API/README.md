@@ -2,7 +2,7 @@
 #### For reference
 I used `Spla3_API_Helper_Detailed.py` and sent all the requests below to Spla3 API and got the responses.<br>
 Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData)
-and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleDataWdiget).
+and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleDataWidget).
 
 ## Table of Contents <!-- omit in toc -->
 - [App API](#app-api)
@@ -225,6 +225,8 @@ If the original query needs extra parameter, the corresponding refetch query als
 
 ## Widget API
 ### Query
+I got these 5 queries manually and I didn't find any file including them. # TODO
+
 |       Name       |                           ID(sha256hash)                           | variable |
 |:----------------:|:------------------------------------------------------------------:|:--------:|
 |  CoopSchedules   | `f2924b9d93f7ff68670b6b0a91ab49370b7e23cf3d6a4e51a6dcc2940e86b023` |  $first  |

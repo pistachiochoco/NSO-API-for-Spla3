@@ -29,7 +29,7 @@ WEB_SERVICE_TOKEN = config_data["web_service_token"]
 BULLET_TOKEN = config_data["bullet_token"]
 USER_LANGUAGE = config_data["user_language"]
 
-NSO_APP_VERSION = "2.5.0"
+NSO_APP_VERSION = "2.4.0"
 WEB_VIEW_VERSION = "2.0.0-bd36a652"
 SPLA3_WEB_SERVICE_ID = "4834290508791808"
 SPLA3_API_URL = "https://api.lp1.av5ja.srv.nintendo.net"

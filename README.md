@@ -18,7 +18,7 @@ When you run the command again, it will use the `session token` saved before and
 is invalid, it will generate new tokens.
 
 ## Steps
-[Here](https://raw.githubusercontent.com/pistachiochoco/NSOAPIforSpla3/main/NSO_Login_Diagram.svg) is the diagram of login process.
+**[Here](https://github.com/pistachiochoco/NSOAPIforSpla3/blob/main/Resourses/NSO_Login_Diagram.svg) is the diagram of login process.**
 #### 1. Generate a login URL.
 When you log in to your Nintendo Account on Nintendo Switch Online App, you will see this page. The url is like:
 `https://accounts.nintendo.com/connect/1.0.0/authorize?client_id=71b963c1b7b6d119&interacted=1
@@ -87,7 +87,7 @@ get the `bullet token`. This bullet token is also needed when you send requests 
 # Access Spla3 API
 Spla3 API is a little different from Spla2 API. There are two ways to access it.
 One is fetching data through the NSO App, the other is fetching data through the widget (different user-agent).<br>
-For more information, you can refer to [**Spla3_API**](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API).
+**For more information, you can refer to [**Spla3_API**](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API).**
 
 ## What are needed
 - `web service token` from Step7
@@ -113,7 +113,7 @@ both header and json body to fetch battle schedules (regular match, anarchy batt
 
 ## Maybe helpful
 #### Send requests via RapidAPI
-You can use [RapidAPI](https://paw.cloud/) open the Spla3_API_test.paw file to see the specific setting of the requests.
+You can use [RapidAPI](https://paw.cloud/) open the /Spla3_API/Spla3_API_test.paw file to see the specific setting of the requests.
 
 #### Send requests in Python
 In `NSO_API.py`, the function `is_valid` actually sends the two types of requests using the same setting.<br>

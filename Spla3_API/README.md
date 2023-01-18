@@ -57,27 +57,62 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 
 #### Queries (Extra parameter required)
 
-|                         Name                         |           ID(sha256hash)           |                                 Variables                                  | Note                     |
-|:----------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------------------:|--------------------------|
-|                 XRankingDetailQuery                  | `ec7174376203f9901713e116075c5ecd` |                                    $id                                     | season ID                | 
-|                 VsHistoryDetailQuery                 | `291295ad311b99a6288fc95a5c4cb2d2` |                                $vsResultId                                 | battle ID                |
-|                 SaleGearDetailQuery                  | `6eb1b255b2cf04c08041567148c883ad` |                                $saleGearId                                 | sale gear ID in Gesotown |
-| RankingHoldersFestTeamRankingHoldersPaginationQuery  | `be2eb9e9b8dd680519eb59cc46c1a32b` |                                    $id                                     | fest ID (?)              |
-|       PagerUpdateBattleHistoriesByVsModeQuery        | `094a9b44ff21e8c409d6046fc1af9dfe` | $isRegular<br/>$isBankara<br/>$isXBattle<br/>$isLeague<br/>$isPrivate<br/> | True or False            |
-|                 MyOutfitDetailQuery                  | `d935d9e9ba7a5b6b5d6ece7f253304fc` |                                $myOutfitId                                 | my outfit ID             |
-|                     JourneyQuery                     | `bc71fc0264f3f72256724b069f7a4097` |                                    $id                                     | challenge journey ID     |
-|             JourneyChallengeDetailQuery              | `38e58b84376a2ad49ddbe4061b948455` |                                 $journeyId                                 | challenge journey ID     |
-|              DownloadSearchReplayQuery               | `43a5f23eec238d7ee827cc87f47f050c` |                                   $code                                    |                          |
-|               DetailVotingStatusQuery                | `53ee6b6e2acc3859bf42454266d671fc` |                                  $festId                                   | fest ID                  |
-|                  DetailRankingQuery                  | `4869de13d0d209032b203608cb598aef` |                                  $festId                                   | fest ID                  |
-|             DetailFestRecordDetailQuery              | `96c3a7fd484b8d3be08e0a3c99eb2a3d` |                                  $festId                                   | fest ID                  |
-|                CoopHistoryDetailQuery                | `9ade2aa3656324870ccec023636aed32` |                            $coopHistoryDetailId                            | coop ID                  |
+|                         Name                          |           ID(sha256hash)           |                                 Variables                                  | Note                     |
+|:-----------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------------------:|--------------------------|
+|                  XRankingDetailQuery                  | `ec7174376203f9901713e116075c5ecd` |                                    $id                                     | season ID                | 
+|                 VsHistoryDetailQuery                  | `291295ad311b99a6288fc95a5c4cb2d2` |                                $vsResultId                                 | battle ID                |
+|                  SaleGearDetailQuery                  | `6eb1b255b2cf04c08041567148c883ad` |                                $saleGearId                                 | sale gear ID in Gesotown |
+|  RankingHoldersFestTeamRankingHoldersPaginationQuery  | `be2eb9e9b8dd680519eb59cc46c1a32b` |                                    $id                                     | fest ID (?)              |
+|        PagerUpdateBattleHistoriesByVsModeQuery        | `094a9b44ff21e8c409d6046fc1af9dfe` | $isRegular<br/>$isBankara<br/>$isXBattle<br/>$isLeague<br/>$isPrivate<br/> | True or False            |
+|                  MyOutfitDetailQuery                  | `d935d9e9ba7a5b6b5d6ece7f253304fc` |                                $myOutfitId                                 | my outfit ID             |
+|                     JourneyQuery                      | `bc71fc0264f3f72256724b069f7a4097` |                                    $id                                     | challenge journey ID     |
+|              JourneyChallengeDetailQuery              | `38e58b84376a2ad49ddbe4061b948455` |                                 $journeyId                                 | challenge journey ID     |
+|               DownloadSearchReplayQuery               | `43a5f23eec238d7ee827cc87f47f050c` |                                   $code                                    |                          |
+|                DetailVotingStatusQuery                | `53ee6b6e2acc3859bf42454266d671fc` |                                  $festId                                   | fest ID                  |
+|                  DetailRankingQuery                   | `4869de13d0d209032b203608cb598aef` |                                  $festId                                   | fest ID                  |
+|              DetailFestRecordDetailQuery              | `96c3a7fd484b8d3be08e0a3c99eb2a3d` |                                  $festId                                   | fest ID                  |
+|                CoopHistoryDetailQuery                 | `9ade2aa3656324870ccec023636aed32` |                            $coopHistoryDetailId                            | coop ID                  |
+|          DetailTabViewXRankingLfRefetchQuery          | `4e8b381ae6f9620443627f4eac3a2210` |                        $cursor, $first, $id, &page                         | id is season ID          |
+|          DetailTabViewXRankingGlRefetchQuery          | `5f8f333770ed3c43e21b0121f3a86716` |                        $cursor, $first, $id, &page                         | id is season ID          |
+|          DetailTabViewXRankingClRefetchQuery          | `68f99b7b02537bcb881db07e4e67f8dd` |                        $cursor, $first, $id, &page                         | id is season ID          |
+|          DetailTabViewXRankingArRefetchQuery          | `eb69df6f2a2f13ab207eedc568f0f8b6` |                        $cursor, $first, $id, &page                         | id is season ID          |
+|         DetailTabViewWeaponTopsLfRefetchQuery         | `d46f88c2ea5c4daeb5fe9d5813d07a99` |                            $cursor, $first, $id                            | id is season ID          |
+|         DetailTabViewWeaponTopsGlRefetchQuery         | `b23468857c049c2f0684797e45fabac1` |                            $cursor, $first, $id                            | id is season ID          |
+|         DetailTabViewWeaponTopsClRefetchQuery         | `8d3c5bb2e82d6eb32a37eefb0e1f8f69` |                            $cursor, $first, $id                            | id is season ID          |
+|         DetailTabViewWeaponTopsArRefetchQuery         | `a6782a0c692e8076656f9b4ab613fd82` |                            $cursor, $first, $id                            | id is season ID          |
 
 #####  Descriptor of Parameters
 - **XRankingDetailQuery**: `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
   - from **XRankingQuery**: `["data"]["xRanking"]["currentSeason"]["id"]`
-- **DetailTabViewXRankingArRefetchQuery**:  `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
-  - from **XRankingQuery**
+  - Note: this query only can fetch first 25 players each rule. DetailedTabViewXRankingXXRefetchQuery can fetch ranking26~500 players.
+  - Also this query only can fetch weapon top players of shooter and roller. Other weapon top players can be fetched from DetailTabViewWeaponTopsXXRefetchQuery.
+- **DetailTabViewXRankingAr(Cl,Gl,Lf)RefetchQuery**: 
+  ```
+  (example)
+  "cursor": "MjU"
+  "first": 25
+  "id": "WFJhbmtpbmdTZWFzb24tcDoy"
+  "page": 1
+  ```
+    - cursor: 
+      - `null`: for 1~25 players in current page
+      - `MjU`: for 26~50 
+      - `NTA`: for 51~75
+      - `NzU`: for 76~199
+    - id: season ID
+    - `page`: from `1` to `5` 
+- **DetailTabViewWeaponTopsAr(Cl,Gl,Lf)RefetchQuery**:
+  ```
+  (example)
+  "cursor": "MjU"
+  "first": 25
+  "id": "WFJhbmtpbmdTZWFzb24tcDoy"
+  ```
+    - cursor: 
+      - `MjU`: チャージャー、スロッシャー、スピナー、マニューバー
+      - `NTA`: マニューバー(クアッドだけ)、シェルター、ブラスター、フデ、ストリンガー、ワイパー
+    - id: season ID 
+
 
 
 - **VsHistoryDetailQuery**: `vsResultId: VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVHVUxBUjoyMDIyMTExM1QxMzU3MDlfMTcyY2EzOTAtNzNlZC00MjBiLTg0NjItMWI3NjRlMjAwOTM1`
@@ -150,14 +185,19 @@ If the original query needs extra parameter, the corresponding refetch query als
 |         ChallengeRefetchQuery          | `34aedc79f96b8613501bba465295f779` |       ChallengeQuery        |
 |          CatalogRefetchQuery           | `4423dfd630867301fcdd834cd52922f4` |        CatalogQuery         |
 |   BankaraBattleHistoriesRefetchQuery   | `92b56403c0d9b1e63566ec98fef52eb3` | BankaraBattleHistoriesQuery |
-|  DetailTabViewXRankingLfRefetchQuery   | `4e8b381ae6f9620443627f4eac3a2210` | part of XRankingDetailQuery |
-|  DetailTabViewXRankingGlRefetchQuery   | `5f8f333770ed3c43e21b0121f3a86716` | part of XRankingDetailQuery |
-|  DetailTabViewXRankingClRefetchQuery   | `68f99b7b02537bcb881db07e4e67f8dd` | part of XRankingDetailQuery |
-|  DetailTabViewXRankingArRefetchQuery   | `eb69df6f2a2f13ab207eedc568f0f8b6` | part of XRankingDetailQuery |
-| DetailTabViewWeaponTopsLfRefetchQuery  | `d46f88c2ea5c4daeb5fe9d5813d07a99` | part of XRankingDetailQuery |
-| DetailTabViewWeaponTopsGlRefetchQuery  | `b23468857c049c2f0684797e45fabac1` | part of XRankingDetailQuery |
-| DetailTabViewWeaponTopsClRefetchQuery  | `8d3c5bb2e82d6eb32a37eefb0e1f8f69` | part of XRankingDetailQuery |
-| DetailTabViewWeaponTopsArRefetchQuery  | `a6782a0c692e8076656f9b4ab613fd82` | part of XRankingDetailQuery |
+
+
+#####  Descriptor of Parameters
+- **XRankingDetailRefetchQuery**: Returns first 25 players of each rule in current page.
+  ```
+  (example)
+  "id": "WFJhbmtpbmdTZWFzb24tcDoy"
+  "pageAr": 5
+  "pageCl": 1
+  "pageGl": 1
+  "pageLf": 1
+  ```
+
 
 
 ### Mutation

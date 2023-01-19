@@ -11,12 +11,13 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
     - [Queries (Extra parameter required)](#queries-extra-parameter-required)
       - [Descriptor of Parameters](#descriptor-of-parameters)
     - [Refetch Queries](#refetch-queries)
-  - [Mutation](#mutation)
       - [Descriptor of Parameters](#descriptor-of-parameters-1)
+  - [Mutation](#mutation)
+      - [Descriptor of Parameters](#descriptor-of-parameters-2)
   - [Responses of some queries (memo)](#responses-of-some-queries-memo)
 - [Widget API](#widget-api)
   - [Query](#query-1)
-      - [Descriptor of Parameters](#descriptor-of-parameters-2)
+      - [Descriptor of Parameters](#descriptor-of-parameters-3)
 
 
 ## App API
@@ -84,8 +85,8 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 #####  Descriptor of Parameters
 - **XRankingDetailQuery**: `id: WFJhbmtpbmdTZWFzb24tcDoy` (season ID)
   - from **XRankingQuery**: `["data"]["xRanking"]["currentSeason"]["id"]`
-  - Note: this query only can fetch first 25 players each rule. DetailedTabViewXRankingXXRefetchQuery can fetch ranking26~500 players.
-  - Also this query only can fetch weapon top players of shooter and roller. Other weapon top players can be fetched from DetailTabViewWeaponTopsXXRefetchQuery.
+  - Note: this query only can fetch first 25 players each rule. **DetailedTabViewXRankingXXRefetchQuery** can fetch ranking26~500 players.
+  - Also this query only can fetch weapon top players of shooter and roller. Other weapon top players can be fetched from **DetailTabViewWeaponTopsXXRefetchQuery**.
 - **DetailTabViewXRankingAr(Cl,Gl,Lf)RefetchQuery**: 
   ```
   (example)
@@ -98,9 +99,9 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
       - `null`: for 1~25 players in current page
       - `MjU`: for 26~50 
       - `NTA`: for 51~75
-      - `NzU`: for 76~199
+      - `NzU`: for 76~200
     - id: season ID
-    - `page`: from `1` to `5` 
+    - page: from `1` to `5` 
 - **DetailTabViewWeaponTopsAr(Cl,Gl,Lf)RefetchQuery**:
   ```
   (example)
@@ -113,15 +114,16 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
       - `NTA`: マニューバー(クアッドだけ)、シェルター、ブラスター、フデ、ストリンガー、ワイパー
     - id: season ID 
 
-
+<br><br>
 
 - **VsHistoryDetailQuery**: `vsResultId: VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVHVUxBUjoyMDIyMTExM1QxMzU3MDlfMTcyY2EzOTAtNzNlZC00MjBiLTg0NjItMWI3NjRlMjAwOTM1`
   - from **RegularBattleHistoriesQuery**, **PrivateBattleHistoriesQuery**, **BankaraBattleHistoriesQuery**, **XBattleHistoriesQuery**, 
 
 
-- CoopHistoryDetailQuery: `coopHistoryDetailId: Q29vcEhpc3RvcnlEZXRhaWwtdS1hamNhYmF0enF1c3Jva2V5cG5tbToyMDIzMDEwNFQxMzUwMzVfZGJhYTUxMjYtYTBlYi00ZTFjLWI1MzMtYjU0NDIzOWVjZDY2`
+- **CoopHistoryDetailQuery**: `coopHistoryDetailId: Q29vcEhpc3RvcnlEZXRhaWwtdS1hamNhYmF0enF1c3Jva2V5cG5tbToyMDIzMDEwNFQxMzUwMzVfZGJhYTUxMjYtYTBlYi00ZTFjLWI1MzMtYjU0NDIzOWVjZDY2`
   - from **CoopHistoryQuery**
 
+<br><br>
 
 - **MyOutfitDetailQuery**: `myOutfitId: TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTox`
   - from **MyOutfitsQuery**
@@ -130,6 +132,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 - **SaleGearDetailQuery**: `saleGearId: U2FsZUdlYXItMF8xNjczMzk1MjAwXzA`
   - from **GesotownQuery**
 
+<br><br>
 
 - **PagerUpdateBattleHistoriesByVsModeQuery**:
   ```
@@ -146,6 +149,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 - **DetailVotingStatusQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy` (only available during fest(?))
   - from **FestRecordQuery**
 
+<br><br>
 
 - **JourneyChallengeDetailQuery**: `journeyId: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
   - from **ChallengeQuery**

@@ -114,7 +114,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
       - `NTA`: マニューバー(クアッドだけ)、シェルター、ブラスター、フデ、ストリンガー、ワイパー
     - id: season ID 
 
-<br><br>
+<br>
 
 - **VsHistoryDetailQuery**: `vsResultId: VnNIaXN0b3J5RGV0YWlsLXUtYWpjYWJhdHpxdXNyb2tleXBubW06UkVHVUxBUjoyMDIyMTExM1QxMzU3MDlfMTcyY2EzOTAtNzNlZC00MjBiLTg0NjItMWI3NjRlMjAwOTM1`
   - from **RegularBattleHistoriesQuery**, **PrivateBattleHistoriesQuery**, **BankaraBattleHistoriesQuery**, **XBattleHistoriesQuery**, 
@@ -123,7 +123,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 - **CoopHistoryDetailQuery**: `coopHistoryDetailId: Q29vcEhpc3RvcnlEZXRhaWwtdS1hamNhYmF0enF1c3Jva2V5cG5tbToyMDIzMDEwNFQxMzUwMzVfZGJhYTUxMjYtYTBlYi00ZTFjLWI1MzMtYjU0NDIzOWVjZDY2`
   - from **CoopHistoryQuery**
 
-<br><br>
+<br>
 
 - **MyOutfitDetailQuery**: `myOutfitId: TXlPdXRmaXQtdS1hamNhYmF0enF1c3Jva2V5cG5tbTox`
   - from **MyOutfitsQuery**
@@ -132,7 +132,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 - **SaleGearDetailQuery**: `saleGearId: U2FsZUdlYXItMF8xNjczMzk1MjAwXzA`
   - from **GesotownQuery**
 
-<br><br>
+<br>
 
 - **PagerUpdateBattleHistoriesByVsModeQuery**:
   ```
@@ -149,7 +149,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
 - **DetailVotingStatusQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy` (only available during fest(?))
   - from **FestRecordQuery**
 
-<br><br>
+<br>
 
 - **JourneyChallengeDetailQuery**: `journeyId: Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE`
   - from **ChallengeQuery**

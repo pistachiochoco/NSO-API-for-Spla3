@@ -1,4 +1,4 @@
-# Spla3 API <!-- omit in toc -->
+# Spla3 API (NSO App Version 2.4.0)<!-- omit in toc -->
 #### For reference
 I used `Spla3_API_Helper_Detailed.py` and sent all the requests below to Spla3 API and got the responses.<br>
 Responses are saved in [/Spla3_API/SampleData](https://github.com/pistachiochoco/NSOAPIforSpla3/tree/main/Spla3_API/SampleData)
@@ -144,7 +144,7 @@ and [/Spla3_API/SampleDataWidget](https://github.com/pistachiochoco/NSOAPIforSpl
     "isPrivate": False
   ```
 
-- **DetailFestRecordDetailQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
+- **DetailFestRecordDetailQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`, `RmVzdC1KUDpKVUVBLTAwMDA0`
 - **DetailRankingQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy`
 - **DetailVotingStatusQuery**: `festId: RmVzdC1KUDpKVUVBLTAwMDAy` (only available during fest(?))
   - from **FestRecordQuery**
@@ -263,6 +263,10 @@ If the original query needs extra parameter, the corresponding refetch query als
 - **SettingQuery**: `currentPlayer`(name, icon)
 - **HomeQuery**: `currentPlayer`(weapon), `banners`, `friends` , `footerMessages` 
 - **ConfigureAnalyticsQuery**: `playHistory`
+  - battleNumTotal
+  - paintPointTotal
+  - udemaeMax
+  - xMatchRank
 
 <br>
 
@@ -283,3 +287,36 @@ I got these 5 queries manually and I didn't find any file including them. # TODO
 - **CoopSchedules**: `first: 6`
 - **VsSchedules**： `first: 6`
   - It can be changed to any number but there only 5 coop schedules and 12 vs schedules available.
+
+
+# Spla3 API (NSO App Version 2.5.0)<!-- omit in toc -->
+### Added
+|                      Name                      |            ID(sha256hash)             |
+|:----------------------------------------------:|:-------------------------------------:|
+| CoopRecordBigRunRecordContainerPaginationQuery |  `2b83817b6e88b202d25939fe04658d33`   |
+|                CoopRecordQuery                 |  `b2f05c682ed2aeb669a86a3265ceb713`   |
+|             CoopRecordRefetchQuery             |  `15035e6c4308b32d1a77e87398be5cd4`   |
+|             useShareMyOutfitQuery              |  `3ba5572efce5bebbd859fc2d269d223c`   |
+
+
+### ID changed
+|                     Name                      |         ID(sha256hash) new          |         ID(sha256hash) old         |
+|:---------------------------------------------:|:-----------------------------------:|:----------------------------------:|
+|           CheckinWithQRCodeMutation           | `daffd9621680664dbf19d27e87484ac7`  | `8d54e1c6bdcc65181f65adc582914ad8` |
+|    SupportButton_SupportChallengeMutation     | `991bace9e8c52d63084cd1570a97a5b4`  | `30aa261475d43bd765b4200fc67003c8` |
+|                 CatalogQuery                  | `ff12098bad4989a813201b00ff22ac4e`  | `52504060c81ff2f2d618c4e5377e6e7c` |
+|              CatalogRefetchQuery              | `60a6592c6ee8e47245020ae0d314d378`  | `4423dfd630867301fcdd834cd52922f4` |
+|            CoopHistoryDetailQuery             | `379f0d9b78b531be53044bcac031b34b`  | `9ade2aa3656324870ccec023636aed32` |
+|               CoopHistoryQuery                | `91b917becd2fa415890f5b47e15ffb15`  | `2fd21f270d381ecf894eb975c5f6a716` |
+|           CoopPagerLatestCoopQuery            | `eb947416660e0a7520549f6b9a8ffcd7`  | `a2704e18852efce9cdbc61e205e1ed4e` |
+|           DownloadSearchReplayQuery           | `8e904b52b5080b6f4b4448a50762362c`  | `43a5f23eec238d7ee827cc87f47f050c` |
+|              HistoryRecordQuery               | `f09da9d24d888797fdfb2f060dbdf4ed`  | `32b6771f94083d8f04848109b7300af5` |
+|           HistoryRecordRefetchQuery           | `d997d8e3875d50d3a1dc7e8a756e9e07`  | `57b1ccae6949c407e2df9bcad2a8e573` |
+|                   HomeQuery                   | `22e2fa8294168003c21b00c333c35384`  | `dba47124d5ec3090c97ba17db5d2f4b3` |
+|          JourneyChallengeDetailQuery          | `5a199948d059985bd758cc0175131f4a`  | `38e58b84376a2ad49ddbe4061b948455` |
+|      JourneyChallengeDetailRefetchQuery       | `e7414c7a64bf80bb50ce21d5ccfde772`  | `8dc246933b1f4e26a6dfd251878cf786` |
+|                  ReplayQuery                  | `e9cbaa835977b6c6de77ca7a4be15b24`  | `7ec830425971a0e0ff5b2a378455e38e` |
+|     ReplayUploadedReplayListRefetchQuery      | `3bd200163e63bfff42ab60a244cac042`  | `1d1048e2af114e263a3c3d3ddd34bcb4` |
+|                 SettingQuery                  | `73bd677ed986ad2cb7004ceabfff4d38`  | `61228d553e7463c203e05e7810dd79a7` |
+|              StageScheduleQuery               | `011e394c0e384d77a0701474c8c11a20`  | `730cd98e84f1030d3e9ac86b6f1aae13` |
+|    refetchableCoopHistory_coopResultQuery     | `50be9b694c7c6b99b7a383e494ec5258`  | `2a7f4335bcf586d904db85e75ba868c0` |

@@ -1,0 +1,2065 @@
+{
+    "data": {
+        "regularSchedules": {
+            "nodes": [
+                {
+                    "startTime": "2023-03-04T10:00:00Z",
+                    "endTime": "2023-03-04T12:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 3,
+                                "name": "ヤガラ市場",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0z"
+                            },
+                            {
+                                "vsStageId": 4,
+                                "name": "マテガイ放水路",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS00"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T12:00:00Z",
+                    "endTime": "2023-03-04T14:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 9,
+                                "name": "ヒラメが丘団地",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS05"
+                            },
+                            {
+                                "vsStageId": 18,
+                                "name": "マンタマリア号",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xOA=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T14:00:00Z",
+                    "endTime": "2023-03-04T16:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 5,
+                                "name": "ナンプラー遺跡",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS01"
+                            },
+                            {
+                                "vsStageId": 6,
+                                "name": "ナメロウ金属",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS02"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T16:00:00Z",
+                    "endTime": "2023-03-04T18:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 1,
+                                "name": "ユノハナ大渓谷",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0x"
+                            },
+                            {
+                                "vsStageId": 15,
+                                "name": "ザトウマーケット",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=PuPLILXEiJ-srfggk9x5KODjKqNiAGYOQsZ9KlH4Jpv8YIDXnVSpUfMGhRe0f~EnVY6KHWUUnC7q5tSHEkZbcRQBVHIzMF~Lefcwojh6Vjgk1zL7VW--7z2umrruLYciIWAmKjc6YCfcRQaVAN-54MD6uaSLWNZMODBDbmNg8UIpePI1wttCVqyAY6B4r9tdDPeP1dcbbxYHmtvSUwvxTiMh16cQjWwMzVxDIs5L4AmG9vfCU~7hwqTc4DxxPjH3dkgKxCq-7IDmj2uWt~IYH8PnTeAs~HCDDB~US~jXzZuBjcJaegsx~xpknZZF~p5b~2bHSKqbjS0ey2uwRrVt~Q__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNQ=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T18:00:00Z",
+                    "endTime": "2023-03-04T20:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 14,
+                                "name": "チョウザメ造船",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNA=="
+                            },
+                            {
+                                "vsStageId": 16,
+                                "name": "スメーシーワールド",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T20:00:00Z",
+                    "endTime": "2023-03-04T22:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 4,
+                                "name": "マテガイ放水路",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS00"
+                            },
+                            {
+                                "vsStageId": 11,
+                                "name": "キンメダイ美術館",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMQ=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T22:00:00Z",
+                    "endTime": "2023-03-05T00:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 2,
+                                "name": "ゴンズイ地区",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_1.png?Expires=1704844800&Signature=VARrlX8cEiK9gO3mzdObd5piHAvt-oLE4E1u5WwlcqS4msSU7xSnIAWRryQjCIyNutwhZGleIzkc2eybTqy2TmCw0qVogwtBzHsreG9aZJeho9qKhqKU0yQ6sLNjSLoLRAgltInXXZ1p~AJQ5cVm3ft1ZWLAs3wYi8mHqMCviHphk4D~cv1Tp3--cBcZwdtsjyHfLwa8trxl3rzm1I~ju85IG74LfKBec2Y2FLq03CvnUVph6Ghfhk~0E9avRCFVnVwXGp2buWSVikd95s6A2U4z07RCkEPqkIHCDZoD6tFlZ~bztWlwHva3e8q9piRBRpI9QlzPbLXBZfaDoyyqpw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0y"
+                            },
+                            {
+                                "vsStageId": 12,
+                                "name": "マヒマヒリゾート＆スパ",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T00:00:00Z",
+                    "endTime": "2023-03-05T02:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 5,
+                                "name": "ナンプラー遺跡",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS01"
+                            },
+                            {
+                                "vsStageId": 7,
+                                "name": "クサヤ温泉",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=oHM01xDT2NZUZqB4wVATpNvrfITjFbV8VyrpBSnoBTyOzbsEP8Pkdvbv4XUk~74jXEvHSAoQLMIng-Mtx0Hp01H5USioaX6h-mtw3QbBN8My2jPl8XpGLmFb8MLSszY1-abcuIA-pTTpYKdzeuo29UpdiqYi9KMKOjaaOMIP7EldfCyCfhbamuV~xFoKugsa4PfT-lDnQ3mD31ul1Y-g7gIHA1TXYkN8~0vWNzc2rjI5SZ4RaAQM-Ky91fRJEP0YPmnSdN4wSnqUkK8eikrohY06TTLHjjU5F81xqfPOxcrg-Gls5fMte03O59r37eHKbNeYzUMd--LSK8B7~Ck~rg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS03"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T02:00:00Z",
+                    "endTime": "2023-03-05T04:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 10,
+                                "name": "マサバ海峡大橋",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=NJSz0DQjs-c5zgJszLhktMSBq9g8d~J0lW2XQb6B0-d9U1dGdl7sZ--jRQSbnyCjM8Jb5OFCE5IrEdW31vxLuHGwf-D7hougKMDMXAy-3ZLMns~GigotKS4TyoJZUouZ-foPkoI6S7JSO4saU-uj5s8WbGojSAGaa7UyXBqk6oF2gcZeX3Vkpvzoa3kSp~Y~Xlhz5GmXA70ARXqwBbyOZctdFE8wNpYW0tX0zW2-As7BTPjcO7lMT1T1F0ep3b-mQ6KkfiICUIKk3s-diNlWvvnkDKsed0dxGx5oWTDJnOR3UJRlr6xnmtX-GTla8FOV6HadaBWnafaquoAXHzF67w__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMA=="
+                            },
+                            {
+                                "vsStageId": 11,
+                                "name": "キンメダイ美術館",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMQ=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T04:00:00Z",
+                    "endTime": "2023-03-05T06:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 9,
+                                "name": "ヒラメが丘団地",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS05"
+                            },
+                            {
+                                "vsStageId": 16,
+                                "name": "スメーシーワールド",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T06:00:00Z",
+                    "endTime": "2023-03-05T08:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 1,
+                                "name": "ユノハナ大渓谷",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0x"
+                            },
+                            {
+                                "vsStageId": 4,
+                                "name": "マテガイ放水路",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS00"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T08:00:00Z",
+                    "endTime": "2023-03-05T10:00:00Z",
+                    "regularMatchSetting": {
+                        "__isVsSetting": "RegularMatchSetting",
+                        "__typename": "RegularMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 3,
+                                "name": "ヤガラ市場",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0z"
+                            },
+                            {
+                                "vsStageId": 12,
+                                "name": "マヒマヒリゾート＆スパ",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ナワバリバトル",
+                            "rule": "TURF_WAR",
+                            "id": "VnNSdWxlLTA="
+                        }
+                    },
+                    "festMatchSetting": null
+                }
+            ]
+        },
+        "bankaraSchedules": {
+            "nodes": [
+                {
+                    "startTime": "2023-03-04T10:00:00Z",
+                    "endTime": "2023-03-04T12:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 9,
+                                    "name": "ヒラメが丘団地",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS05"
+                                },
+                                {
+                                    "vsStageId": 18,
+                                    "name": "マンタマリア号",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xOA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 10,
+                                    "name": "マサバ海峡大橋",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=NJSz0DQjs-c5zgJszLhktMSBq9g8d~J0lW2XQb6B0-d9U1dGdl7sZ--jRQSbnyCjM8Jb5OFCE5IrEdW31vxLuHGwf-D7hougKMDMXAy-3ZLMns~GigotKS4TyoJZUouZ-foPkoI6S7JSO4saU-uj5s8WbGojSAGaa7UyXBqk6oF2gcZeX3Vkpvzoa3kSp~Y~Xlhz5GmXA70ARXqwBbyOZctdFE8wNpYW0tX0zW2-As7BTPjcO7lMT1T1F0ep3b-mQ6KkfiICUIKk3s-diNlWvvnkDKsed0dxGx5oWTDJnOR3UJRlr6xnmtX-GTla8FOV6HadaBWnafaquoAXHzF67w__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMA=="
+                                },
+                                {
+                                    "vsStageId": 12,
+                                    "name": "マヒマヒリゾート＆スパ",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMg=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T12:00:00Z",
+                    "endTime": "2023-03-04T14:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 4,
+                                    "name": "マテガイ放水路",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS00"
+                                },
+                                {
+                                    "vsStageId": 14,
+                                    "name": "チョウザメ造船",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチアサリ",
+                                "rule": "CLAM",
+                                "id": "VnNSdWxlLTQ="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 1,
+                                    "name": "ユノハナ大渓谷",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0x"
+                                },
+                                {
+                                    "vsStageId": 3,
+                                    "name": "ヤガラ市場",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0z"
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T14:00:00Z",
+                    "endTime": "2023-03-04T16:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 3,
+                                    "name": "ヤガラ市場",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0z"
+                                },
+                                {
+                                    "vsStageId": 16,
+                                    "name": "スメーシーワールド",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNg=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 4,
+                                    "name": "マテガイ放水路",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS00"
+                                },
+                                {
+                                    "vsStageId": 11,
+                                    "name": "キンメダイ美術館",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMQ=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T16:00:00Z",
+                    "endTime": "2023-03-04T18:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 5,
+                                    "name": "ナンプラー遺跡",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS01"
+                                },
+                                {
+                                    "vsStageId": 12,
+                                    "name": "マヒマヒリゾート＆スパ",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMg=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 2,
+                                    "name": "ゴンズイ地区",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_1.png?Expires=1704844800&Signature=VARrlX8cEiK9gO3mzdObd5piHAvt-oLE4E1u5WwlcqS4msSU7xSnIAWRryQjCIyNutwhZGleIzkc2eybTqy2TmCw0qVogwtBzHsreG9aZJeho9qKhqKU0yQ6sLNjSLoLRAgltInXXZ1p~AJQ5cVm3ft1ZWLAs3wYi8mHqMCviHphk4D~cv1Tp3--cBcZwdtsjyHfLwa8trxl3rzm1I~ju85IG74LfKBec2Y2FLq03CvnUVph6Ghfhk~0E9avRCFVnVwXGp2buWSVikd95s6A2U4z07RCkEPqkIHCDZoD6tFlZ~bztWlwHva3e8q9piRBRpI9QlzPbLXBZfaDoyyqpw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0y"
+                                },
+                                {
+                                    "vsStageId": 18,
+                                    "name": "マンタマリア号",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xOA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチアサリ",
+                                "rule": "CLAM",
+                                "id": "VnNSdWxlLTQ="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T18:00:00Z",
+                    "endTime": "2023-03-04T20:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 1,
+                                    "name": "ユノハナ大渓谷",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0x"
+                                },
+                                {
+                                    "vsStageId": 11,
+                                    "name": "キンメダイ美術館",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMQ=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 6,
+                                    "name": "ナメロウ金属",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS02"
+                                },
+                                {
+                                    "vsStageId": 15,
+                                    "name": "ザトウマーケット",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=PuPLILXEiJ-srfggk9x5KODjKqNiAGYOQsZ9KlH4Jpv8YIDXnVSpUfMGhRe0f~EnVY6KHWUUnC7q5tSHEkZbcRQBVHIzMF~Lefcwojh6Vjgk1zL7VW--7z2umrruLYciIWAmKjc6YCfcRQaVAN-54MD6uaSLWNZMODBDbmNg8UIpePI1wttCVqyAY6B4r9tdDPeP1dcbbxYHmtvSUwvxTiMh16cQjWwMzVxDIs5L4AmG9vfCU~7hwqTc4DxxPjH3dkgKxCq-7IDmj2uWt~IYH8PnTeAs~HCDDB~US~jXzZuBjcJaegsx~xpknZZF~p5b~2bHSKqbjS0ey2uwRrVt~Q__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNQ=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T20:00:00Z",
+                    "endTime": "2023-03-04T22:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 7,
+                                    "name": "クサヤ温泉",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=oHM01xDT2NZUZqB4wVATpNvrfITjFbV8VyrpBSnoBTyOzbsEP8Pkdvbv4XUk~74jXEvHSAoQLMIng-Mtx0Hp01H5USioaX6h-mtw3QbBN8My2jPl8XpGLmFb8MLSszY1-abcuIA-pTTpYKdzeuo29UpdiqYi9KMKOjaaOMIP7EldfCyCfhbamuV~xFoKugsa4PfT-lDnQ3mD31ul1Y-g7gIHA1TXYkN8~0vWNzc2rjI5SZ4RaAQM-Ky91fRJEP0YPmnSdN4wSnqUkK8eikrohY06TTLHjjU5F81xqfPOxcrg-Gls5fMte03O59r37eHKbNeYzUMd--LSK8B7~Ck~rg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS03"
+                                },
+                                {
+                                    "vsStageId": 15,
+                                    "name": "ザトウマーケット",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=PuPLILXEiJ-srfggk9x5KODjKqNiAGYOQsZ9KlH4Jpv8YIDXnVSpUfMGhRe0f~EnVY6KHWUUnC7q5tSHEkZbcRQBVHIzMF~Lefcwojh6Vjgk1zL7VW--7z2umrruLYciIWAmKjc6YCfcRQaVAN-54MD6uaSLWNZMODBDbmNg8UIpePI1wttCVqyAY6B4r9tdDPeP1dcbbxYHmtvSUwvxTiMh16cQjWwMzVxDIs5L4AmG9vfCU~7hwqTc4DxxPjH3dkgKxCq-7IDmj2uWt~IYH8PnTeAs~HCDDB~US~jXzZuBjcJaegsx~xpknZZF~p5b~2bHSKqbjS0ey2uwRrVt~Q__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNQ=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチアサリ",
+                                "rule": "CLAM",
+                                "id": "VnNSdWxlLTQ="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 5,
+                                    "name": "ナンプラー遺跡",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS01"
+                                },
+                                {
+                                    "vsStageId": 16,
+                                    "name": "スメーシーワールド",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNg=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T22:00:00Z",
+                    "endTime": "2023-03-05T00:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 6,
+                                    "name": "ナメロウ金属",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS02"
+                                },
+                                {
+                                    "vsStageId": 10,
+                                    "name": "マサバ海峡大橋",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=NJSz0DQjs-c5zgJszLhktMSBq9g8d~J0lW2XQb6B0-d9U1dGdl7sZ--jRQSbnyCjM8Jb5OFCE5IrEdW31vxLuHGwf-D7hougKMDMXAy-3ZLMns~GigotKS4TyoJZUouZ-foPkoI6S7JSO4saU-uj5s8WbGojSAGaa7UyXBqk6oF2gcZeX3Vkpvzoa3kSp~Y~Xlhz5GmXA70ARXqwBbyOZctdFE8wNpYW0tX0zW2-As7BTPjcO7lMT1T1F0ep3b-mQ6KkfiICUIKk3s-diNlWvvnkDKsed0dxGx5oWTDJnOR3UJRlr6xnmtX-GTla8FOV6HadaBWnafaquoAXHzF67w__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 9,
+                                    "name": "ヒラメが丘団地",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS05"
+                                },
+                                {
+                                    "vsStageId": 14,
+                                    "name": "チョウザメ造船",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T00:00:00Z",
+                    "endTime": "2023-03-05T02:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 1,
+                                    "name": "ユノハナ大渓谷",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0x"
+                                },
+                                {
+                                    "vsStageId": 9,
+                                    "name": "ヒラメが丘団地",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS05"
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 3,
+                                    "name": "ヤガラ市場",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0z"
+                                },
+                                {
+                                    "vsStageId": 12,
+                                    "name": "マヒマヒリゾート＆スパ",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMg=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T02:00:00Z",
+                    "endTime": "2023-03-05T04:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 4,
+                                    "name": "マテガイ放水路",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS00"
+                                },
+                                {
+                                    "vsStageId": 5,
+                                    "name": "ナンプラー遺跡",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS01"
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 2,
+                                    "name": "ゴンズイ地区",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_1.png?Expires=1704844800&Signature=VARrlX8cEiK9gO3mzdObd5piHAvt-oLE4E1u5WwlcqS4msSU7xSnIAWRryQjCIyNutwhZGleIzkc2eybTqy2TmCw0qVogwtBzHsreG9aZJeho9qKhqKU0yQ6sLNjSLoLRAgltInXXZ1p~AJQ5cVm3ft1ZWLAs3wYi8mHqMCviHphk4D~cv1Tp3--cBcZwdtsjyHfLwa8trxl3rzm1I~ju85IG74LfKBec2Y2FLq03CvnUVph6Ghfhk~0E9avRCFVnVwXGp2buWSVikd95s6A2U4z07RCkEPqkIHCDZoD6tFlZ~bztWlwHva3e8q9piRBRpI9QlzPbLXBZfaDoyyqpw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0y"
+                                },
+                                {
+                                    "vsStageId": 7,
+                                    "name": "クサヤ温泉",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=oHM01xDT2NZUZqB4wVATpNvrfITjFbV8VyrpBSnoBTyOzbsEP8Pkdvbv4XUk~74jXEvHSAoQLMIng-Mtx0Hp01H5USioaX6h-mtw3QbBN8My2jPl8XpGLmFb8MLSszY1-abcuIA-pTTpYKdzeuo29UpdiqYi9KMKOjaaOMIP7EldfCyCfhbamuV~xFoKugsa4PfT-lDnQ3mD31ul1Y-g7gIHA1TXYkN8~0vWNzc2rjI5SZ4RaAQM-Ky91fRJEP0YPmnSdN4wSnqUkK8eikrohY06TTLHjjU5F81xqfPOxcrg-Gls5fMte03O59r37eHKbNeYzUMd--LSK8B7~Ck~rg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS03"
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチアサリ",
+                                "rule": "CLAM",
+                                "id": "VnNSdWxlLTQ="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T04:00:00Z",
+                    "endTime": "2023-03-05T06:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 2,
+                                    "name": "ゴンズイ地区",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_1.png?Expires=1704844800&Signature=VARrlX8cEiK9gO3mzdObd5piHAvt-oLE4E1u5WwlcqS4msSU7xSnIAWRryQjCIyNutwhZGleIzkc2eybTqy2TmCw0qVogwtBzHsreG9aZJeho9qKhqKU0yQ6sLNjSLoLRAgltInXXZ1p~AJQ5cVm3ft1ZWLAs3wYi8mHqMCviHphk4D~cv1Tp3--cBcZwdtsjyHfLwa8trxl3rzm1I~ju85IG74LfKBec2Y2FLq03CvnUVph6Ghfhk~0E9avRCFVnVwXGp2buWSVikd95s6A2U4z07RCkEPqkIHCDZoD6tFlZ~bztWlwHva3e8q9piRBRpI9QlzPbLXBZfaDoyyqpw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0y"
+                                },
+                                {
+                                    "vsStageId": 3,
+                                    "name": "ヤガラ市場",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0z"
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 4,
+                                    "name": "マテガイ放水路",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS00"
+                                },
+                                {
+                                    "vsStageId": 10,
+                                    "name": "マサバ海峡大橋",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=NJSz0DQjs-c5zgJszLhktMSBq9g8d~J0lW2XQb6B0-d9U1dGdl7sZ--jRQSbnyCjM8Jb5OFCE5IrEdW31vxLuHGwf-D7hougKMDMXAy-3ZLMns~GigotKS4TyoJZUouZ-foPkoI6S7JSO4saU-uj5s8WbGojSAGaa7UyXBqk6oF2gcZeX3Vkpvzoa3kSp~Y~Xlhz5GmXA70ARXqwBbyOZctdFE8wNpYW0tX0zW2-As7BTPjcO7lMT1T1F0ep3b-mQ6KkfiICUIKk3s-diNlWvvnkDKsed0dxGx5oWTDJnOR3UJRlr6xnmtX-GTla8FOV6HadaBWnafaquoAXHzF67w__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T06:00:00Z",
+                    "endTime": "2023-03-05T08:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 12,
+                                    "name": "マヒマヒリゾート＆スパ",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMg=="
+                                },
+                                {
+                                    "vsStageId": 14,
+                                    "name": "チョウザメ造船",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチアサリ",
+                                "rule": "CLAM",
+                                "id": "VnNSdWxlLTQ="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 16,
+                                    "name": "スメーシーワールド",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNg=="
+                                },
+                                {
+                                    "vsStageId": 18,
+                                    "name": "マンタマリア号",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xOA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチヤグラ",
+                                "rule": "LOFT",
+                                "id": "VnNSdWxlLTI="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T08:00:00Z",
+                    "endTime": "2023-03-05T10:00:00Z",
+                    "bankaraMatchSettings": [
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 11,
+                                    "name": "キンメダイ美術館",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xMQ=="
+                                },
+                                {
+                                    "vsStageId": 18,
+                                    "name": "マンタマリア号",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xOA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチホコバトル",
+                                "rule": "GOAL",
+                                "id": "VnNSdWxlLTM="
+                            },
+                            "mode": "CHALLENGE"
+                        },
+                        {
+                            "__isVsSetting": "BankaraMatchSetting",
+                            "__typename": "BankaraMatchSetting",
+                            "vsStages": [
+                                {
+                                    "vsStageId": 1,
+                                    "name": "ユノハナ大渓谷",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0x"
+                                },
+                                {
+                                    "vsStageId": 14,
+                                    "name": "チョウザメ造船",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "VnNTdGFnZS0xNA=="
+                                }
+                            ],
+                            "vsRule": {
+                                "name": "ガチエリア",
+                                "rule": "AREA",
+                                "id": "VnNSdWxlLTE="
+                            },
+                            "mode": "OPEN"
+                        }
+                    ],
+                    "festMatchSetting": null
+                }
+            ]
+        },
+        "xSchedules": {
+            "nodes": [
+                {
+                    "startTime": "2023-03-04T10:00:00Z",
+                    "endTime": "2023-03-04T12:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 5,
+                                "name": "ナンプラー遺跡",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS01"
+                            },
+                            {
+                                "vsStageId": 7,
+                                "name": "クサヤ温泉",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=oHM01xDT2NZUZqB4wVATpNvrfITjFbV8VyrpBSnoBTyOzbsEP8Pkdvbv4XUk~74jXEvHSAoQLMIng-Mtx0Hp01H5USioaX6h-mtw3QbBN8My2jPl8XpGLmFb8MLSszY1-abcuIA-pTTpYKdzeuo29UpdiqYi9KMKOjaaOMIP7EldfCyCfhbamuV~xFoKugsa4PfT-lDnQ3mD31ul1Y-g7gIHA1TXYkN8~0vWNzc2rjI5SZ4RaAQM-Ky91fRJEP0YPmnSdN4wSnqUkK8eikrohY06TTLHjjU5F81xqfPOxcrg-Gls5fMte03O59r37eHKbNeYzUMd--LSK8B7~Ck~rg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS03"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチエリア",
+                            "rule": "AREA",
+                            "id": "VnNSdWxlLTE="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T12:00:00Z",
+                    "endTime": "2023-03-04T14:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 6,
+                                "name": "ナメロウ金属",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS02"
+                            },
+                            {
+                                "vsStageId": 16,
+                                "name": "スメーシーワールド",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチヤグラ",
+                            "rule": "LOFT",
+                            "id": "VnNSdWxlLTI="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T14:00:00Z",
+                    "endTime": "2023-03-04T16:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 1,
+                                "name": "ユノハナ大渓谷",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0x"
+                            },
+                            {
+                                "vsStageId": 14,
+                                "name": "チョウザメ造船",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_1.png?Expires=1704844800&Signature=VLCqEfqohW~GClr2BqPEQIacdjie9gIXFTpoQ3gK3~I6RgFd6QCIQuXrqnuj41HdLpidvHm5y5GNFFTiizXiEDC1uv5RzIrvIKb1o2XvbVBnO7Gy628rsW5LUihNA64K7LQ-askHMOjt3gAq2kb6UQddAjiQau3ih~cCv7TwxF0b01DDz09RG0u~SZQZRkelZht~oDci4wDquJJ3bKq5dqa-9AUD9qFlbUszzXdE2Fqq0StLuKUvnQqIUVrEMHBk8BKwTTWBIHt7p0VeVMbX~ADOBKSi6mc04efm8-AN1lgIYqQqnWBV84hRjcJqK1Y32iSxejyxM3PYxZnB4YKiMA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNA=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチアサリ",
+                            "rule": "CLAM",
+                            "id": "VnNSdWxlLTQ="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T16:00:00Z",
+                    "endTime": "2023-03-04T18:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 4,
+                                "name": "マテガイ放水路",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS00"
+                            },
+                            {
+                                "vsStageId": 11,
+                                "name": "キンメダイ美術館",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_1.png?Expires=1704844800&Signature=lR4JzymizIeGnOoUsVBvLLOa77btb6OuIOkiBmmI6F-8zIuidYApv~CdTQnnN1Swl86aAuwNKCbGNU0BYAwfShcOpArEWnaEGl02KlXEDSlFEGtGYZOwqGFOrUlBafurvE1GN6TZBbhAX3VySd5T5c1JZqlSqrIfaNWAtUpf9NjrrSbQ7OJsZEMouWxpoTVi3KkJZdFiFVVxQLmMZQr-z6Hw4Mtycs6XrjgX3HXSWiz~2RIvAQXjt9nbNmoXw6pwYET5kwZcsO1~D-vyUC4kowXVTJD6BKKxhJkEUBk~5id8TP~9Sh2SRdX5FZf5OtvE5I27-E0t~cEUB~ew2LkoYg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMQ=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチホコバトル",
+                            "rule": "GOAL",
+                            "id": "VnNSdWxlLTM="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T18:00:00Z",
+                    "endTime": "2023-03-04T20:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 12,
+                                "name": "マヒマヒリゾート＆スパ",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_1.png?Expires=1704844800&Signature=kdHGsRD~RTvvy5JEwIdYANSANMvjMP27wPU-~ds956PHb34ov-WajxEKFiOgE6vDneLch9EGm2tjnHwgSyAxn9VKNiSSTmT1yEwUrimnDQRGqEi09GiY~kf9qbTHq71s6VEpZO1euAMbyCJFiKdHG80tvqKtZPM0HkxZoBiLlwSCOaDGvmGKWKYjNLaMxFgcHfsZRzq6FHWzUHl4XlyT-R1mDm-mLgt4rlZXW3d3mvswNSYekHRLNmIJI74cSTPh9mXeMZXAb22nXig8p2JFiMr02qYU83MlBR6TNm20PLAdbp02oBTZ2VVqYml6jj9Uqrs6-huF8pX16tu61dHIfw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMg=="
+                            },
+                            {
+                                "vsStageId": 18,
+                                "name": "マンタマリア号",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xOA=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチエリア",
+                            "rule": "AREA",
+                            "id": "VnNSdWxlLTE="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T20:00:00Z",
+                    "endTime": "2023-03-04T22:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 6,
+                                "name": "ナメロウ金属",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS02"
+                            },
+                            {
+                                "vsStageId": 10,
+                                "name": "マサバ海峡大橋",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_1.png?Expires=1704844800&Signature=NJSz0DQjs-c5zgJszLhktMSBq9g8d~J0lW2XQb6B0-d9U1dGdl7sZ--jRQSbnyCjM8Jb5OFCE5IrEdW31vxLuHGwf-D7hougKMDMXAy-3ZLMns~GigotKS4TyoJZUouZ-foPkoI6S7JSO4saU-uj5s8WbGojSAGaa7UyXBqk6oF2gcZeX3Vkpvzoa3kSp~Y~Xlhz5GmXA70ARXqwBbyOZctdFE8wNpYW0tX0zW2-As7BTPjcO7lMT1T1F0ep3b-mQ6KkfiICUIKk3s-diNlWvvnkDKsed0dxGx5oWTDJnOR3UJRlr6xnmtX-GTla8FOV6HadaBWnafaquoAXHzF67w__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xMA=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチヤグラ",
+                            "rule": "LOFT",
+                            "id": "VnNSdWxlLTI="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T22:00:00Z",
+                    "endTime": "2023-03-05T00:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 7,
+                                "name": "クサヤ温泉",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_1.png?Expires=1704844800&Signature=oHM01xDT2NZUZqB4wVATpNvrfITjFbV8VyrpBSnoBTyOzbsEP8Pkdvbv4XUk~74jXEvHSAoQLMIng-Mtx0Hp01H5USioaX6h-mtw3QbBN8My2jPl8XpGLmFb8MLSszY1-abcuIA-pTTpYKdzeuo29UpdiqYi9KMKOjaaOMIP7EldfCyCfhbamuV~xFoKugsa4PfT-lDnQ3mD31ul1Y-g7gIHA1TXYkN8~0vWNzc2rjI5SZ4RaAQM-Ky91fRJEP0YPmnSdN4wSnqUkK8eikrohY06TTLHjjU5F81xqfPOxcrg-Gls5fMte03O59r37eHKbNeYzUMd--LSK8B7~Ck~rg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS03"
+                            },
+                            {
+                                "vsStageId": 15,
+                                "name": "ザトウマーケット",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=PuPLILXEiJ-srfggk9x5KODjKqNiAGYOQsZ9KlH4Jpv8YIDXnVSpUfMGhRe0f~EnVY6KHWUUnC7q5tSHEkZbcRQBVHIzMF~Lefcwojh6Vjgk1zL7VW--7z2umrruLYciIWAmKjc6YCfcRQaVAN-54MD6uaSLWNZMODBDbmNg8UIpePI1wttCVqyAY6B4r9tdDPeP1dcbbxYHmtvSUwvxTiMh16cQjWwMzVxDIs5L4AmG9vfCU~7hwqTc4DxxPjH3dkgKxCq-7IDmj2uWt~IYH8PnTeAs~HCDDB~US~jXzZuBjcJaegsx~xpknZZF~p5b~2bHSKqbjS0ey2uwRrVt~Q__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNQ=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチアサリ",
+                            "rule": "CLAM",
+                            "id": "VnNSdWxlLTQ="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T00:00:00Z",
+                    "endTime": "2023-03-05T02:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 2,
+                                "name": "ゴンズイ地区",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_1.png?Expires=1704844800&Signature=VARrlX8cEiK9gO3mzdObd5piHAvt-oLE4E1u5WwlcqS4msSU7xSnIAWRryQjCIyNutwhZGleIzkc2eybTqy2TmCw0qVogwtBzHsreG9aZJeho9qKhqKU0yQ6sLNjSLoLRAgltInXXZ1p~AJQ5cVm3ft1ZWLAs3wYi8mHqMCviHphk4D~cv1Tp3--cBcZwdtsjyHfLwa8trxl3rzm1I~ju85IG74LfKBec2Y2FLq03CvnUVph6Ghfhk~0E9avRCFVnVwXGp2buWSVikd95s6A2U4z07RCkEPqkIHCDZoD6tFlZ~bztWlwHva3e8q9piRBRpI9QlzPbLXBZfaDoyyqpw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0y"
+                            },
+                            {
+                                "vsStageId": 4,
+                                "name": "マテガイ放水路",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_1.png?Expires=1704844800&Signature=AU6l5ITJAwTdgr7PsBucSZAhVTQo52taNdBJqesVXttz1PWvjR0Woq0pEogV8cxkgIdqzloxfkpiKoHVr80ocnm3VWWo9Ky7GudyuazTPEI96oyvuzrgK29wDscKkn0pVaslWrIPgvnqEo-rLhK5xp0lcrMif4VR8voh6Ixu3IqEm2sl4TOtJxuAgLL1wfWLGiT9UhnpK4w52~1SKF93Zf95c2gy0Gjp~21N5GeJEv8z0T1X83xgO2XO6BIm7Lt1Zv5b-9GPmI7gRp7QFoFtvKcTX7DG370h5td~Ca9FtC8KgFj3p98Qprc0IqhvLyQJUd~KsBDwlM7df9VSTcnDqw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS00"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチヤグラ",
+                            "rule": "LOFT",
+                            "id": "VnNSdWxlLTI="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T02:00:00Z",
+                    "endTime": "2023-03-05T04:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 1,
+                                "name": "ユノハナ大渓谷",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_1.png?Expires=1704844800&Signature=s4VFO0VQXcLeOP6-7lNlyaekqqHKfLZNQoIrzAF3~eVwtvXgy5lh1-9BXYkNit1WWPLwuixhsgpCZgy9LCmf5DV2Rpd3hMcWxgkByrx50oFJjdGuD5E0zQLPCCi~BIBbM1mAQwK2KLbwGXNhQxYrVCNLilnjRcb-Jv52bWJ2qdZCFskUIwTLFiw4P0SryGXDVaJlc-a3uRc5wMfZjw9IN1AUOB9zw3VddA2WiUe0Bll-hwumnOOwcAEQTvfcip449t2xLUpX9NNgctPp4qzHdi0v2oSHaB8INQKrh3xeXoHH7cK4wKMCypnrtTByd0JAlGnprzbM5bKi8bP8mDJYLA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0x"
+                            },
+                            {
+                                "vsStageId": 9,
+                                "name": "ヒラメが丘団地",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_1.png?Expires=1704844800&Signature=u~9tft7cU-OGgq8AP~3siYSSrZ6gwZYhOtDxw0lBO7mvlf0a5YI8~UeoWMzJhBtWt3UUFdNGFKLpvRv~s55zxf42zH~cmH3LxW-5FQ-nlMBY8K9KAXNcP4Y4MOFQkTU74fQNJeGMlnlWzhhFVSI2vknxTeII6hQm6fNeAcmzusMEAERlRo0HU8-GnfHZ2-cB29h2mq48N9mJLFAAixTrTnkebWiY2T2SMnpNAzQmSqR9qiao9MLJZ6vYDkBH5DD8re~VxzavWazVmeOlPB9UsHLdwiGvEtYgAU9dCPLm-C-AOX8b83GvWyXU3bQ9OCGODmB3Rfqg3wHwbFgdBJRzng__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS05"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチホコバトル",
+                            "rule": "GOAL",
+                            "id": "VnNSdWxlLTM="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T04:00:00Z",
+                    "endTime": "2023-03-05T06:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 5,
+                                "name": "ナンプラー遺跡",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_1.png?Expires=1704844800&Signature=G1qKgeh6~duqmYWKcCB-prudgobcg7t2z77Neem0TOeQQxky-6b8UcC7r6KvLdHzlqcUelqq4dKZWab8aKMyFTME8~X~quDb8McGhH1pp7i1-yyMpFtUZkWOYKz7jjPwkfdGo~YoNu~LIRGbyjmBREcz1o6gC9tmN0M9jzwr5UxmnfVPOWX~eG-OoZrN05TU0PPX66m5~bQgSvdPRJ22KLSoFfCVuQITQzTHNmGXLNSLLzZZvcZBu8yLQrBl2aO1wZA-zG1Kqw4nmJWWEtuzdCzFBN9hgzko4GCmeacgf~WEfivq~FjqyYr8P5eCkfAlCBv75tHfZIf1lgmamGbLlA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS01"
+                            },
+                            {
+                                "vsStageId": 18,
+                                "name": "マンタマリア号",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_1.png?Expires=1704844800&Signature=PVlficaVReTNu~Qud0BxpAxTCFxp1vNVPBV3-Yw0yb4cVUe8xcoLkC7T6cYNCmFnjOtHh5vJE3hxz1UxJUzIKouoi0UjL1WEkDlOQWxO-wx5EXHRg7qIg2Y4QG6u9WDcVhBw4Iu5OgFmTzk6KO0g4PDBJp~hhYrnYN~o65XC0EcghJzwnrPD1ibVdIsLVIzB5GSqhMewIDF~tYVpGKQGtOVLh2DxuD2BcXX7KC6JFljBTGj6toIbQHw92iRwRz31gijeCQpzMgYifnUKPwwpoNZLdK8hK7l92rgKnjdyZ36yAVljM7up8GVCi7~I4GDUDoOfip4Y~3jjxZCGX1RCIA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xOA=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチアサリ",
+                            "rule": "CLAM",
+                            "id": "VnNSdWxlLTQ="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T06:00:00Z",
+                    "endTime": "2023-03-05T08:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 3,
+                                "name": "ヤガラ市場",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_1.png?Expires=1704844800&Signature=AsjE-W4VBHKoSmhytIZjVH0lt9zMTkS1AJIj4xKaDIfYWSoGXXJjPRMbbb5eF0y7pZqu4WH2NbvTEuJljPfGS2gWc0GdST5g0a7c~ioBAywSAC9JsFXyOKqyGKxOmMNVHLxW9msJw3s~fLAzp~HZvje6rdIwIRdTyq9bKAo-JXRGsrYoN5hHgKWTStUFSMxgPIGexFY2V~wDKwyV6Rwhk2XJtUQZSDS22JK3R9njiazhhdGv5lvj~sZnz4QGdOkIZnHj99osGgtEo-lDYyX-zreTVUA1r93EmuaesBS8mxskPRaWIvL7Lc~m5XAtRUpvHVV5hLGNXXQdPaEupp5sdg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0z"
+                            },
+                            {
+                                "vsStageId": 6,
+                                "name": "ナメロウ金属",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_1.png?Expires=1704844800&Signature=EdZVTUbhclUc4PiEtnbkbgC4UIOQrHKVw2euG716yzsM5er3zlFk8kK78rB2GlZF0wyBxu-xxkumP-e8M9USvxSeskk~HlIOcUYo6j5TeGLRgjYVeOp36q1XoywOgK2Zrf-eba430OKU4oxWTAGS41j~6JiJqAQlJobNoa9BLSRQW5eIdpcd-ugo6-yhQUdFvkJpw7-XOdMvzodle4ji836gzIfJNhiZudXEDZBnYmK6jS6WykAKDnXeL0jDQf6zYiwT5YctD4pcZGaObQaGqz14Bo~5pqzU0TkMxORw7UsPbFbLuHPnEkCnHETLOfaZeYsGnHFbRQv4kuOYxunNEg__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS02"
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチエリア",
+                            "rule": "AREA",
+                            "id": "VnNSdWxlLTE="
+                        }
+                    },
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T08:00:00Z",
+                    "endTime": "2023-03-05T10:00:00Z",
+                    "xMatchSetting": {
+                        "__isVsSetting": "XMatchSetting",
+                        "__typename": "XMatchSetting",
+                        "vsStages": [
+                            {
+                                "vsStageId": 15,
+                                "name": "ザトウマーケット",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_1.png?Expires=1704844800&Signature=PuPLILXEiJ-srfggk9x5KODjKqNiAGYOQsZ9KlH4Jpv8YIDXnVSpUfMGhRe0f~EnVY6KHWUUnC7q5tSHEkZbcRQBVHIzMF~Lefcwojh6Vjgk1zL7VW--7z2umrruLYciIWAmKjc6YCfcRQaVAN-54MD6uaSLWNZMODBDbmNg8UIpePI1wttCVqyAY6B4r9tdDPeP1dcbbxYHmtvSUwvxTiMh16cQjWwMzVxDIs5L4AmG9vfCU~7hwqTc4DxxPjH3dkgKxCq-7IDmj2uWt~IYH8PnTeAs~HCDDB~US~jXzZuBjcJaegsx~xpknZZF~p5b~2bHSKqbjS0ey2uwRrVt~Q__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNQ=="
+                            },
+                            {
+                                "vsStageId": 16,
+                                "name": "スメーシーワールド",
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_1.png?Expires=1704844800&Signature=BAK~vTPRw865rX9HTaiLp1y9UX8McIG~sgGk5d3fQaMXaCfMdDKpF7zsxA29Jlgitau6Oe0jxgmgJPnzicyrfz~T8IInMwYGzIxUw5YpM~UCDf8b1iziIgalYB4KkxkJrC4aNLrVEAAEsVH1cmFJNc3ACBBoCx6bkrQKAZvhfz8-IA2W7bC5hwjn44Z1M0Et2HHkc0psPLM5Zx8IBi6WdFyMqchlycPD58JLkn39r~APUVEMjqVucVQXBJ~8i1hNOfwOOUoEFqcKGImVt56OsqEX7u1IJoHd~7WC9mihaN6XlYz6jTHZ4u90NfStDXvOk1Ct~EcZb0oXv8wJoMKAsA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "VnNTdGFnZS0xNg=="
+                            }
+                        ],
+                        "vsRule": {
+                            "name": "ガチヤグラ",
+                            "rule": "LOFT",
+                            "id": "VnNSdWxlLTI="
+                        }
+                    },
+                    "festMatchSetting": null
+                }
+            ]
+        },
+        "coopGroupingSchedule": {
+            "bannerImage": {
+                "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/carousel_img/e2f0d08e429212b55e5f034b68e45be9bf48954969d8aaf3557411ffb83e6394_0.png?Expires=1704844800&Signature=bzr1U5vswThubLYyCz9yPcmyxLtPt7TJUV9MbvYknwzQKtSsYWVw3E94AryCRcA689vdtSeEkJPdb7VLdVzKuGhqd2TVNx3fej6p7p6Tet9orduYrb-Musgru21BpHaeLdHYaGsC7HIqZOSYfhiBxk1l6yoD48bBqSrPIDw2pWKpD~1YDx3NUJm4D7ot8rvMvwyVlQONIBv3Ti3jXCI-k3-8wNLoD1ZWE97Zl-Lc0Tk33EMHRjkUnwQQxb-WrpSpwWYEEgFOhl6TdEJqP0QOhm3UYQWIrXAsSYHABl6O8tZ-bu2WGDuyWcRbEyVUdpZwZsyBZUZ2lFDwQApKNnbTag__&Key-Pair-Id=KNBS2THMRC385"
+            },
+            "regularSchedules": {
+                "nodes": [
+                    {
+                        "startTime": "2023-03-06T00:00:00Z",
+                        "endTime": "2023-03-07T16:00:00Z",
+                        "setting": {
+                            "__typename": "CoopNormalSetting",
+                            "coopStage": {
+                                "name": "ムニ・エール海洋発電所",
+                                "thumbnailImage": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_1.png?Expires=1704844800&Signature=qqChk9TJvE3Xn10XdfUAaouTzrBcGjmd-R7xXB~hnFc1eeQzAoCX1V4Ck0dcyKwhuqyIFj4op07H6MrvHMPnkOs~jvXXUpyxIBpXkn--DB-M0yIHDc3K4j3IlObxQHiKfeYVdyHpjoZc3tpKaVV4CAL0WXcIJNAljkHSFg3d8nfR4-XdQEdN4DSXjdUvFGD2zjL3fA2kDTVJvM-UiXtaP7098j49SLEgaBXL4uKLyJ3T0KpIuaTnrGYLGUq-rDePKl088e3CUVOoYGg9eCal8dqK1inVwzFIHTiQkTh1DVtpfYgZ0QDZKg5NYeORm9Ce8O-lAmXmow3dtfqv~cpDEA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_0.png?Expires=1704844800&Signature=fXorbPsWQ~aQXIYAekJil-7MFGhOaC5LIp7n1i03Tq4~C7n3FcigrUNF6SnN4E-3EE5ePDB-x37BmmKYtnm6N7-cTWd1CH5-NJsExxw9gafnIgONWoqX3DHnQFj0jbhLoZBsDy6IinAjd3mmxO80t64AVwcCuzNzquGfSn2r9ylxd3Ctk89N1JnEaaXmkUmZG2xsBA8jvUWAD-2j7lt7eFtxJwM5maPIkxJAUO~kUyOx9nz9RmcFrpScFgeMXjaERO4NAbsBZIx0DJ~atFavbViWWc~uGilV6vy8hvRZPv6RfjFBZritCbZBl5B7XeVwH3kRFQ7mPYJK3wEWM99oRA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "Q29vcFN0YWdlLTc="
+                            },
+                            "__isCoopSetting": "CoopNormalSetting",
+                            "weapons": [
+                                {
+                                    "name": "スパイガジェット",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/7508ba286e5ac5befe63daea807ab54996c3f0ef3577be9ab5d2827c49dedd75_0.png?Expires=1704844800&Signature=aFbYyGp7zR0sEznId-7N6FMHpcqhuSsNJfqfpa2Tk~pF7YXDCo9k2DkkLqifo1oT5kl0RRpc0j8okNactRgtTt-tqKKcUFpSPLBWxFlpmxEf7Flj2k~AQ~7b~X7tR3zNrielC-ZMM8LFZXGMZWrOCQhFBx9J1r0lTyN86TBDq~7JmRsRmS0WqZFbwt7s5YeQp83Mc0F3kukp-YJtS61FmBdOuBrYgN71I9JnSvec79vLqyiroWNxm~pPQVADtGjSvyl5U5lBnXYyB-toGBLLrvhsGPmS7D16DUUgB-ax41wJMIWe7MzGKZUkF9vgHpjMpuo3AwJM2whcRlIMwp6gjA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "N-ZAP85",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/e6dbf73aa6ff9d1feb61fcabadb2d31e08b228a9736b4f5d8a5baeab9b493255_0.png?Expires=1704844800&Signature=hJtmHciAftMv30zLe7DxC1SzSrgLKEfiqOJjka9QcAtgaAYlmsWnV9uES0vd~18epUONDr5-rH8iEwf~UoKTWa4yQwvwE09D04Ubl6A71U6jrjBqIIu7RgVu6S~UPqToAAjoWq6PHetThUClslng3iI7dSTBjeL-r-s66plRcdkSkzU0Kc8J80L9XvjjCHZv3mXNPmsDB9lpOYyzoHP1bj4cIzc6FGAaqT~8a3QTQHMzpUGJVkcj6KWccnCW4piabmtL-eC-hPXiEQlo~fzgO0ZXAiAFe0sISNX~1MJJeFAV9JVuu2ONMiq2TLpK2AIhTFvd6irv7laAnB~B3TtJPQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スプラローラー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/536b28d9dd9fc6633a4bea4a141d63942a0ba3470fc504e5b0d02ee408798a87_0.png?Expires=1704844800&Signature=e3UZLq2z6pChvtsTYAJ98VleSFFZCqukoCcjJDEVcpYOtILAWO78cm8EIJG86p3vYGXVGwOchzE8YwhnUbDa2W9N5QISkC23JLw7re8s0-Rznd8kIgC7nhEeV6kLd7CqALAkSdsAweBitTn6M6Szn7NPa25byOHAgUPLqV7yZD1Rw8~qSlAC3AcF4oXbAK~TFZH~-kVRruti5FMFmxwP2asCgKJ~V6QlSy7CjdAoIQfpCZPomtrPeMPe~LtzrtJWHNm2rnopz4HtemF9P29mx6v6lqJAPnCzGHX3GvYZzLQ7dFZ0cthmIhGSi~UgpNqEaFhxmjrSlWU0yjnw7DIRKw__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スクイックリンα",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=ONufU5bXQVmr1vxYJT4PPDww0dbXYSgze5aABc64DEDjIvg2Ihl7EVes8FEn046hGNnxC9f-5uOOH-ZEFtHy9n5os9srL9GfAKqNIC~7ITkTef1vT9~9ptN9dpfGhvC1gswiGt7jbnYE57iB89KOBK-9whJ~vYwGZb4cAcEynNfWWjeVcDRfjnRsVT2Pz-Wh95tbfTUcuYg3BA6KQtaNGAxfYkatgZLeS1EQ8WOwEO6mnFNNXb0pUQep1Mnnj9Sm0GyW-aTfXBIxDSO0P5ULVox0IBbIZgtqVMkDwupt7hp6dDAreFiQk8JN85kFzbP5i8DGjRtByHCiYQCf8oHC2g__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "startTime": "2023-03-07T16:00:00Z",
+                        "endTime": "2023-03-09T08:00:00Z",
+                        "setting": {
+                            "__typename": "CoopNormalSetting",
+                            "coopStage": {
+                                "name": "難破船ドン・ブラコ",
+                                "thumbnailImage": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_1.png?Expires=1704844800&Signature=SJCpStmM3wPXg6n9HEo5AcuzFCm9h41udTA8AsSXsimNm9cRlc~xUJojfpWJGsDEQj8fNeZvyn4ZeN7dwYCkvWxnt3xdiSpgN3h0ypXuIOvMwW8UAVTUudbq4L9K7Sc-HBi~J2Sb68YrNME2jQYbVYTvzIuqsQrG3FqTVAc6Jc5TkkIDQXM9zeo6Kuu1OGfx4jWl0iU0-epuZBSTJFfNPt0SfNHOXapdLLOcJj0rMBqgCCNINT8VkSX70T~4rmY70E7lNEqynAnMR3P1f49CQOHI9AkWVUFx4CmaBWeMoDi9VkRHBZYHMdZEcLH9vN9V3aaqIxRhqYUouR6fZPcFVw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_0.png?Expires=1704844800&Signature=Y7VGsQUdZXpHF3ZprNtRqC-koFbG8rD93MNlJQHMSztaefRwhYRoJVh0~9OjlVXNXo9o4EF2GpQRZHrvztdHCwooSJKgw~VJpD3v~544bD5JEAxePEnLJi5jynpdnynj8qFeo-0CU56vz-RLfAKUpSd~BWCP-GfbWy7xSPsZ~PG~MulrTK~hKuHzQvyv8h0ZPu-xX5qtSERccd62-xtS1I7eiwTsPOBVQehsXp-HnRo4xx-EJks0efZvQLRlfFkQKQqdwZWbubpOK10jwV~Xz3Rq6ewloWQ-4VPhGoXW5BzAfDYSkUp6VmgQZyXXl6dKDw1ECAwdFBazxYJmee8qTQ__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "Q29vcFN0YWdlLTY="
+                            },
+                            "__isCoopSetting": "CoopNormalSetting",
+                            "weapons": [
+                                {
+                                    "name": "パブロ",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/260428edbf919f5c9e8c8517516d6a7a8133cf7348d216768ab4fb9434053f08_0.png?Expires=1704844800&Signature=CKGuiW-DZ7gAjvkZyCreUkLd~Z-X5hip96xGJfHs3ZeQNGjoUlrTV9ncBbDMtNfBG3ZFmHXaZt7q6248KIj2XhHkF4HVIPA18wzcsU9EosXYbcg3hmdG3egdWkExlh2uHK4Lu9R1dau6TC2DYU3-4BTDtXVN8bfa07PKK7ayQRJZSrO7tDwY0lXxWzFf~mkWxrvB7olzZwJpL0m~2qpSDWPTXj6TXtL4vM4N1jJDzrN-03b8X8O~SfozOmalWVG99ZmudhPFowZyaF9Tw2-9VXV7zjiAEq7JuAFvsfJWnotq4oeNAHzU0oB5e92xpkHBh7twvVbI6IqLN6xZnftl0A__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": ".52ガロン",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/01e8399a3c56707b6e9f7500d3d583ba1d400eec06449d8fe047cda1956a4ccc_0.png?Expires=1704844800&Signature=q5fWAqAp51ghg8Pkph6ALFpaVQOAKso7cJsE-fTzEmgKnLppUeD1gsDfcVfI4BTcXPPZADDj5WO7zrxRGvJrWUjPFOtVVZzNF7gTdIc7yXdUtOkXgYgtA8T0FCipJuBrT37UkDm71uj9ybdsv6Mj4Vv1PsU9~1Uqenu6-kFAHZb9yQLvidOgL5Krl6PftT-19~euRu94xMhZFFocn0~ELHUNbZz9PWB3fNsCebsPiF8SmqzVBLlU-zQEHlP5TSB1eYikx6Y0c-MNccdaK4C2yvLIM2zIfcadVi7hMbG-1rtR85GO-GH8zcSsV6Zj4qXuDnjxmG0nibfhYSq6qFnqrQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "エクスプロッシャー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/1e32f5e1e65793585f6423e4fcae1a146a79d2a09e6e15575015af8a2032a4fe_0.png?Expires=1704844800&Signature=DTzJ2ctF6-CanoU0bxfU7qdtyfMqDeWTc5Sl84-tyeQodX0rGvkzv-TZG6Jz7Sc6qRMDGg1O~G7UXW-m5zmFf5adwX-uMV7XXMZF9Ax0VYUPJHoDtsVV30UfhHoFKXIZ71QPa05X~qexGoCCMgmCfEJJ-9MkioaAkN5jXJKaMYaT-pU64IijnHi2evtPV2OEeyV5bB5C-l8kLfkclAF3T~xWEBg3Bt~LNPJDaOnNeeOOZkucOvQaPb~VPI9jz3DETXF1UtRVyyUkcRlZPXSu4i0VagRnnE6w6YJObuNNYV52HMD6d9yjaLHQc5WndWxjdNiCSBIEYeTnk7CMN69RjA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スプラチャージャー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/3f99800b569e286305669b7ab28dc3ff0f0b1b015600569d5ac30ab8a97047a0_0.png?Expires=1704844800&Signature=VvkQtE6qLejkIdYdFzDUMPDUNbH1ayfr0kjj96uEyiGJyxbKD2sSFhgbWbDvRRmsz-e-QKnmCGa1yV-8HuIhhsxsqT6rK7uGRKmYcLbAo4QIJUCL4ElwVeYa8g0eHj8vjhU2tfzenyBrQWB2bFm6QAQpkZ4L5IWKbREI5NDilSxI1tu77vDLPrl-YB3tnB18kDJdtX~OhmQHJn0rLr9E76sLojejHkRa0RaToSdJoKaGU-~IP~1AMJBS6yqd8EcnKnvUzcuUHmdiUS793xxg2jWp22lIMdaPUwe6JncabVtLxG8I6~i33BvEYjHbnPGAnWjM4gvNKblo8PRNlcEuGg__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "startTime": "2023-03-09T08:00:00Z",
+                        "endTime": "2023-03-11T00:00:00Z",
+                        "setting": {
+                            "__typename": "CoopNormalSetting",
+                            "coopStage": {
+                                "name": "シェケナダム",
+                                "thumbnailImage": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/be584c7c7f547b8cbac318617f646680541f88071bc71db73cd461eb3ea6326e_1.png?Expires=1704844800&Signature=fCnI3zeZzbMZ0OyKpb989q9pDuZEsgcsBUQgkC7nrN931Lk9hl9vR2BA8ybOu5DSz5XKSMrsURflJCcthSWhytKlw3HhUWXp2kz~uFyDMR7loo931NsjLimKSO5pL49pGtGWaQJUC7hkBOXny08mcWHtaMwpuAWrV-rsVvXVVIwTOj1oLjmimIOYJ-asUEde6u8ppfxx14azyxaAE7Am8CAWAxfR5IxrmsXuxGhF7Vlgc7GgX-Wn80xJGmY1d3RaD4ZBhHWOj3spJTFvcpztmgCR9vrM96YfeB9jVmDg348HBm7haZ2Ia2AIYLjgOlddIdvXaDG4bB9yLLCnVA9-KQ__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/be584c7c7f547b8cbac318617f646680541f88071bc71db73cd461eb3ea6326e_0.png?Expires=1704844800&Signature=OvQezASpe5jQMcNYfFB-acB-g7D8NvKMVzpZeLjdj3Z3yHHRr1Q8DKvmFYVFEEVMtxUVTO9kKnhM2bjXhorYLssAo8hAidZ8RYmbROvY2ewwZBOytarqdtthNv46nKxgmBVz17m0j-FI4XjcikepRMa1mfZBXbX9ZK2lisFC3m0BFmxs7-dm2ZG6yGq~frdLMyLTABDF0Rqe6DmewdwWdo91E5X9-URkWMH9qSqj59FPbMljBymCr5PDNyQvOis0nKsd8KYbKQmqKiovEpFE6yD16j1sTz8M0i9NIHQICgftvVJyxAkDcVOvSV6MxVISUeWGnpYpUkU6NSGd5WY5Kw__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "Q29vcFN0YWdlLTE="
+                            },
+                            "__isCoopSetting": "CoopNormalSetting",
+                            "weapons": [
+                                {
+                                    "name": "LACT-450",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/9baac6cc774d0e6f2ac8f6e217d700e6f1f47320130598c5f1e922210ccdcc89_0.png?Expires=1704844800&Signature=K7mluWTv8893dO4peJQjEGZ4hLkyEgPnnwzApdNiUcIhZq5E7r~HDyB9A29Y5IODCfg2Z62vLMorfpimtlet88Smu8SObC6NC3I3G0fYNVjh3wGAd7nBK9dlJVxIGvaCx3HIhcsUfzFduWVzVH~jLDqAeUKZSdwjuTsnnMfyh4v~k~k8MQ7-VkUo7NY-iAft7WOwFTO48HiousMdzGeHIE4MiNvIc0G3LK4xOUubUD-~CghGgPuzLIRJRazM~3~i-u6fmvTmHUjv0nEx3teeM472nnOBIviYnSazKfRQSoDgc2Mlg1tXlRsiKvEeRxvV0iYYzWDvhIl7GI1Tq9NPxQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スプラマニューバー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/b43978029ea582de3aca34549cafd810df20082b94104634093392e11e30d9bd_0.png?Expires=1704844800&Signature=cBQI8zfTNxNJ48MAAaqfpdN~f5x2q~oK-~8v1KGaYtrYjEId6tYVU5V17o5ayDLnpdKXlpLvSd2DZrldsW7EHDw~-hgaqBy4sNtktWM7fBb2L5R9TS8xQqXjjB1koU1cXAUXD5yrWwW9Stja9X2pQRzNZz-vOrFQ13cOJ~-LskKUZNShfhnGeyMY-wDZ4OAhTGioU2flo8R5MtY6eZbVECa299XobkhF5XzpAgeOPNHjA5oQ5SIT2lRLrmYtluW-6oO9vkq6qGPOv9SR6GfdbXdRsJe0QR1JA9Wyu94dzA4oCYgZ8QC68sBvc2075LGd5rJy-tAkW52SAftrtP3QZA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スクリュースロッシャー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/bd2eca9a7b4109c1d96e804c74aaf2ca525011e1348d0b312fe4f034e35e5d4c_0.png?Expires=1704844800&Signature=c5soZgFWL0uhh8cGA3mdY5DRa3GKe46WbCExDwkbIrVKTLSlbsFW4Ei6LR8Jo~BwcE0e5IE6gC03XX9-U2TWb7435xcnW3rP-ECe-2NRNPcug6UPaCM0RX2stRbUT6-pWUy9OWA4PZy73MIlzWca8gL4yxo-be76NsmSfzZXvInxiSLO2nT9Of1FjkoFy4G9owhAoy4-BPU0rVyr5Onls1lwF2yaBE-d9Z21HUKVIGT6SC5nJ-kK9DQcGcgIQRaMJ1aWRLe9jIxf7jqXk7UU2sltWsnzyGfwFXvIAIItibYFs5WD6iucpuuphqTrJURCtHxR1Iire~dzdZdiPveoxA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "ラピッドブラスター",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/0a929d514403d07e1543e638141ebace947ffd539f5f766b42f4d6577d40d7b8_0.png?Expires=1704844800&Signature=VxWCYNgsYmeMLwNABjeBWtCwfberJyyMawmOQwMsxenqr2afDrl8YC3h0qJ1j7tbxTWIhmkgwhrrVKHKLVg1C97HNaFtQTCoxdouqDcK8nZsjE3sCaYBAfEOol5YKh5XQx5RyT4RNIzrXad7DjpDkcE-HP1Q-TntokquqJ2pMc70ErbdPK9U9Elbf8m-r6Jv6IYZxg-9sZrXg6DDMLosOyOXfENnJ3eaM7f6l8CqBl8yiCFpGpshXM0LcGIhkbgaHiO1EYi6UJAnfqkkWMmH3-vxRiqJA6Tb49gIhNbUQpIhaxlnCI67RULI~D1w7yu4eCHVPpyIWLOEQV3WJ0R4Cw__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "startTime": "2023-03-11T00:00:00Z",
+                        "endTime": "2023-03-12T16:00:00Z",
+                        "setting": {
+                            "__typename": "CoopNormalSetting",
+                            "coopStage": {
+                                "name": "ムニ・エール海洋発電所",
+                                "thumbnailImage": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_1.png?Expires=1704844800&Signature=qqChk9TJvE3Xn10XdfUAaouTzrBcGjmd-R7xXB~hnFc1eeQzAoCX1V4Ck0dcyKwhuqyIFj4op07H6MrvHMPnkOs~jvXXUpyxIBpXkn--DB-M0yIHDc3K4j3IlObxQHiKfeYVdyHpjoZc3tpKaVV4CAL0WXcIJNAljkHSFg3d8nfR4-XdQEdN4DSXjdUvFGD2zjL3fA2kDTVJvM-UiXtaP7098j49SLEgaBXL4uKLyJ3T0KpIuaTnrGYLGUq-rDePKl088e3CUVOoYGg9eCal8dqK1inVwzFIHTiQkTh1DVtpfYgZ0QDZKg5NYeORm9Ce8O-lAmXmow3dtfqv~cpDEA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_0.png?Expires=1704844800&Signature=fXorbPsWQ~aQXIYAekJil-7MFGhOaC5LIp7n1i03Tq4~C7n3FcigrUNF6SnN4E-3EE5ePDB-x37BmmKYtnm6N7-cTWd1CH5-NJsExxw9gafnIgONWoqX3DHnQFj0jbhLoZBsDy6IinAjd3mmxO80t64AVwcCuzNzquGfSn2r9ylxd3Ctk89N1JnEaaXmkUmZG2xsBA8jvUWAD-2j7lt7eFtxJwM5maPIkxJAUO~kUyOx9nz9RmcFrpScFgeMXjaERO4NAbsBZIx0DJ~atFavbViWWc~uGilV6vy8hvRZPv6RfjFBZritCbZBl5B7XeVwH3kRFQ7mPYJK3wEWM99oRA__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "Q29vcFN0YWdlLTc="
+                            },
+                            "__isCoopSetting": "CoopNormalSetting",
+                            "weapons": [
+                                {
+                                    "name": "ヒッセン",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/f3dbd98d5b0e89f7be7eff25a5c63a06045fe64d8ffd5886e79c855e16791563_0.png?Expires=1704844800&Signature=weorz8KJVwdu4VWi1XduPY4o2NWeZUT1MXpjzYaDYzIzROnrZyppR0ahTkxt5vY2Yb93g6VrQooD8fB69~SXz3X4uKalT6O5DrXQNGeVwbxx9C~KpKl9n6csG31TjPdwcfoJWcK8oCpLzMn8ZoMwTL3KQcKg0YYYwG62jkhrJwBfoYgrRrzFDAVsxM1QnFNL7xXQoEnMbu2Wl8uGhdqXfKmQufUyd9e~EA8ofwRoKHYNrKvBcWEkOSDRaLD2w-rmzkoYD1EQdNt1VWrNeGn6NBrgOu8YkGog2JPs~cxB4nJtCL2tY1je9RfSkxO7xvgBPQBKoj-80ynlPIygSVrbWQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "スペースシューター",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/8034dd1acde77c1a2df32197c12faa5ba1d65b43d008edd1b40f16fa8d106944_0.png?Expires=1704844800&Signature=bfn2Bg4HV66ZU5XF7CrWlPx~ppdEtdnZCT-qorh~bIJYai~~ewFn0fJb5wAiWWcNA1-6mkazS2iqqGj4fcHKqggqHjpTr7s7vKBkajNzB9lcFXUQqvdrAIxwUnXSs3xLyLHzeFn3P2tTj1p-KwFPfQnnddp3BZLzT9OvPMShMl4QmCeI0iHv729512IaXUthPPQ0pTbD-CxlZx4jFZS0LC0-IEK75LAGMZ0z~e9I7Wewg8evVxIGQSju6arm0v9Jtw4dyu~bhag2O1Y97nDX0kfIhc-SkOmpNFnNYcRxoTQrLZZQGCkDJHPusrvf0Ejg2-xXN5PkyY5SbukQ0dIQ3A__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "ダイナモローラー",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/18fdddee9c918842f076c10f12e46d891aca302d2677bf968ee2fe4e65b831a8_0.png?Expires=1704844800&Signature=J~Fybx8q9TQ9WuCNH-u7zsuXgKxvV4XaayEw0Dh2iOJ5Zlmn6w1tuKRCrbObfBiyem1OJoo7u8inF86jbnMPXLaKmWJqJRwsprd8b-W7IKkSKkMQ56n9lQdGAkXmApNlig1FtlkCnDi2X08zlSLzavaHlqk9KOmxq735mFp1ltj0H-~Mdjk8I~px1x3lGM9KwuZNB9SKzaf5jUiEFHHQ4JkyMeOtMf9vt5gb0IU1v-QfJpnpHnZR3LHrpEJVrNHJal7gOhRUwyrmdaXau52~0QTU1zJmhvWqJ8x5w~po5xDcu76~hKzmQ20sMwXC2SAVjaxKMMGtx-0LxHksiDw5cQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": ".96ガロン",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/fe2b351799aa48fcb48154299ff0ccf0b0413fc291ffc49456e93db29d2f1db5_0.png?Expires=1704844800&Signature=lN1vhYKBX741nzDSIp~O63JGYNdt7TFEhMIFGBJBKgbeNMov-6MD6-JTwE2gU1KnvAOF0djpzugKgZz4kBeZ6BysFCeHYbypPAQOuMbE7cEQf~XDsFgB8p3S55TGKV2IKWMcYteAwT6G4Y8OJnspKN4XmewFVdsgtFA-4t44YYywEMiggkArxS4pq00FyIKVQskYsUy010J~dUonBH9B-aI0mh8afFz40DnX~i60ZIDCTdsKgvTQLqk8tCHOLhmFbPSu0ewCVKJW4OUsaiRYLfF7pqMkEBk~n9f7bdq-fUE6fp~O1nX30SWEHMqwzuFEdVUmbbcC-ygJUFvndEusoQ__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "bigRunSchedules": {
+                "nodes": [
+                    {
+                        "startTime": "2023-03-04T00:00:00Z",
+                        "endTime": "2023-03-06T00:00:00Z",
+                        "setting": {
+                            "__typename": "CoopBigRunSetting",
+                            "rule": "BIG_RUN",
+                            "coopStage": {
+                                "name": "海女美術大学",
+                                "thumbnailImage": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/low_resolution/3598b7f54248b84c47cde6b99aa45ff296a41d3d5f38eaccfe2327b2874fff0b_1.png?Expires=1704844800&Signature=GUZH0HadMdhTB9p4UvSsnmjcAhOFSax5voh3ozTr~ktWxSJg1g3jBbo3xDtBo18bxMHQEL0n5HhPHFf~QJStiYGDDV2w1ns1pMYxNze9mnIPOg~lXh2GCSqMXzyyPcXRjzTWkNQZrKGxC9IybaiK3niJD~dg62KXY1jH07T~4aaaqPfvMwjpTcR8Q8Q3~ZgPySy53kH9qbEQrzDAeSLvEQdfc7Ufvi6Lo6PPdN-VAncfF1zN02awGzbVIkzTJ6h8EjDVkQBt28Zx6P0ux3viw8EfrxQ1R7BSfYPMrVVp989G7EJU~XbMgCftMipxSCvbcyUElpnN3nL9T-xOBcth6g__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "image": {
+                                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/3598b7f54248b84c47cde6b99aa45ff296a41d3d5f38eaccfe2327b2874fff0b_0.png?Expires=1704844800&Signature=t4yJet3DVPYNF9tkW06zZIPdRjOM0xGJ~ClyDrZE4jpc4WDQGQ7awSSZx9WZG3fC5S9HRK6Z16MPO28X4HAfnB3giZU9TroNNWfTTYnxMliinIsTsDxpVRSq3sqwiBaTvv5TyUJJoqzWuwIQ194G3fLZs6~ffCsKWddsDtnEukdL8KTX90lbHskJaMeOKEtd2w6De-R9sVRpXC01GwqtCKaVFiTviBa-Lpo5h3mMJeTfVUHhqRPufitQUlhmLbXJCVD7AHHk6iqIfdOu0l86yDTiYh8-ubxpsT499xzgb5xkzycz9LrXNG2qyU52Q3JPpaYEw8r6ogA2-omfaAkcww__&Key-Pair-Id=KNBS2THMRC385"
+                                },
+                                "id": "Q29vcFN0YWdlLTEwMg=="
+                            },
+                            "__isCoopSetting": "CoopBigRunSetting",
+                            "weapons": [
+                                {
+                                    "name": "ランダム",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=eLsoNcKFcMpLOc6GXQ-5PKakhBYqbyLRv5GVUacwc-9sZG6QUz5Nos9L~Y9ws5bZpn2v-LBfGuKA3KtzyZwiRmq3V5w6X437PgTXnbzB8OWMHYC7J5N-kcpMFmJbfCcRxp8ADYZWCgyQHk3XDXQz-GgeLMkPtRM7fKVv1f5NNyRCLfzPN5Q-lotTRCRs0DgksaJ7x2UxGzLs5w3ixCApqiPCeCcWSlBo0sDT1lCsDUYHp~LAKcUXvidXszycGz4xbUqBwY9Q7QgM~1nYiloZf2D1GpTZD2jFsEIAwQZHeuDuQ5aD2kZFLkWJ65uHyi3T1NHxLahhkZi3Fdt3HSUCFA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "ランダム",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=eLsoNcKFcMpLOc6GXQ-5PKakhBYqbyLRv5GVUacwc-9sZG6QUz5Nos9L~Y9ws5bZpn2v-LBfGuKA3KtzyZwiRmq3V5w6X437PgTXnbzB8OWMHYC7J5N-kcpMFmJbfCcRxp8ADYZWCgyQHk3XDXQz-GgeLMkPtRM7fKVv1f5NNyRCLfzPN5Q-lotTRCRs0DgksaJ7x2UxGzLs5w3ixCApqiPCeCcWSlBo0sDT1lCsDUYHp~LAKcUXvidXszycGz4xbUqBwY9Q7QgM~1nYiloZf2D1GpTZD2jFsEIAwQZHeuDuQ5aD2kZFLkWJ65uHyi3T1NHxLahhkZi3Fdt3HSUCFA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "ランダム",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=eLsoNcKFcMpLOc6GXQ-5PKakhBYqbyLRv5GVUacwc-9sZG6QUz5Nos9L~Y9ws5bZpn2v-LBfGuKA3KtzyZwiRmq3V5w6X437PgTXnbzB8OWMHYC7J5N-kcpMFmJbfCcRxp8ADYZWCgyQHk3XDXQz-GgeLMkPtRM7fKVv1f5NNyRCLfzPN5Q-lotTRCRs0DgksaJ7x2UxGzLs5w3ixCApqiPCeCcWSlBo0sDT1lCsDUYHp~LAKcUXvidXszycGz4xbUqBwY9Q7QgM~1nYiloZf2D1GpTZD2jFsEIAwQZHeuDuQ5aD2kZFLkWJ65uHyi3T1NHxLahhkZi3Fdt3HSUCFA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                },
+                                {
+                                    "name": "ランダム",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/ui_img/473fffb2442075078d8bb7125744905abdeae651b6a5b7453ae295582e45f7d1_0.png?Expires=1704844800&Signature=eLsoNcKFcMpLOc6GXQ-5PKakhBYqbyLRv5GVUacwc-9sZG6QUz5Nos9L~Y9ws5bZpn2v-LBfGuKA3KtzyZwiRmq3V5w6X437PgTXnbzB8OWMHYC7J5N-kcpMFmJbfCcRxp8ADYZWCgyQHk3XDXQz-GgeLMkPtRM7fKVv1f5NNyRCLfzPN5Q-lotTRCRs0DgksaJ7x2UxGzLs5w3ixCApqiPCeCcWSlBo0sDT1lCsDUYHp~LAKcUXvidXszycGz4xbUqBwY9Q7QgM~1nYiloZf2D1GpTZD2jFsEIAwQZHeuDuQ5aD2kZFLkWJ65uHyi3T1NHxLahhkZi3Fdt3HSUCFA__&Key-Pair-Id=KNBS2THMRC385"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "teamContestSchedules": {
+                "nodes": []
+            }
+        },
+        "festSchedules": {
+            "nodes": [
+                {
+                    "startTime": "2023-03-04T10:00:00Z",
+                    "endTime": "2023-03-04T12:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T12:00:00Z",
+                    "endTime": "2023-03-04T14:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T14:00:00Z",
+                    "endTime": "2023-03-04T16:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T16:00:00Z",
+                    "endTime": "2023-03-04T18:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T18:00:00Z",
+                    "endTime": "2023-03-04T20:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T20:00:00Z",
+                    "endTime": "2023-03-04T22:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-04T22:00:00Z",
+                    "endTime": "2023-03-05T00:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T00:00:00Z",
+                    "endTime": "2023-03-05T02:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T02:00:00Z",
+                    "endTime": "2023-03-05T04:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T04:00:00Z",
+                    "endTime": "2023-03-05T06:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T06:00:00Z",
+                    "endTime": "2023-03-05T08:00:00Z",
+                    "festMatchSetting": null
+                },
+                {
+                    "startTime": "2023-03-05T08:00:00Z",
+                    "endTime": "2023-03-05T10:00:00Z",
+                    "festMatchSetting": null
+                }
+            ]
+        },
+        "currentFest": null,
+        "currentPlayer": {
+            "userIcon": {
+                "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/23265897d81c1c33"
+            }
+        },
+        "vsStages": {
+            "nodes": [
+                {
+                    "vsStageId": 1,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/35f9ca08ccc2bf759774ab2cb886567c117b9287875ca92fb590c1294ddcdc1e_0.png?Expires=1704844800&Signature=U11yp7XSX~SukIgHjxiyQsNe0CgldyI2Pgbo0L2RbtzKHjSsCqWT-IotgfcnQw0yuA0xUyqNzDSuFaCpOCW5puKhT29wXSpAZAR9Eh1U5vEG~B-9OXx9yXOkbGHYwaqVDBzkrW3xfxQYjTUPYeShwpZDSDWH0guu6nDh5NKWkViecjbIcP~HMV~uXANTei8gJa1TocMTqSUVCgeY3O1DBz7ivCupj9kpPgWgiA-GgeIyBCYBActP0OQPtX6KU8Wu5tIC-EK84~hPoweNIOGO-U0o2TV~dcxxO1i6DJXVq0UWa44FUmwT~N8SxJIcjRnMt~xvlbvIykJUIx1nO0dknQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ユノハナ大渓谷",
+                    "stats": {
+                        "winRateAr": 0.4166666666666667,
+                        "winRateLf": 0.43820224719101125,
+                        "winRateGl": 0.8461538461538461,
+                        "winRateCl": 1.0
+                    },
+                    "id": "VnNTdGFnZS0x"
+                },
+                {
+                    "vsStageId": 2,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/898e1ae6c737a9d44552c7c81f9b710676492681525c514eadc68a6780aa52af_0.png?Expires=1704844800&Signature=RvSJNZC4OsMkSfzMpRt5NB~J4XmfXbP0ONskPLpjxPTf6BBZHH-Lppk1CywH26oGpvgduK8UbMKou9s4NhxKf4LcfJo~Kz9jvHnuDq7U9GNjGqLO3fCj3AhUJ0tku-TKaMxUvZoORpvACyfT0LFdjUPZ7wMq9pzo~oeNOAXHvvDulF~8E-eKRirlVAA3jGdqFvXWPq-6j9nL5nkvSVwYRt2mGiNClJlNIZmrOPgiUqK3T6x9DBZI7YQC1dMJL9rS0gMaIkxkfMG3EkYj0WsqI6I4hq2lbvd46-4cSfi0DXjzNcfBAuHUYcUarcP9I67N13TiRpNiIlwgCV8VCLf7Kg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ゴンズイ地区",
+                    "stats": {
+                        "winRateAr": 0.5294117647058824,
+                        "winRateLf": 0.4186046511627907,
+                        "winRateGl": 0.6111111111111112,
+                        "winRateCl": 0.42857142857142855
+                    },
+                    "id": "VnNTdGFnZS0y"
+                },
+                {
+                    "vsStageId": 3,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/8dc2f16d39c630bab40cead5b2485ca3559e829d0d3de0c2232c7a62fefb5fa9_0.png?Expires=1704844800&Signature=o50W4s50FWypBgu~J3v6snKFcvtU9uz0DP3g3G16VHgnCxsVrCjWTYgE9W1SLybgWqFeLTxwLiIhHnFCi5dKhCCRtAy4wLqHjb8yz8ZbDIAFhj9STv816o2vlo36KAZTRz1qmOFYRRqMmSADZXWI5NpWYWtPN5grN7QXwdVMGEUrMvDiUoBgwQ3qVkQeXFbTac6fyHO~lfXWYJA2jSUfNdFfjlMd2zOKINP2DbbwtM3lnwBHEa8I7Yd1b47-0aEdVU-Nxhy0CsK9gpMgMGqQ9~7fOfqZUL1H1hhDm5Gs3uGULSL0YXt1sBRFxT8bcDpE06~Di07kS2jhbEFu8x8mTg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ヤガラ市場",
+                    "stats": {
+                        "winRateAr": 0.65,
+                        "winRateLf": 0.5384615384615384,
+                        "winRateGl": 0.3,
+                        "winRateCl": null
+                    },
+                    "id": "VnNTdGFnZS0z"
+                },
+                {
+                    "vsStageId": 4,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/9b1c17b2075479d0397d2fb96efbc6fa3a28900712920e5fe1e9dfc59c6abc5c_0.png?Expires=1704844800&Signature=mBszzTRj6XoGFFMDOityD~~rQtboBXGQl0XgR1ipRHaEM8W7j8XXqqmAb2~v9mLosi2S9JAyStDeEYCPtq7bjfoMr8MVOB8HySlclQ0c~5nu47qAPnPpRW881jXTF8QkYZ5ASpE6KBvIqvxSZqw-Fun5fnOmH9RxAdWNtRk15kamyNuefXesrhRYsOctD1AocnS5CW3tzFx41pJaf58en7FyH9bikODvr3D-PoCsKfETK0JxW9UdLtO4uNeOubx4nk6rkjSFb~V8eQMs7b5~UGTt~UAkuZFu4IhDN5jvfoHHoZV31tolSEa1flc13MMf~ZUv-bFH74zCZMZk2k5Cug__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "マテガイ放水路",
+                    "stats": {
+                        "winRateAr": 0.47619047619047616,
+                        "winRateLf": 0.48484848484848486,
+                        "winRateGl": 0.0,
+                        "winRateCl": 0.3333333333333333
+                    },
+                    "id": "VnNTdGFnZS00"
+                },
+                {
+                    "vsStageId": 5,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/f14c2a64e49d243679fc0884af91e1a07dc65600f9b90aefe92d7790dcffb191_0.png?Expires=1704844800&Signature=V5billQmnXQcPAjTTYMXS7owsvnFgsGdenPUG~bhIrYq-t~16TH1~1O-7kgdzwUZ3oW0wC06VkCE~RmeZZfLnQMNYvFAuLI9JHv0yuB-dcThsVn5r0tr8loVBj6yG2m3vJHDBz28p4EfiUilPv7AMGlV3Cy0kENEl-a8dKeGZWi0w9RJRuXRqSeoB3jDyOBdA27nJgg46ETCys4oHS~TvpX879NreiChn35MJPwsDXwMXWmifaiunhuKQ~z16TerZxFSFlZv5xlmK7MhAbjjG1e~00lzFzP-5d5MZeYpSkwS9aSa09ORoB3FVCQGhkJuDRKFYxu2nIRcZBZXUtws8g__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ナンプラー遺跡",
+                    "stats": null,
+                    "id": "VnNTdGFnZS01"
+                },
+                {
+                    "vsStageId": 6,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/de1f212e9ff0648f36cd3b8e0917ef36b3bd51445159297dcb948f34a09f2f05_0.png?Expires=1704844800&Signature=XVPqrBWryE1PN6yo7pdA2GOEyGtKdmYulIC6Kh3ey7tiqKvmI44fQyGV6pjRq7s89Th4x7p278RuochaBSKwNN~AqtSt1t7pGK4kqBbrwCB7jjYkudzEO7Rz5-zOvfRl3eHzBuYMFo19Rx3jl1niNyVMkU6kZ6W0ISDyAOL9uBODTRXBoHqAOT8wZYYR~5ZGN7Ml4mMudhgifRzkqUHiMlmUYQx7MJyr88KfM2C4kYxXBszGkruJ7oucyqnUy57Hp8beishs8krABeRcbe7gbLO6Q1HF7LQJWi1kTW4amwXPAwMLaZqLbwg0Lq~z7dNT6Li5hR7UCb-cx7NSTmrdNQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ナメロウ金属",
+                    "stats": {
+                        "winRateAr": 0.5142857142857142,
+                        "winRateLf": 0.5777777777777777,
+                        "winRateGl": 0.5714285714285714,
+                        "winRateCl": null
+                    },
+                    "id": "VnNTdGFnZS02"
+                },
+                {
+                    "vsStageId": 7,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/cd84d711b47a424334569ac20f33f8e0ab6a652dc07854dcd36508a0081e9034_0.png?Expires=1704844800&Signature=e5JrfhONEcIW5U-ypjlRoKjXbiNg9etS8w0DHCCL0RLX5LjdJN~4k2chrMz4iZvwwnrbkN7SqnQJi-bEJBwlh1gt8Vl~AhIGFzdnCsin9F5MABn8K6sdSHj1qIXUIjJ2IdhfqIl5azy0SCEuypbSmS2aYN2Fj2bjp9Rv84hz3PuJwTQGGO4bJ8wXKA0P6HTWuoJ7NqNLEHPeGjVwd2TTHwzm5Gs6XFjgLV4moGzCI~LLiiugmsv6jmiPor7D~C9aieZwCdXq-ZCR8BIst0VwNvpEkHZXWSjlw5sFRAnz6b9CdOIOSCju8hwy10cAfJGn~jmiUyDc8TP6Jz6nem5iNA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "クサヤ温泉",
+                    "stats": {
+                        "winRateAr": 0.4,
+                        "winRateLf": 0.48148148148148145,
+                        "winRateGl": null,
+                        "winRateCl": null
+                    },
+                    "id": "VnNTdGFnZS03"
+                },
+                {
+                    "vsStageId": 9,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/488017f3ce712fca9fb37d61fe306343054449bb2d2bb1751d95f54a98564cae_0.png?Expires=1704844800&Signature=WJAYjw49nAhFbB15DYgYg1p9EDP2rZLCiEUI29KqwG8TRzEv3kiFVqW2Zd9LYPpXrmEm~3gQXjLT7N1m3VHP5Y0jx3P6g68ILS8NdwEH-6y8DhhNXwokKUR3N~-gJ~B5ZmZeYVljr4IPDcdtdIDzliIqKpRFVhge4J2-kwkVWBuK1~PW5rMS1GdWeLSOAwfDVYxy-Osw1SOKi3LAR2kyUYqb-pfa55GA7JYV9z8VifO4iwMGjpZVLvbQp9wd6FOg3VFW07o~y9T-bobngY54G2X9iH3J~hLVff5WPOF5AMRneG~I2ZqdSBWdGMmr~4N24TYCP5rLWifDYIG4jBaEiQ__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ヒラメが丘団地",
+                    "stats": {
+                        "winRateAr": 0.3333333333333333,
+                        "winRateLf": 0.56,
+                        "winRateGl": null,
+                        "winRateCl": null
+                    },
+                    "id": "VnNTdGFnZS05"
+                },
+                {
+                    "vsStageId": 10,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/1db8ab338b64b464df50e7f9e270e59423ff8caac6f09679a24f1b7acf3a82f3_0.png?Expires=1704844800&Signature=uCmNUCSzJz4b5QM013MchZxRw3ueSIEXCdBijiSVNSIR5ill4w8XNoHtqD7jMMEJfj3NydYy8DxICnxFmHiB5xEG8-hTe8lTrQfsYbH2dDyNCVLwzkIzpEAHMNPa5WSankuOd0h8pQzJfQSrgdN61CYr4ohdEzo-ootfqu-LglbbHraMfKFmCEbuTUGbhmrUW9yjreiYzHY0MJ5XGqXoGJNGlpG-~VfVYN95~mqAVJaAMWML9f76Uq6c2~1nMumqib~2XTf8-CRgeffEd8UnUIob4KrHIJpLpTYZYFxT65IdhTi1I3NgVmwmSYeX~1gpm~6Y5XMh6O1eoP3GvYwHqw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "マサバ海峡大橋",
+                    "stats": {
+                        "winRateAr": 0.5538461538461539,
+                        "winRateLf": 0.5652173913043478,
+                        "winRateGl": 0.45454545454545453,
+                        "winRateCl": 0.625
+                    },
+                    "id": "VnNTdGFnZS0xMA=="
+                },
+                {
+                    "vsStageId": 11,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/b9d8cfa186d197a27e075600a107c99d9e21646d116730f0843e0fff0aaba7dd_0.png?Expires=1704844800&Signature=NdlhRAnxj4dlYlUkPLRpJejcR3yTVdYP1ewf3wUb~wwVrQy5q8vYarOb4x8if5K-~qaroyjksum07VMf-HolHlNz6bWNi1qH0IHnQT4hkUHIE5PLr2uVerwlvPrI5t4A2Yn77Lk4krIrlgFVh7jJhuvppfA3oPnZdFrommFncQU5BDLoEe-BO8mlUe4nRHujmUg4xo-fHiSzvehTtecqFt7UXdBPPGRv4ObHz1f-SPcWwZ7xcPv1MBzskUWks27OJBkDl6s7rGf0Fzti2rhQVSXqg2kuvr5KUxk7rhtrUlMbJOfIog3Q8F1IqJaJigftqJHC4N-gRgzW76Gd6sgCLw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "キンメダイ美術館",
+                    "stats": {
+                        "winRateAr": 0.6923076923076923,
+                        "winRateLf": 0.48,
+                        "winRateGl": 0.8,
+                        "winRateCl": 0.35714285714285715
+                    },
+                    "id": "VnNTdGFnZS0xMQ=="
+                },
+                {
+                    "vsStageId": 12,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/8273118c1ffe1bf6fe031c7d8c9795dab52632c9b76e8e9f01f644ac5ae0ccc0_0.png?Expires=1704844800&Signature=SfiUbzwN9OaRV0zDouumepjSkco7rl8RTzF5Yhgv90uu6bmm7YSvp69A-SGiFO~zLKvgTDEhR1g7ghwnUeWm4GZOb68T2HjMX49kYY4k3vnpyHluxW~J7UUpG-1-zBA1muvWSRQ3Vyf5~U4fGWRCcG3AMKhHZIjSrnzguufaQ2u-ES5hvVYPgjjKqRsM~HRkoUAh9sPvRUYMuOWjrbgWK8rlNPBLqlAX4Q1ufLOxLp2oMXbSmSMiq6noGks65aqVVeJSvq-9GGlOqDjaHLcZNEZ-BX9FyDPRL6k~UIjnIhVxe-zwBzg8nZo44kiqUQ0WIBlndgenfGlwXipEJtxj5g__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "マヒマヒリゾート＆スパ",
+                    "stats": {
+                        "winRateAr": 0.36363636363636365,
+                        "winRateLf": 0.532608695652174,
+                        "winRateGl": 0.7142857142857143,
+                        "winRateCl": 0.5
+                    },
+                    "id": "VnNTdGFnZS0xMg=="
+                },
+                {
+                    "vsStageId": 13,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/40aba8b36a9439e2d670fde5b3478819ea8a94f9e503b9d783248a5716786f35_0.png?Expires=1704844800&Signature=YqfVGPuxjF--0LGgPWaUYc8ShKXtIfjmOVZTM4kwSzvrK7321TwotGm2y3QyOgPrBlL9F2wgn0fSZdA6q2~FN815QTbN-WOsvATayU936fnUtoIP0UMKSFZWc0J3MSTYlvA2wY4RdSAFDmJcr-v4GK8k2ZlGCXYvjYl6ZE~k5~xB74ZeyEDO0kRhGEwFvwLkjS8RzbOctLr7R0mTQ0b5pfFk3ckvDWn-5kIQYT~IGGvEB-vGaLGA-JDNOXUl0JXA8jv8VGdCSFCqH1pa2FeB~oZvUJKzXAXpzAIRHlCbcsbsL0dDwyRDIgiwJml2zUqxFcHxpkgUaVOEV3MF1ORQ3A__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "海女美術大学",
+                    "stats": {
+                        "winRateAr": 0.5079365079365079,
+                        "winRateLf": 0.48148148148148145,
+                        "winRateGl": 0.08333333333333333,
+                        "winRateCl": 0.3333333333333333
+                    },
+                    "id": "VnNTdGFnZS0xMw=="
+                },
+                {
+                    "vsStageId": 14,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/48684c69d5c5a4ffaf16b712a4895545a8d01196115d514fc878ce99863bb3e9_0.png?Expires=1704844800&Signature=ta9AiZIueWUBBUtckB3K22fvwooz5LRc5lcx76pF~Ohhb2eTTxh-TwthvmIkArrZJvRrQ~CdSR64mrX7lw8ckKO2SEaa4lxO4a~fd5vhHpQRhce4pt6356VubQv5QuSjfEVkuCYQ5UnafhVI5KKsN5Y8kYQak46tYDL4g1CYSJrv7g4HUhVYXPFv41mT6Jy62Gkanec8u1nPSbLIIn3QRreaKdjgw1so1Rs3vvy9P7ULbt-t3lJFWCmmGqeM99rIjxj8PAuhxOd8U~fzNq~~-ydIJ017aT4mDJEkIYxJpHVfRrqatqG1OXCxyU9VYPrcnkAA97a8oN27-R~a1Q7Kyw__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "チョウザメ造船",
+                    "stats": {
+                        "winRateAr": 0.4423076923076923,
+                        "winRateLf": 0.5,
+                        "winRateGl": 0.631578947368421,
+                        "winRateCl": 0.14285714285714285
+                    },
+                    "id": "VnNTdGFnZS0xNA=="
+                },
+                {
+                    "vsStageId": 15,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/a8ba96c3dbd015b7bc6ea4fa067245c4e9aee62b6696cb41e02d35139dd21fe7_0.png?Expires=1704844800&Signature=oHRfJZrZb7YuhtxFNcPNqotzrdx9y3rNLKGj9-0Oe~J5-KofB8bMW8Qj4xAmvbnf20SKlUFioiv4MEfny4xgRMEOrEoIrQLtuJUl0g6Qx-6QW4Sj5eQZOTw9Ma4Bc5~XrMcLOMZ-IEeaFxDtf~dvZsZmPPoEkwHH9HovKf3qjWOA20hf4Ttt3gTFljtIpvU28FXSUL9KghArWs0Fxsa7iAEZCG~XkEKNcLbWbnW-IOTvkvIvGUxcxdhjMFa5NWQWBXmQiQBl8mucOV4vilXKE0S-rPGjrHmOJzPNnqVdcQRv13MR-yN-AWM6SySCDuYtHDvl3BxJn9q7iln6i8zE7g__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "ザトウマーケット",
+                    "stats": {
+                        "winRateAr": 0.39285714285714285,
+                        "winRateLf": 0.5692307692307692,
+                        "winRateGl": 0.6,
+                        "winRateCl": 0.14285714285714285
+                    },
+                    "id": "VnNTdGFnZS0xNQ=="
+                },
+                {
+                    "vsStageId": 16,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/61ea801fa4ed32360dcaf83986222ded46a72dbf56194acc6d0cf4659a92ba85_0.png?Expires=1704844800&Signature=fyJmGUcjtNGIb1lZek6joHHmdBDsfYvYF4YvZBbTZa6NbNQgKFoqAb6pTUndG7Ei~As8MZiF9loaQHLHX8hGm0fKVglF~e-mjcnmHXr4jOn5Wej7~Kj-kG2Qe7sKnk3LHHs46vSZtu~jQ3rKLpvYHrVeSPxSmn17ic8e5kn6dxXijzppjvdqSLPWFexZ60JxOX6D07FyTdsFAcUb8jBgtkc6s8xmvXStMnV1cO-AhLMC4J6xmUrcdidjVJTmdTJdYSs86i998RWh48KNQgHqxe6ayspvfVMg4ITRsHb78g2gGJaTcojtiwbqRE33r5WwZ-0dnj~BwtO2lSeTbLAUtg__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "スメーシーワールド",
+                    "stats": {
+                        "winRateAr": 0.6923076923076923,
+                        "winRateLf": 0.38461538461538464,
+                        "winRateGl": 0.38461538461538464,
+                        "winRateCl": 0.7
+                    },
+                    "id": "VnNTdGFnZS0xNg=="
+                },
+                {
+                    "vsStageId": 18,
+                    "originalImage": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/0b7fd997781e03eb9d5bf1875ed070f698afc654f4fe929452c65aa26c0a35fd_0.png?Expires=1704844800&Signature=HJIqUdnkfsTPI9KisvYr8rJsZamy3fIKdy15IAPmEixQejf-0eXuiiVFAHmygB~g4NGw8J7y3PPiyH9E0zvTgnpcFKBvl15FcaTXiHIdVNMMIzrSnvtJP7l5bPM-cPm0NZzj8D191CFmbJ6vDxTI0ghBArLM3kcms41cbk3XaWg1waq51XtXy2J0QEmDldk2S9jjdS~Y3WFR04tdbfHO4x9zFvkYh0HFcQxxSgW2zu7c1sKaNC737Z0Cchs8b1AhqQBUmibxC5ZBRxj-Ryd9GvJhAG9PZhDvLmqx4VRrVweQiTCHsnS6fMBxAxbNyLpRdGezRC4JFl-40V1Yyt9qyA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "name": "マンタマリア号",
+                    "stats": null,
+                    "id": "VnNTdGFnZS0xOA=="
+                }
+            ]
+        }
+    }
+}

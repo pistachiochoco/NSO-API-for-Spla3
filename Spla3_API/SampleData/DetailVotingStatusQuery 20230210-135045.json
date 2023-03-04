@@ -1,0 +1,321 @@
+{
+    "data": {
+        "fest": {
+            "__typename": "Fest",
+            "id": "RmVzdC1KUDpKVUVBLTAwMDA0",
+            "lang": "JPja",
+            "teams": [
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpBbHBoYQ==",
+                    "teamName": "ビター",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-chocolate/a8e4c17157cd31507a9b7f4b6267d5caa0bdee317044d55a96c5496bb42228b6_0.png?Expires=1704844800&Signature=EqnopV9LI~7mojGY18~6NOL~DpZaw5yqDL5VSbjOB~HQj5rnv9cDnzR3y9bbIwAJbmnh9gqm22TQgqrPOd6kw9X2Nc32c4-MJ6kk8Ya5S9WqqLA8pGqWPcylPlAnOEcvpFNMoD4ugC3PBqPnTA7hwAQOLYLvYz1pQTYdEKwpbC7o3N9JOSLNw-XlPjaeflUU-i26d9Q2iU1bCZJzFgLkrPKQ85167mg~REI747slRwwaZlE29vKwUcW5EYYEheLUni7WP0NH9tUGFdbNq4HqAF~A1ejLFRHaQoOmZVZf0Rb5IVXEAuGo3sArosYptiz0CUvfrxSUvBszf59ro7Zo7A__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.921568573,
+                        "g": 0.121568598,
+                        "r": 0.384313703
+                    },
+                    "preVotes": {
+                        "nodes": []
+                    },
+                    "votes": {
+                        "nodes": [
+                            {
+                                "playerName": "なたがわ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/9ef02614a6da086a"
+                                }
+                            },
+                            {
+                                "playerName": "よこはらゆうき",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/ae62e41be1153565"
+                                }
+                            },
+                            {
+                                "playerName": "Savi",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/578373c481fe480a"
+                                }
+                            },
+                            {
+                                "playerName": "ぎん",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/a9db6a4dd7460ea8"
+                                }
+                            },
+                            {
+                                "playerName": "オレスシー！",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/23bfc04d15c0a8d5"
+                                }
+                            },
+                            {
+                                "playerName": "Reva.",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/761c2f16aba46070"
+                                }
+                            },
+                            {
+                                "playerName": "すだちみそしる",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c54dfd5d0cd7d5e7"
+                                }
+                            },
+                            {
+                                "playerName": "†KoD†ちゃら",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/4b9cb2e8335c67ab"
+                                }
+                            },
+                            {
+                                "playerName": "☆MANA☆",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/0826fd8e8fe90687"
+                                }
+                            },
+                            {
+                                "playerName": "υ・-・υ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c7c7f66ef6c4c9dd"
+                                }
+                            },
+                            {
+                                "playerName": "ゆゆゆー",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/54076553a2745654"
+                                }
+                            },
+                            {
+                                "playerName": "まけるまでつづけよ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/f6f66e269687d2dd"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpCcmF2bw==",
+                    "teamName": "ミルク",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-chocolate/b3bb3b4aba5b1bd4a63c897dfe4d4b3676707aa6dac39222d761bfae9fb864b1_0.png?Expires=1704844800&Signature=cuczB3WicFTGVEU7ulXxU-C0QJjSKICDC1yk~b~Misq8JZPmItWgNbtCNUkbINmiQi929oCgJCNMfNUFHA3uQFVj3zCxObYODeeIYLz3B1Y7elj01Yk-Tv6AOC03mWXcmcst6VeaRbAN2v26MJPyQf7rtbX2qeVKnrOXeHK0EX50xXExntEDcaTMrjgBUZdOkZuVTpYRxGgjOvMDJb1E~OXd~HJYXs3mVHjFfRnKI8Kd3x~rpk~uyr72peKop6SR65modYvOMchLDU7uSyTIZqiwPC5K8hqXhTprrkKxJjroqMde6KY9tdLsPSQKL-M7vEOodRDs5PGE7liKsZDs1A__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.207839996,
+                        "g": 0.349020004,
+                        "r": 0.600000024
+                    },
+                    "preVotes": {
+                        "nodes": []
+                    },
+                    "votes": {
+                        "nodes": [
+                            {
+                                "playerName": "souta☆",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/2636880258e87a29"
+                                }
+                            },
+                            {
+                                "playerName": "あーる",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/e4ab66315a64a8af"
+                                }
+                            },
+                            {
+                                "playerName": "Everglow",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/fca2408a9d70f705"
+                                }
+                            },
+                            {
+                                "playerName": "ルミ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/61d25504307c5916"
+                                }
+                            },
+                            {
+                                "playerName": "さいきょうのみなと",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/9b3e32558e58a6fe"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpDaGFybGll",
+                    "teamName": "ホワイト",
+                    "image": {
+                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-chocolate/c0276e2a150b4a61bcc46fca84c2aaef3bd09aa8e2e78baa4158e894c1685563_0.png?Expires=1704844800&Signature=p9MxSjymQp9m511k9Q10Jr0k3lpub6HAf~wAiTNo4OSvRhybrUNbQFfAlgZcu1KQLy-dEoah~39dDX-vyH2z8vTGdXTXGPaV2O0O3lTCpe60wIzyz1AKN0g955KOuv2Bs5I5oxx7U-ohjelFj-jpt7fjO~CZRedq6WORGDtAKYRLdsMR21F0dELkGDV9u5XognaFtZroIQ47TJ5VcCI0CsVSg2dqOLYTbZPdbaxSlZIn5qmUZ9dPVd-WARCUyFZlSX2M2kIaDQ~JYyyi8fqVVR23b6yiRRkWTkv4mAjZydI1d5aptdM2KhyPZRIR2J14Shlcmw1ETphIIyTyl4B9nA__&Key-Pair-Id=KNBS2THMRC385"
+                    },
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.560000002,
+                        "g": 0.75,
+                        "r": 0.839999974
+                    },
+                    "preVotes": {
+                        "nodes": []
+                    },
+                    "votes": {
+                        "nodes": [
+                            {
+                                "playerName": "も",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/23265897d81c1c33"
+                                }
+                            },
+                            {
+                                "playerName": "ミナミ°∀°",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/eb3a55600d2ac4b4"
+                                }
+                            },
+                            {
+                                "playerName": "mïľķ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/498175ff9ef801e2"
+                                }
+                            },
+                            {
+                                "playerName": "(-’’U)わんわん",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/de7cd99f6f6117db"
+                                }
+                            },
+                            {
+                                "playerName": "BiéGuánWõ!",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/7114e8a338835bf3"
+                                }
+                            },
+                            {
+                                "playerName": "Volerく'))ミ",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/5ba411365f1d71d8"
+                                }
+                            },
+                            {
+                                "playerName": "(あおとかげ・_・)",
+                                "userIcon": {
+                                    "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/3587df4c31ce92b8"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+            "undecidedVotes": {
+                "nodes": [
+                    {
+                        "playerName": "Player",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/8149e659679c7101"
+                        }
+                    },
+                    {
+                        "playerName": "ぐった",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/a31801bbe8428e17"
+                        }
+                    },
+                    {
+                        "playerName": "tok-strm",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/c93a6da003e2e207"
+                        }
+                    },
+                    {
+                        "playerName": "oribe",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/9fc93c73cb66e3c0"
+                        }
+                    },
+                    {
+                        "playerName": "Hk006",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/785e375b6feff94b"
+                        }
+                    },
+                    {
+                        "playerName": "Ryushi",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/b179e083515ce810"
+                        }
+                    },
+                    {
+                        "playerName": "0919!!",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/56610d54f66e1b50"
+                        }
+                    },
+                    {
+                        "playerName": "hikalium",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/4bfe7832c1b8ef29"
+                        }
+                    },
+                    {
+                        "playerName": "さなちゃんちゃん",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/6a8959ce54d9fc52"
+                        }
+                    },
+                    {
+                        "playerName": "らいせ",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/aa76f568301373f8"
+                        }
+                    },
+                    {
+                        "playerName": "5ync",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/da0c451d3d1096b6"
+                        }
+                    },
+                    {
+                        "playerName": "がいや",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/b6f122bd00a48c83"
+                        }
+                    },
+                    {
+                        "playerName": "もゃ～",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/bfe68183ca21a749"
+                        }
+                    },
+                    {
+                        "playerName": "Guőbáoyòu",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/52eaf8d3e150ec24"
+                        }
+                    },
+                    {
+                        "playerName": "Plåyër",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/50ca941a2cef7a40"
+                        }
+                    },
+                    {
+                        "playerName": "lil mia",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/3b32f3392d1b1643"
+                        }
+                    },
+                    {
+                        "playerName": ">lulu<",
+                        "userIcon": {
+                            "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/75e6eb1da84d404b"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

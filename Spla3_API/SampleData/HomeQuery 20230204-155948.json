@@ -1,0 +1,89 @@
+{
+    "data": {
+        "currentPlayer": {
+            "weapon": {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/weapon_illust/2d449e093c8711766e9be18d3b78d4130fc5239d3cefc2a397c6d0e49aa3dbb2_1.png?Expires=1704844800&Signature=rIV8SDPX9~WEW-Bfj1wrQpDRhCrv61V9tPyE0gHIKvz75O3UVp7arXb1Ite1nkHLHa2nRjke4mZGxnbK4f08R-F1pwgDfcgWyvGlzSd01bKfLcAhAXg839tOLuDGYqm4AFHe-lc8YhqpT2x~kpmnCkW7BcySb32fKSoq9xZQ4rpxdwuu5G~9Qp5wvNxAIsJ0xqTBz0fxBUIf4nVwwFJFardh~Man4GxtPm78b5GdA6uj6jhKLH35KezDpmaT54WnQXs-VTSdCI-PUDOse~sbesyA5Wt1JBrij1aESgV0rkK4eJj69f9y2ho5ubnOjVFYSPFi3XDNUvmLnEd9YsE~xg__&Key-Pair-Id=KNBS2THMRC385"
+                },
+                "id": "V2VhcG9uLTQx"
+            }
+        },
+        "banners": [
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/fest/juea-chocolate/46bccd11c2905095a8cd5cb9e7457ed54856282a9d5123e74f3ca071cf17bd4e_0.png?Expires=1704844800&Signature=ijpMW3FOg9xh0QwnppRWg1TAjONeKaGGSDj9o~sWC70X~RBSTo7XgnWrnFfaN4l8ZUIdhUqN2FOpvvjODysNDXoHSoUxsuxzQoTIOEjbYyvsKO8JfgFeAFpFPxCB4-ArXda08nMoQ-NGmJEHCc1xZI9gmWKAMMgEuDCFRMU5hTGnzDs7cKH0wJe3eSrdMUXguKrznyskm3GQ20FAI9UdOgbEWbuCqp1WiEbMLjSpOpJPKcjbk1q~xihHkbCkr-4ggOz4qZvPr5GQxhLVN79mXjcxnnbUEivuygBp6LR~bDjLcH7THh8wiaGv7XOWw6evm~LF3rluSxSLO2RZRET-HA__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1740,
+                    "height": 680
+                },
+                "message": "フェス開催！！",
+                "jumpTo": "/fest_record"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/d614cbb672fe000ee39c1919e5b034f2e55b702cafaff1a7cc5f37dcf7ad1024_0.png?Expires=1704844800&Signature=B9QQN9wqRjn8nDPApSTL9xD6O8RMhxOyZg65G1~Q7k0EZhYzrb5wkKNTtPiLziDqmOh7s5-ZvAWgFZorh~p23iN0jfxLh24BEmgnCd1sPMWD3coUEfzb3vkE5Aq4IP7assDFekDqMgmILYbGPfrvykalZVac~WZ6ve4VZFcYarMfr~GGyPGCCWzo8oCP05yJ-TRISUePicrpDVjP6Qt9KeYuozg5GLz9qcE3JTwOfjJHORK30fehLm8ngGX9FWFblL4Wncih-cDz1Pp~LUAzvfnrUIeRTIAoEXx3BL~6s2bMlzwgfc404GaADsm17Ru4YhsMmuYrd2cxZI5LtugRtA__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "ここだけの特別なギア販売中",
+                "jumpTo": "/gesotown"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/ecdb5afccd9cae92512e0ca8093cf6368200183d0f7fbc4fa13cebc53786a9ee_0.png?Expires=1704844800&Signature=BlfGVn~l8HIiqDRP5nSftuiJNzfU5NB0dhSFJCeupoWtvlnLd~rcgpiZG5PeWlNfBahX5ADHfHz~fUNSLT456MKYgoqw-mGdBhJNWd5-asv~49SSzrtQj~XNwpFnyjg5u38OjEYnA7KLCxgUGd4wknRJXaUO9QhqgDbJ~fHG~qTG74umeS0ktj9oGM2w-rarkps-vJAjnhpo~CKMLtHPa21qZ0UZsSdq2Z6v2LKU6jc2udm6xGjQD7ZClgdgYw4xTXhm~~-EZLBwo6tU7nbuAXoUudobFENJ2lIDXhl~7te3FOEhFUlJR0NHqwMQu1kxxfshCVHjfAisMSQCyqSf3g__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "マイコーデ",
+                "jumpTo": "/my_outfits"
+            },
+            {
+                "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/carousel_img/2a48c09a4c2bfffe07bb7929d921831936955914672b21e44a58735ce9da101b_0.png?Expires=1704844800&Signature=nTS9AjZ6NlXm5yPkINaQA0ON5iBkOUSG9~gDkoTq~epb0U46saAwFWZ1mhjjiJJUJFLePcZFzUzsmq-t1~SIpElXwyj4pWTsAJr9gjfY7NOIyn5ujTK4q4ybD7rGfEff6KNLFDFmthetCjh63oi6kcc5fOvH-D8irrbuEAe0hXffkDEFj-Q0bKultbcKqrW-~ER8nNsd-H-tQsT~8MqyhBJmNapGBjhPwoVD6yveE1ez-KAyYU5mzqIRwN5pNTqBsxF2S3fmdclQnDbUFq~0RFA~H43nztcShvkpVPR1B0B6VZDgn4tMrRu45YP8JPXBZ1~YiCrQnLGLSQuDwqGGLw__&Key-Pair-Id=KNBS2THMRC385",
+                    "width": 1600,
+                    "height": 800
+                },
+                "message": "バトル戦績",
+                "jumpTo": "/history"
+            }
+        ],
+        "friends": {
+            "nodes": [
+                {
+                    "id": "RnJpZW5kLWRkMDIzZmYxMzNlM2NjNWY=",
+                    "nickname": "ゆゆゆ",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/54076553a2745654",
+                        "width": 256,
+                        "height": 256
+                    }
+                },
+                {
+                    "id": "RnJpZW5kLTYxMGU2NDM1NjAyZTk0N2Q=",
+                    "nickname": "mïľķ",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/498175ff9ef801e2",
+                        "width": 256,
+                        "height": 256
+                    }
+                },
+                {
+                    "id": "RnJpZW5kLTMwNzVlODI0ZjU1NGMzZGE=",
+                    "nickname": "Volerく'))ミ",
+                    "userIcon": {
+                        "url": "https://cdn-image-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com/1/5ba411365f1d71d8",
+                        "width": 256,
+                        "height": 256
+                    }
+                }
+            ],
+            "totalCount": 8
+        },
+        "footerMessages": [
+            {
+                "__typename": "FooterFestMessage",
+                "festTitle": "チョコレートはやっぱりコレ！",
+                "festState": "SCHEDULED"
+            }
+        ]
+    }
+}

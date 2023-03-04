@@ -1,0 +1,44 @@
+{
+    "data": {
+        "coopRecord": {
+            "bigRunRecord": {
+                "records": {
+                    "edges": [
+                        {
+                            "node": {
+                                "startTime": "2022-12-10T00:00:00Z",
+                                "endTime": "2022-12-12T00:00:00Z",
+                                "trophy": "SILVER",
+                                "coopStage": {
+                                    "name": "スメーシーワールド",
+                                    "image": {
+                                        "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/2276a46e42a11637776ebc15cf2d46a589f1dba34a76d5c940c418ed7371d071_0.png?Expires=1704844800&Signature=LhmR6QB41bilNpXZbIhY6UNQE5Qdm4oEHs-dfsKfoU9dEmLHbfS9kH~ic9~ia97gx979FcyitQECfUAeXheHDZL8rsM38cWUMEDlqIq42HglhSSnfbZM39Vv3KbirKwbRXBwRaVnbwfaVPBS716bvewljDTrT~8xZLwSObtS8Q2SRljeD7yDhfXeqqDRO13U1hnG2F2uqCjXsvqKd0iHDZMKxKWmqtedtRuD0O7-vGiV-k51EYExi~0bNEqEUS-xLkvqNRl28zzqwaFaRYok-hiLCnbbGIXbcBfIu86TWKwN0f2uW~1K075Tlik1EBfp3ca8lT3a6f7dtKm2DjuqyA__&Key-Pair-Id=KNBS2THMRC385"
+                                    },
+                                    "id": "Q29vcFN0YWdlLTEwMA=="
+                                },
+                                "highestGrade": {
+                                    "name": "でんせつ",
+                                    "id": "Q29vcEdyYWRlLTg="
+                                },
+                                "highestGradePoint": 435,
+                                "highestJobScore": 129,
+                                "__typename": "CoopBigRunRecordItem"
+                            },
+                            "cursor": "MQ"
+                        }
+                    ],
+                    "pageInfo": {
+                        "endCursor": "MQ",
+                        "hasNextPage": false
+                    }
+                }
+            },
+            "teamContestRecord": {
+                "gold": 0,
+                "silver": 0,
+                "bronze": 0,
+                "attend": 0
+            }
+        }
+    }
+}

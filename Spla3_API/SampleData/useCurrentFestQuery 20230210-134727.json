@@ -1,0 +1,37 @@
+{
+    "data": {
+        "currentFest": {
+            "state": "SCHEDULED",
+            "teams": [
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpBbHBoYQ==",
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.921568573,
+                        "g": 0.121568598,
+                        "r": 0.384313703
+                    }
+                },
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpCcmF2bw==",
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.207839996,
+                        "g": 0.349020004,
+                        "r": 0.600000024
+                    }
+                },
+                {
+                    "id": "RmVzdFRlYW0tSlA6SlVFQS0wMDAwNDpDaGFybGll",
+                    "color": {
+                        "a": 1.0,
+                        "b": 0.560000002,
+                        "g": 0.75,
+                        "r": 0.839999974
+                    }
+                }
+            ],
+            "id": "RmVzdC1KUDpKVUVBLTAwMDA0"
+        }
+    }
+}

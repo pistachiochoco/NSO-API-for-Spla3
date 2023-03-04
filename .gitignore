@@ -1,1 +1,6 @@
 config.txt
+main.js
+
+venv/
+.idea/
+.DS_Store

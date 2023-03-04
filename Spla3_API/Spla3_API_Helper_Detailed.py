@@ -2,6 +2,7 @@ import NSO_API, NSO_API_Helper
 import os, sys, json, re
 import requests
 from bs4 import BeautifulSoup
+import datetime
 
 SPLA3_API_URL = NSO_API.SPLA3_API_URL
 self_path = os.path.dirname(__file__)
@@ -22,8 +23,8 @@ except(FileExistsError):
 WEB_SERVICE_TOKEN = ""
 BULLET_TOKEN = ""
 USER_LANGUAGE = 'ja-JP'  # For fetching sample data I use Japanese for convenience.
-WEB_VIEW_VERSION = "2.0.0-bd36a652"  # Can be loaded from ./Data/web_view_ver.json.
-NSO_APP_VERSION = "2.4.0"
+WEB_VIEW_VERSION = "3.0.0-2857bc50"  # Can be loaded from ./Data/web_view_ver.json.
+NSO_APP_VERSION = "2.5.0"
 
 QUERY_ID = {
     "CheckinWithQRCodeMutation": "8d54e1c6bdcc65181f65adc582914ad8",
@@ -95,7 +96,7 @@ QUERY_ID = {
     "SettingQuery": "61228d553e7463c203e05e7810dd79a7",
     "StageRecordQuery": "f08a932d533845dde86e674e03bbb7d3",
     "StageRecordsRefetchQuery": "2fb1b3fa2d40c9b5953ea1ae263e54c1",
-    "StageScheduleQuery": "730cd98e84f1030d3e9ac86b6f1aae13",
+    "StageScheduleQuery": "011e394c0e384d77a0701474c8c11a20",
     "VsHistoryDetailPagerRefetchQuery": "994cf141e55213e6923426caf37a1934",
     "VsHistoryDetailQuery": "291295ad311b99a6288fc95a5c4cb2d2",
     "WeaponRecordQuery": "5f279779e7081f2d14ae1ddca0db2b6e",
@@ -109,7 +110,11 @@ QUERY_ID = {
     "myOutfitCommonDataEquipmentsQuery": "d29cd0c2b5e6bac90dd5b817914832f8",
     "myOutfitCommonDataFilteringConditionQuery": "d02ab22c9dccc440076055c8baa0fa7a",
     "refetchableCoopHistory_coopResultQuery": "2a7f4335bcf586d904db85e75ba868c0",
-    "useCurrentFestQuery": "c0429fd738d829445e994d3370999764"
+    "useCurrentFestQuery": "c0429fd738d829445e994d3370999764",
+    # 2.5.0
+    "CoopRecordQuery": "b2f05c682ed2aeb669a86a3265ceb713",
+    "CoopRecordBigRunRecordContainerPaginationQuery": "2b83817b6e88b202d25939fe04658d33"
+
 }
 
 WIDGET_QUERY_ID = {
@@ -209,7 +214,7 @@ def get_sample_data(query_name):
             # "isXBattle": False,
             # "isLeague": False,
             # "isPrivate": False
-            # "festId": "RmVzdC1KUDpKVUVBLTAwMDAy"
+            # "festId": "RmVzdC1KUDpKVUVBLTAwMDA0"
             # "id": "RmVzdC1KUDpKVUVBLTAwMDAy"
             # "id": "Q2hhbGxlbmdlSm91cm5leS1qb3VybmV5XzE"
 
@@ -221,7 +226,9 @@ def get_sample_data(query_name):
         print("Request failed.")
         sys.exit(1)
     text = json.loads(response.text)
-    NSO_API_Helper.save_data(text, f"{query_name}.json", data_path)
+    now = datetime.datetime.now()
+    now_str = now.strftime('%Y%m%d-%H%M%S')
+    NSO_API_Helper.save_data(text, f"{query_name} {now_str}.json", data_path)
 
 
 def get_widget_sample_data(query_name):
@@ -261,7 +268,7 @@ def get_widget_sample_data(query_name):
         "id": operation_id,
         "operationName": operation_type,
         "variables": {
-            # "first": 6
+            # "first": "6"
         }
     }
     response = requests.post(url, headers=header, json=body)
@@ -269,12 +276,15 @@ def get_widget_sample_data(query_name):
         print("Request failed.")
         sys.exit(1)
     text = json.loads(response.text)
-    NSO_API_Helper.save_data(text, f"{query_name}.json", widget_data_path)
+    now = datetime.datetime.now()
+    now_str = now.strftime('%Y.%m.%d %H:%M:%S')
+    NSO_API_Helper.save_data(text, f"{query_name} {now_str}.json", widget_data_path)
     return
+
 
 if __name__ == '__main__':
     load_tokens()
     # load_query_ids()
-    get_sample_data("Query name here")
-    get_widget_sample_data("Query name here")
+    get_sample_data("StageScheduleQuery")
+    # get_widget_sample_data("Query name here")
     sys.exit(0)

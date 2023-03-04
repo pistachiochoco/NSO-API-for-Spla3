@@ -110,7 +110,11 @@ def get_web_view_ver(file_name):
     content = main_js_file.read()
     main_js_file.close()
 
-    pattern = r"IX=\"(?P<ver2>[0-9a-z]{40})\"..void 0[\S]*\"revision_info_not_set\"\}`...=`(?P<ver1>\d+\.\d+\.\d+)"
+    # 2.4.0
+    # pattern = r"IX=\"(?P<ver2>[0-9a-z]{40})\"..void 0[\S]*\"revision_info_not_set\"\}`...=`(?P<ver1>\d+\.\d+\.\d+)"
+    # 2.5.0
+    pattern = r"fJ=\"(?P<ver2>[0-9a-z]{40})\"..void 0[\S]*\"revision_info_not_set\"\}`...=`(?P<ver1>\d+\.\d+\.\d+)"
+
 
     match = re.search(pattern, content)
     ver1 = match.group("ver1")
@@ -160,11 +164,42 @@ def save_data(data, name, path):
     return
 
 
+def query_id_diff():
+    path_old = os.path.join(self_path + '/Data/2.4.0')
+    id_file_old = open(os.path.join(path_old, 'query_id_data.json'), "r")
+    id_old = json.load(id_file_old)
+    id_file_old.close()
+    path_new = os.path.join(self_path + '/Data/2.5.0')
+    id_file_new = open(os.path.join(path_new, 'query_id_data.json'), "r")
+    id_new = json.load(id_file_new)
+    id_file_new.close()
+
+    # ID changed
+    print("ID changed")
+    for key, val in id_old.items():
+        if key in id_new and id_new[key] != val:
+            print(f"| {key} | `{id_new[key]}` | `{val}` |")
+
+    # Removed
+    print("Removed")
+    for key, val in id_old.items():
+        if key not in id_new:
+            print(f"| {key} | - | `{val}` |")
+
+    # Added
+    print("Added")
+    for key, val in id_new.items():
+        if key not in id_old:
+            print(f"| {key} | `{val}` | - |")
+
+
 if __name__ == '__main__':
     web_service_token = load_tokens()
     get_main_js_file(web_service_token)
     get_query_data(FILE_NAME)
     get_web_view_ver(FILE_NAME)
     get_language_code(FILE_NAME)
+
+    #query_id_diff()
 
     sys.exit(0)
